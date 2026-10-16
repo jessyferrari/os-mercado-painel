@@ -36,4 +36,4 @@ small,.mut{{color:#8b98a5;font-size:13px}}a{{color:#58a6ff}}li{{margin:0 0 10px;
 <div class="card"><h2>Indicação</h2><div class="rec">{d['rec']}</div><p>{E(d['reason'])}</p></div>
 <div class="card"><h2>Fontes</h2><p class="mut">{src}</p><p class="mut">Dados de agregadores públicos, com possível atraso; não é cotação em tempo real. Onde há conflito, está indicado.</p></div>
 <p><b>Isso não é aconselhamento financeiro. A decisão e o risco são exclusivamente do investidor.</b></p></body></html>'''
-open('site/index.html','w').write(out)
+open('index.html','w').write(out)
