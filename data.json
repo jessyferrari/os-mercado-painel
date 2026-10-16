@@ -1,0 +1,22 @@
+{
+ "updated": "16/10/2026 20:05",
+ "price": 36.65, "price_label": "Fechamento (ADVFN, 17:55)", "change_pct": 1.10,
+ "alt_price": "R$ 36,75 às 16h35 (+1,38%) segundo Renova Invest. Conflito entre fontes; valor oficial B3 de hoje ainda não disponível.",
+ "prev_close": 36.25, "prev_src": "BolsaData/B3 COTAHIST, 15/10/2026",
+ "ma50": 36.38, "ma200": 31.86, "ma_src": "QuantBrasil (SMA diária, 14/10/2026)",
+ "ma_alt": "Toolz: SMA50 R$ 36,44 / SMA200 R$ 32,29. Investing.com mostra ~33,2 (desatualizado, descartado).",
+ "support": 36.19, "resistance": 40.85, "sr_src": "Toolz",
+ "high52": 41.27,
+ "volume": "Hoje: não disponível. 15/10: R$ 415,5 mi (média 30 pregões: R$ 493,0 mi) — BolsaData/CapitalAgora (B3).",
+ "consensus": "Consenso ADVFN (16 analistas): alvo médio R$ 41,68 (faixa R$ 27,00–48,00), ~+14% de alta; 13 compra, 3 neutro, 0 venda.",
+ "targets": [["BTG Pactual","Compra","R$ 42,00 (12 meses)"],["Morgan Stanley","Neutra (rebaixou de overweight)","R$ 43,00 (fim de 2027)"]],
+ "news": [
+  ["Vibra esclarece à CVM divergência com Petrobras sobre plano de debranding (contrato vale até 28/06/2029; sem processo judicial)","Acionista.com.br","16/10/2026","https://acionista.com.br/vibra-energia-vbbr3-esclarece-divergencia-sobre-plano-de-debranding-com-petrobras/"],
+  ["Vibra diz manter divergência com a Petrobras sobre plano de retirada de marcas","Estadão","15/10/2026","https://www.estadao.com.br/economia/negocios/vibra-diz-manter-divergencia-com-a-petrobras-sobre-plano-de-retirada-de-marcas/"],
+  ["Prévia do 3T26: BTG projeta Ebitda ajustado de R$ 3,8 bi, mantém compra e alvo de R$ 42","Eu Quero Investir","15/10/2026","https://euqueroinvestir.com/acoes/vibra-previa-3t26-btg"],
+  ["Morgan Stanley rebaixa Vibra para neutra e eleva alvo para R$ 43: setor 'precificado à perfeição'","Finance News","08/10/2026","https://financenews.com.br/2026/10/entenda-por-que-o-morgan-stanley-alterou-a-recomendacao-para-a-vibra-e-a-ultrapar/"]
+ ],
+ "rec": "COMPRA (moderada)",
+ "reason": "Preço acima de MA50 e MA200, perto do suporte de R$ 36,19 e ~14% abaixo do alvo médio. Risco: normalização das margens do setor (Morgan Stanley projeta queda de EPS em 2027); perder R$ 36,2–36,4 enfraquece o cenário.",
+ "sources": [["Renova Invest","https://renovainvest.com.br/acoes/vbbr3/"],["BolsaData","https://bolsadata.com.br/acoes/vbbr3"],["CapitalAgora","https://capitalagora.com.br/acoes/VBBR3"],["QuantBrasil","https://quantbrasil.com.br/ativos/VBBR3/"],["Toolz","https://toolz.trade/pt/acoes-vibra/"],["ADVFN","https://br.advfn.com/bolsa-de-valores/bovespa/vibra-energia-on-VBBR3/previsoes"]]
+}
