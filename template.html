@@ -1,0 +1,71 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>O.S Mercado · VBBR3</title>
+<style>
+:root{--c:#00e5ff;--g:#39ff88;--m:#ff2bd6;--bg:#05080d}
+*{box-sizing:border-box}
+body{margin:0 auto;max-width:640px;padding:14px;color:#e6edf3;font:16px/1.45 system-ui,sans-serif;background:var(--bg);
+background-image:linear-gradient(rgba(0,229,255,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(0,229,255,.05) 1px,transparent 1px);background-size:28px 28px}
+.mono,.num,.big,.clock{font-family:ui-monospace,"SF Mono",Menlo,Consolas,"Courier New",monospace}
+h1{font-size:18px;margin:4px 0;color:var(--c);text-shadow:0 0 8px rgba(0,229,255,.7)}
+.cli{font-size:14px;margin-bottom:6px}
+.card{background:rgba(12,18,26,.92);border:1px solid rgba(0,229,255,.35);border-radius:14px;padding:14px;margin:12px 0;box-shadow:0 0 14px rgba(0,229,255,.12),inset 0 0 18px rgba(0,229,255,.04)}
+h2{font-size:14px;text-transform:uppercase;letter-spacing:.12em;color:var(--m);margin:0 0 8px;text-shadow:0 0 8px rgba(255,43,214,.6)}
+.clockbox{position:relative;overflow:hidden;text-align:center;border:1px solid var(--c);border-radius:16px;padding:16px 10px;margin:12px 0;background:#04090f;
+box-shadow:0 0 18px rgba(0,229,255,.5),0 0 40px rgba(255,43,214,.18),inset 0 0 22px rgba(0,229,255,.12);animation:pulse 3s ease-in-out infinite}
+.clockbox:after{content:"";position:absolute;left:0;right:0;height:40%;top:-40%;background:linear-gradient(transparent,rgba(0,229,255,.12),transparent);animation:scan 4s linear infinite;pointer-events:none}
+.clabel{font:700 12px ui-monospace,Menlo,Consolas,monospace;letter-spacing:.3em;text-transform:uppercase;color:var(--m);text-shadow:0 0 8px var(--m)}
+.clock{font-size:clamp(40px,14vw,76px);font-weight:700;color:var(--g);letter-spacing:.04em;text-shadow:0 0 6px var(--g),0 0 18px var(--g),0 0 38px rgba(57,255,136,.6);font-variant-numeric:tabular-nums}
+.cdate{font:600 clamp(13px,3.8vw,17px) ui-monospace,Menlo,Consolas,monospace;color:var(--c);text-shadow:0 0 8px var(--c);text-transform:capitalize}
+@keyframes pulse{50%{box-shadow:0 0 26px rgba(0,229,255,.8),0 0 56px rgba(255,43,214,.3),inset 0 0 26px rgba(0,229,255,.18)}}
+@keyframes scan{to{top:140%}}
+.big{font-size:36px;font-weight:700;color:var(--c);text-shadow:0 0 6px var(--c),0 0 20px rgba(0,229,255,.6)}
+.up{color:var(--g);text-shadow:0 0 8px var(--g);font-size:18px}
+.row{display:flex;justify-content:space-between;gap:8px;padding:6px 0;border-bottom:1px solid rgba(0,229,255,.15)}
+.row i{font-style:normal;color:#8fa3b5}
+.num,.row b{color:var(--g);text-shadow:0 0 8px rgba(57,255,136,.6)}
+.warn,.warn b{color:#ffd23f;text-shadow:0 0 8px rgba(255,210,63,.7)}
+.alert{background:#2a2206;border:1px solid #ffd23f;color:#ffd23f;border-radius:10px;padding:8px 10px;margin-bottom:8px;font-weight:700;box-shadow:0 0 12px rgba(255,210,63,.4)}
+small,.mut{color:#8fa3b5;font-size:13px}a{color:#58a6ff}
+.rec{font:700 22px ui-monospace,Menlo,Consolas,monospace;color:var(--g);text-shadow:0 0 6px var(--g),0 0 18px rgba(57,255,136,.6)}
+#news{height:420px;overflow-y:auto;padding:4px;-webkit-overflow-scrolling:touch;scrollbar-width:thin;scrollbar-color:var(--m) #0a0f16}
+.ncard{display:flex;gap:10px;align-items:flex-start;text-decoration:none;color:#e6edf3;background:#070b12;border:1px solid var(--m);border-radius:12px;padding:12px;margin:0 0 12px;box-shadow:0 0 10px rgba(255,43,214,.45),inset 0 0 12px rgba(255,43,214,.08)}
+.ncard:nth-child(even){border-color:var(--c);box-shadow:0 0 10px rgba(0,229,255,.45),inset 0 0 12px rgba(0,229,255,.08)}
+.arrow{color:var(--g);font-size:20px;text-shadow:0 0 8px var(--g);line-height:1.2}
+.nb{display:flex;flex-direction:column;gap:4px}
+.ntime{font:700 14px ui-monospace,Menlo,Consolas,monospace;color:var(--g);text-shadow:0 0 8px rgba(57,255,136,.7)}
+.ntitle{font-weight:600}.nsrc{font:12px ui-monospace,Menlo,Consolas,monospace;color:var(--c)}
+</style></head><body>
+<div class="cli"><b>Cliente: Antonio de A. C.</b></div><h1>O.S Mercado · VBBR3 • Vibra Energia</h1><div class="mut">Dados atualizados em @@UPDATED@@ (Brasília)</div>
+<div class="clockbox"><div class="clabel">Horário de Brasília</div><div class="clock" id="clk">--:--:--</div><div class="cdate" id="cdt">&nbsp;</div></div>
+<div class="card">@@ALERTS@@<div class="big">@@PRICE@@ <span class="up">@@CHG@@</span></div>
+<div class="mut">@@PLABEL@@</div><p class="mut">⚠ @@ALT@@</p>
+<div class="row"><span>Fechamento anterior</span><b>@@PREV@@</b><i>@@PREVSRC@@</i></div>
+<div class="row"><span>Máxima 52 sem.</span><b>@@H52@@</b><i></i></div></div>
+<div class="card"><h2>Médias móveis</h2>@@ROWS@@<p class="mut">Fonte: @@MASRC@@. @@MAALT@@ Alerta quando distância ≤ 2%.</p></div>
+<div class="card"><h2>Suporte / Resistência</h2><div class="row"><span>Suporte</span><b>@@SUP@@</b><i>@@SUPD@@</i></div><div class="row"><span>Resistência</span><b>@@RES@@</b><i>@@RESD@@</i></div><p class="mut">Fonte: @@SRSRC@@</p></div>
+<div class="card"><h2>Volume</h2><p>@@VOL@@</p></div>
+<div class="card"><h2>Analistas</h2><p>@@CONS@@</p>@@TG@@</div>
+<div class="card"><h2>Últimas notícias</h2><div id="news">@@CARDS@@</div><p class="mut">Mais recentes primeiro. Rolagem automática lenta; toque ou passe o mouse para pausar e role à vontade. Horários de publicação em Brasília conforme a fonte.</p></div>
+<div class="card"><h2>Indicação</h2><div class="rec">@@REC@@</div><p>@@REASON@@</p></div>
+<div class="card"><h2>Fontes</h2><p class="mut">@@SRC@@</p><p class="mut">Dados de agregadores públicos, com possível atraso; não é cotação em tempo real. Onde há conflito, está indicado.</p></div>
+<p><b>Isso não é aconselhamento financeiro. A decisão e o risco são exclusivamente do investidor.</b></p>
+<script>
+(function(){
+var tz='America/Sao_Paulo';
+var ft=new Intl.DateTimeFormat('pt-BR',{timeZone:tz,hour:'2-digit',minute:'2-digit',second:'2-digit',hour12:false});
+var fd=new Intl.DateTimeFormat('pt-BR',{timeZone:tz,weekday:'long',day:'2-digit',month:'long',year:'numeric'});
+function tick(){var n=new Date();document.getElementById('clk').textContent=ft.format(n);document.getElementById('cdt').textContent=fd.format(n);}
+tick();setInterval(tick,1000);
+var box=document.getElementById('news'),kids=box.innerHTML;
+if(box.scrollHeight>box.clientHeight){box.innerHTML=kids+kids;}
+var pos=0,last=null,paused=false,resume=null,SPEED=30;
+function pause(){paused=true;clearTimeout(resume);}
+function later(){clearTimeout(resume);resume=setTimeout(function(){pos=box.scrollTop;paused=false;},3000);}
+box.addEventListener('mouseenter',pause);box.addEventListener('mouseleave',later);
+['touchstart','wheel','pointerdown'].forEach(function(e){box.addEventListener(e,function(){pause();later();},{passive:true});});
+box.addEventListener('touchend',later,{passive:true});
+function step(t){
+ if(last!==null&&!paused){pos+=SPEED*(t-last)/1000;var half=box.scrollHeight/2;if(pos>=half)pos-=half;box.scrollTop=pos;}
+ last=t;requestAnimationFrame(step);}
+requestAnimationFrame(step);
+})();
+</script></body></html>
