@@ -6,3 +6,7 @@ Público: https://jessyferrari.github.io/os-mercado-painel/  (GitHub Pages, repo
 4. git add -A && git commit -m "update HH:MM" && git push   (gh já autenticado como jessyferrari)
 5. Pages republica em ~1 min. Verificar com WebFetch.
 Netlify (site os-mercado-vbbr3, id b86bbbc3-15d5-4c1e-a6e1-f987cb74a1aa) está sem créditos: deploy falha com "Skipped due to account credit usage exceeded".
+
+## Regras permanentes
+1. Nunca usar travessão (—) nem meia-risca (–). Usar • no lugar (build.py sanitiza a saída).
+2. O painel começa com a linha "Cliente: Antonio de A. C.".

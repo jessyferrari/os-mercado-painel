@@ -22,8 +22,8 @@ h1{{font-size:18px;margin:4px 0}}.card{{background:#141a22;border:1px solid #222
 .big{{font-size:34px;font-weight:700}}.up{{color:#3fb950}}.row{{display:flex;justify-content:space-between;gap:8px;padding:6px 0;border-bottom:1px solid #1f2833}}.row i{{font-style:normal;color:#8b98a5}}
 .warn{{color:#f0b429}}.alert{{background:#3a2d0a;color:#f0b429;border-radius:10px;padding:8px 10px;margin-bottom:8px;font-weight:600}}
 small,.mut{{color:#8b98a5;font-size:13px}}a{{color:#58a6ff}}li{{margin:0 0 10px;list-style:none}}ul{{padding:0;margin:0}}li small{{display:block}}
-.rec{{font-size:22px;font-weight:700;color:#3fb950}}h2{{font-size:14px;text-transform:uppercase;letter-spacing:.06em;color:#8b98a5;margin:0 0 8px}}</style></head><body>
-<h1>O.S Mercado · VBBR3 — Vibra Energia</h1><div class="mut">Atualizado em {d['updated']} (Brasília)</div>
+.rec{{font-size:22px;font-weight:700;color:#3fb950}}h2{{font-size:14px;text-transform:uppercase;letter-spacing:.06em;color:#8b98a5;margin:0 0 8px}}.cli{{font-size:14px;color:#e6edf3;margin-bottom:6px}}</style></head><body>
+<div class="cli"><b>Cliente: Antonio de A. C.</b></div><h1>O.S Mercado · VBBR3 • Vibra Energia</h1><div class="mut">Atualizado em {d['updated']} (Brasília)</div>
 <div class="card">{al}<div class="big">{f(p)} <span class="up" style="font-size:18px">{sign(d['change_pct'])}</span></div>
 <div class="mut">{d['price_label']}</div><p class="mut">⚠ {E(d['alt_price'])}</p>
 <div class="row"><span>Fechamento anterior</span><b>{f(d['prev_close'])}</b><i>{d['prev_src']}</i></div>
@@ -36,4 +36,5 @@ small,.mut{{color:#8b98a5;font-size:13px}}a{{color:#58a6ff}}li{{margin:0 0 10px;
 <div class="card"><h2>Indicação</h2><div class="rec">{d['rec']}</div><p>{E(d['reason'])}</p></div>
 <div class="card"><h2>Fontes</h2><p class="mut">{src}</p><p class="mut">Dados de agregadores públicos, com possível atraso; não é cotação em tempo real. Onde há conflito, está indicado.</p></div>
 <p><b>Isso não é aconselhamento financeiro. A decisão e o risco são exclusivamente do investidor.</b></p></body></html>'''
+out=out.replace(' \u2014 ',' • ').replace(' \u2013 ',' • ').replace('\u2014','•').replace('\u2013','•')
 open('index.html','w').write(out)
