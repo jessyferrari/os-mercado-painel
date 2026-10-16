@@ -1,9 +1,9 @@
 {
- "updated": "16/10/2026 20:30",
+ "updated": "16/10/2026 20:27",
  "price": 36.65,
  "price_label": "Fechamento (ADVFN, 17:55)",
  "change_pct": 1.1,
- "alt_price": "R$ 36,75 às 16h35 (+1,38%) segundo Renova Invest; Twelve Data mostra fechamento de R$ 36,81 (+1,07%) na tabela histórica, com volume parcial, e R$ 36,65 no cabeçalho (17h05). Conflito entre fontes; valor oficial B3 ainda não confirmado.",
+ "alt_price": "R$ 36,75 às 16h35 (+1,38%) segundo Renova Invest; Twelve Data mostra fechamento de R$ 36,81 (+1,07%) na tabela histórica, com volume parcial, e R$ 36,65 no cabeçalho (17h05). Conflito entre fontes; arquivo oficial B3 (COTAHIST) de 16/10 ainda não publicado às 20h27 (BolsaData e CapitalAgora seguem em 15/10).",
  "prev_close": 36.25,
  "prev_src": "BolsaData/B3 COTAHIST, 15/10/2026",
  "ma50": 36.38,
@@ -100,6 +100,18 @@
    "fonte": "InfoMoney",
    "url": "https://www.infomoney.com.br/mercados/vbbr3-ugpa3-distribuidoras-ficaram-fora-da-festa-da-bolsa-mas-por-que-o-bbi-segue-otimista/",
    "publicado_em": "2026-10-16T12:00:00-03:00"
+  },
+  {
+   "titulo": "BTG espera Ebitda ajustado de cerca de R$ 3,8 bi da Vibra no 3T26; alvo de R$ 42 (Rápidas)",
+   "fonte": "Finance News",
+   "url": "https://financenews.com.br/2026/10/rapidas-petrobras-vale-bb-seguridade-unifique-eneva-vibra-mitre/",
+   "publicado_em": "2026-10-16T11:10:17-03:00"
+  },
+  {
+   "titulo": "ANP publica na terça (20/10) o levantamento de preços de combustíveis de 11 a 17/10",
+   "fonte": "ANP (gov.br)",
+   "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/levantamento-de-precos-de-combustiveis-11-a-17-10-sera-publicado-na-terca-20-10",
+   "publicado_em": "2026-10-16T13:10:00-03:00"
   }
  ],
  "rec": "COMPRA (moderada)",
