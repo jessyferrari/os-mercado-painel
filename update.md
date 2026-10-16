@@ -13,9 +13,10 @@ Netlify (site os-mercado-vbbr3, id b86bbbc3-15d5-4c1e-a6e1-f987cb74a1aa) está s
 3. Não aparecer nenhum — ou – no index.html (build.py sanitiza; conferir com grep após o deploy).
 4. Ressalva obrigatória no rodapé: "Isso não é aconselhamento financeiro. A decisão e o risco são exclusivamente do investidor."
 
-## Estrutura (redesenho tech/neon)
-- template.html: layout, CSS neon e JS. Edite o visual aqui; build.py só preenche os @@MARCADORES@@.
-- Relógio ao vivo no topo (acima do preço): JS com Intl, fuso America/Sao_Paulo, rótulo "Horário de Brasília", data completa e HH:MM:SS a cada segundo.
-- data.json "news" é uma lista de objetos: {"titulo","fonte","url","publicado_em"}. publicado_em em ISO com fuso (ex. "2026-10-16T17:41:00-03:00"); se a fonte não informar a hora, usar só a data ("2026-10-16") e o painel mostra "hora não informada". Nunca inventar hora. Verificar data/hora com WebFetch na matéria.
-- build.py ordena por publicado_em (mais recentes primeiro). Rotinas apenas ADICIONAM itens (e podem remover os mais antigos; manter pelo menos 8).
-- Seção "Últimas notícias": cartões neon com seta ➤, data/hora, título, fonte e link; rolagem automática lenta (~30 px/s, constante SPEED no template), pausa ao tocar/hover/rolar e retoma após 3 s.
+## Estrutura (layout sóbrio, v3)
+- template.html: layout, CSS e JS. build.py só preenche os @@MARCADORES@@ (@@TICKER@@ = linhas da faixa, @@CARDS@@ = lista do painel).
+- Relógio: barra compacta (52px) com HH:MM:SS e data de Brasília ao vivo (Intl, America/Sao_Paulo), leve brilho só no relógio.
+- Faixa "Últimas notícias" logo abaixo do relógio e acima do preço: altura de 1 linha (40px), fundo neon ciano/azul escuro, loop vertical contínuo, 4,5 s por notícia (transição de 0,6 s), mostra HH:MM (ou dd/mm se sem hora) + fonte + título (10 mais recentes). Seta ▾/▴ à direita. Clicar na seta ou na faixa expande painel com lista completa (título, fonte, data/hora de Brasília, link). Fecha clicando na seta de novo ou fora do painel. prefers-reduced-motion: sem animação (mostra a mais recente).
+- Cores: títulos de seção e contornos dos cartões em dourado (#D4AF37). Sem magenta. Neon forte só na faixa de notícias.
+- data.json "news": lista de {"titulo","fonte","url","publicado_em"}. publicado_em em ISO com fuso (ex. "2026-10-16T17:41:00-03:00"); sem hora na fonte, só a data ("2026-10-16"), painel mostra "hora não informada". Nunca inventar hora; verificar na matéria (datePublished/WebFetch). build.py ordena por data/hora (mais recentes primeiro). Rotinas só ADICIONAM itens (manter pelo menos 8).
+- Validar JS: extrair <script> do index.html e rodar node --check.
