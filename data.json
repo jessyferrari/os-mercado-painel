@@ -1,9 +1,9 @@
 {
- "updated": "16/10/2026 20:27",
+ "updated": "17/10/2026 08:30",
  "price": 36.65,
- "price_label": "Fechamento (ADVFN, 17:55)",
+ "price_label": "Fechamento oficial 16/10 (B3 COTAHIST via BolsaData)",
  "change_pct": 1.1,
- "alt_price": "R$ 36,75 às 16h35 (+1,38%) segundo Renova Invest; Twelve Data mostra fechamento de R$ 36,81 (+1,07%) na tabela histórica, com volume parcial, e R$ 36,65 no cabeçalho (17h05). Conflito entre fontes; arquivo oficial B3 (COTAHIST) de 16/10 ainda não publicado às 20h27 (BolsaData e CapitalAgora seguem em 15/10).",
+ "alt_price": "Fechamento de sexta (16/10) confirmado no arquivo oficial da B3: abertura R$ 36,42, máxima R$ 37,04, mínima R$ 36,22, fechamento R$ 36,65 (+1,10%). Próximo pregão: segunda, 19/10.",
  "prev_close": 36.25,
  "prev_src": "BolsaData/B3 COTAHIST, 15/10/2026",
  "ma50": 36.38,
@@ -14,7 +14,7 @@
  "resistance": 40.85,
  "sr_src": "Toolz",
  "high52": 41.27,
- "volume": "Hoje: não disponível. 15/10: R$ 415,5 mi (média 30 pregões: R$ 493,0 mi) • BolsaData/CapitalAgora (B3).",
+ "volume": "16/10: R$ 345,1 mi (média 30 pregões: R$ 521,3 mi; 07/10 arredondado a R$ 1,0 bi na fonte) • BolsaData (B3 COTAHIST).",
  "consensus": "Consenso ADVFN (16 analistas): alvo médio R$ 41,68 (faixa R$ 27,00•48,00), ~+14% de alta; 13 compra, 3 neutro, 0 venda.",
  "targets": [
   [
@@ -112,6 +112,24 @@
    "fonte": "ANP (gov.br)",
    "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/levantamento-de-precos-de-combustiveis-11-a-17-10-sera-publicado-na-terca-20-10",
    "publicado_em": "2026-10-16T13:10:00-03:00"
+  },
+  {
+   "titulo": "Vibra vê disparada no interesse por embandeiramento Petrobras em cenário de formalização do setor",
+   "fonte": "Radar Energia",
+   "url": "https://portalradarenergia.com.br/noticias/vibra-ve-disparada-no-interesse-por-embandeiramento-petrobras-em-cenario-de-form-749ba8e6",
+   "publicado_em": "2026-10-16T08:21:00-03:00"
+  },
+  {
+   "titulo": "CBIE: Petrobras não reajustou preços nas refinarias de 9 a 15/10; Brent sobe 1,15% no período, a US$ 105,92",
+   "fonte": "CBIE",
+   "url": "https://cbie.com.br/analise-semanal-da-defasagem-16-10-2026/",
+   "publicado_em": "2026-10-16T11:53:50-03:00"
+  },
+  {
+   "titulo": "Agenda da semana: IGP-10 e Boletim Focus na segunda (19/10); IPCA-15 de outubro no radar",
+   "fonte": "TradeMap",
+   "url": "https://trademap.com.br/noticias/news-8446002",
+   "publicado_em": "2026-10-16T17:30:00-03:00"
   }
  ],
  "rec": "COMPRA (moderada)",
