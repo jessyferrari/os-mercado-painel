@@ -1,21 +1,21 @@
 {
- "updated": "19/10/2026 15:45",
- "price": 36.12,
- "price_label": "Intraday 19/10 15h30 (QuantBrasil)",
- "change_pct": -1.45,
- "alt_price": "Pregão 19/10 ao vivo: QuantBrasil R$ 36,12 (-1,45%) às 15h30 • abertura R$ 36,76, máx. R$ 36,76, mín. R$ 35,73, vol. ~R$ 201,25 mi. Toolz R$ 36,11 (-1,47%), possivelmente com atraso. Fech. anterior R$ 36,65 (16/10). Brent ~US$ 110 (+0,15% por volta de 15h, Valor Investe), após cair ~1,5% pela manhã.",
+ "updated": "19/10/2026 17:45",
+ "price": 36.29,
+ "price_label": "Fechamento 19/10 (QuantBrasil, atualizado 17h30)",
+ "change_pct": -0.98,
+ "alt_price": "Pregão 19/10 encerrado: QuantBrasil R$ 36,29 (-0,98%) às 17h30 • abertura R$ 36,76, máx. R$ 36,76, mín. R$ 35,73, vol. ~R$ 247,07 mi. Toolz confirma R$ 36,29 (-0,98%, -R$ 0,36). Fech. anterior R$ 36,65 (16/10). Ibovespa -0,17% a 205.079 pts; Brent -0,3% a US$ 109,55; PETR4 -2,82% (InfoMoney/Valor Investe).",
  "prev_close": 36.65,
  "prev_src": "BolsaData/B3 COTAHIST, 16/10/2026",
  "ma50": 36.45,
  "ma200": 32.03,
- "ma_src": "QuantBrasil (SMA diária, 19/10/2026 15h30)",
- "ma_alt": "Toolz não exibiu médias nesta leitura (antes: SMA50 R$ 36,45 / SMA200 R$ 32,34). Distância ao preço (QuantBrasil R$ 36,12): MA50 -0,91% (abaixo, a menos de 1%); MA200 +12,77% (acima).",
+ "ma_src": "QuantBrasil (SMA diária, 19/10/2026 17h30)",
+ "ma_alt": "Toolz: SMA50 R$ 36,46 / SMA200 R$ 32,34 (EMA50 R$ 36,52). Distância ao preço (R$ 36,29) pela QuantBrasil: MA50 -0,44% (abaixo, a menos de 1%); MA200 +13,29% (acima).",
  "support": 34.13,
- "resistance": 36.38,
- "sr_src": "Toolz (S1 R$ 34,13 • R1 R$ 36,38 • R2 R$ 40,85; pivô clássico ~R$ 36,64)",
+ "resistance": 40.85,
+ "sr_src": "Toolz (S1 R$ 34,13 • S2 R$ 32,56 • R1 R$ 40,85; pivô clássico R$ 36,64, R1 pivô R$ 37,05). Nesta leitura a Toolz não lista mais o R1 de R$ 36,38; a MA50 (R$ 36,45) segue como resistência imediata.",
  "high52": 41.27,
- "volume": "19/10 parcial (15h30): QuantBrasil ~R$ 201,25 mi • Toolz ~5,46 mi ações (média 10d: 18,94 mi). Fech. 16/10: R$ 345,1 mi (BolsaData).",
- "consensus": "Consenso ADVFN (16 analistas): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00), ~+15% de alta vs R$ 36,12; 13 compra, 3 neutro, 0 venda. Itaú BBA (19/10): Outperform, alvo R$ 45.",
+ "volume": "19/10 fechamento: QuantBrasil ~R$ 247,07 mi • Toolz ~7,69 mi ações (média 10d: 18,94 mi), volume abaixo da média. Fech. 16/10: R$ 345,1 mi (BolsaData).",
+ "consensus": "Consenso ADVFN (16 analistas): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00), ~+14,9% de alta vs R$ 36,29; 13 compra, 3 neutro, 0 venda. Itaú BBA (19/10): Outperform, alvo R$ 45.",
  "targets": [
   [
    "BTG Pactual",
@@ -34,6 +34,30 @@
   ]
  ],
  "news": [
+  {
+   "titulo": "Ibovespa cede 0,17% com baixa forte em Petrobras e eleições no radar",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/19/ibovespa-cede-017percent-com-baixa-forte-em-petrobras-e-eleicoes-no-radar.ghtml",
+   "publicado_em": "2026-10-19T17:31:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa fecha com leve queda (-0,17%, 205.079 pts) de olho na eleição; dólar cai a R$ 5,04; PETR4 -2,82%",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
+   "publicado_em": "2026-10-19T17:28:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa fecha em leve queda com cautela na reta final das eleições; Brent fecha a US$ 109,55 (-0,3%)",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/19/ibovespa-e-dolar-hoje-19-de-outubro-de-2026.ghtml",
+   "publicado_em": "2026-10-19T17:14:00-03:00"
+  },
+  {
+   "titulo": "Dólar fecha em queda de 0,49%, a R$ 5,048; Petrobras pesa na Bolsa",
+   "fonte": "UOL Economia",
+   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/19/dolar-fecha-em-queda-de-049-a-r-5048-petrobras-pesa-na-bolsa.htm",
+   "publicado_em": "2026-10-19T17:08:00-03:00"
+  },
   {
    "titulo": "Incerteza eleitoral e petróleo limitam alta do Ibovespa com NY e minério",
    "fonte": "TN Online / Estadão Conteúdo",
@@ -234,7 +258,7 @@
   }
  ],
  "rec": "COMPRA (cautelosa)",
- "reason": "Preço a cerca de 0,9% abaixo da MA50 (R$ 36,45) e logo abaixo do R1 Toolz (R$ 36,38); ~12,8% acima da MA200 e ~15% abaixo do alvo médio. Recuperou parte da queda da manhã (mín. R$ 35,73). Pressão acompanha Petrobras (-2%) e o petróleo volátil. Itaú BBA mantém Outperform (alvo R$ 45) mas cita dúvida sobre duração das margens; dados de market share saem amanhã (20/10). Risco: fechar abaixo de R$ 34,13 (S1 Toolz) enfraquece o cenário; romper R$ 36,38•36,45 alivia.",
+ "reason": "Fechou a R$ 36,29 (-0,98%), cerca de 0,4% abaixo da MA50 (R$ 36,45), depois de recuperar parte da queda (mín. R$ 35,73). Segue ~13,3% acima da MA200 e ~15% abaixo do alvo médio. Volume abaixo da média de 10 dias. Pressão acompanhou Petrobras (-2,8%); Toolz marca viés técnico de venda no curto prazo. Itaú BBA mantém Outperform (alvo R$ 45) mas cita dúvida sobre duração das margens; dados de market share saem amanhã (20/10). Risco: fechar abaixo de R$ 34,13 (S1 Toolz) enfraquece o cenário; fechar acima da MA50 (R$ 36,45) alivia.",
  "sources": [
   [
    "Renova Invest",
