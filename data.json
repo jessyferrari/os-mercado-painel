@@ -1,5 +1,5 @@
 {
- "updated": "19/10/2026 17:45",
+ "updated": "19/10/2026 20:40",
  "price": 36.29,
  "price_label": "Fechamento 19/10 (QuantBrasil, atualizado 17h30)",
  "change_pct": -0.98,
@@ -34,6 +34,24 @@
   ]
  ],
  "news": [
+  {
+   "titulo": "Agenda da semana: IPCA-15 de outubro na sexta (23/10); temporada de balanços do 3T26 começa na terça",
+   "fonte": "Poder360",
+   "url": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-semana-11/",
+   "publicado_em": "2026-10-19T06:00:00-03:00"
+  },
+  {
+   "titulo": "Raízen (RAIZ4): acionistas votam em 30/10 medidas da recuperação extrajudicial; BB vê risco de diluição",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/raizen-recuperacao-dos-credores-segue-incerta-apesar-de-medidas-de-reestruturacao-diz-bb/",
+   "publicado_em": "2026-10-19T16:34:00-03:00"
+  },
+  {
+   "titulo": "Petróleo Brent fecha em leve queda (-0,3%, US$ 109,55) mesmo após ataques houthis à infraestrutura saudita; WTI (nov.) sobe 2,2%, a US$ 103,66",
+   "fonte": "Reuters / UOL",
+   "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/19/petroleo-brent-registra-leve-queda-mesmo-apos-ataques-houthis-a-infraestrutura-saudita.htm",
+   "publicado_em": "2026-10-19T16:38:00-03:00"
+  },
   {
    "titulo": "Ibovespa cede 0,17% com baixa forte em Petrobras e eleições no radar",
    "fonte": "Valor Econômico",
@@ -258,7 +276,7 @@
   }
  ],
  "rec": "COMPRA (cautelosa)",
- "reason": "Fechou a R$ 36,29 (-0,98%), cerca de 0,4% abaixo da MA50 (R$ 36,45), depois de recuperar parte da queda (mín. R$ 35,73). Segue ~13,3% acima da MA200 e ~15% abaixo do alvo médio. Volume abaixo da média de 10 dias. Pressão acompanhou Petrobras (-2,8%); Toolz marca viés técnico de venda no curto prazo. Itaú BBA mantém Outperform (alvo R$ 45) mas cita dúvida sobre duração das margens; dados de market share saem amanhã (20/10). Risco: fechar abaixo de R$ 34,13 (S1 Toolz) enfraquece o cenário; fechar acima da MA50 (R$ 36,45) alivia.",
+ "reason": "Fechou a R$ 36,29 (-0,98%), cerca de 0,4% abaixo da MA50 (R$ 36,45), depois de recuperar parte da queda (mín. R$ 35,73). Segue ~13,3% acima da MA200 e ~15% abaixo do alvo médio. Volume abaixo da média de 10 dias. Pressão acompanhou Petrobras (-2,8%); Toolz marca viés técnico de venda no curto prazo. Itaú BBA mantém Outperform (alvo R$ 45) mas cita dúvida sobre duração das margens; dados de market share saem amanhã (20/10). Risco: fechar abaixo de R$ 34,13 (S1 Toolz) enfraquece o cenário; fechar acima da MA50 (R$ 36,45) alivia. Noite de 19/10: sem fato novo da Vibra; Brent fechou -0,3% a US$ 109,55 (Reuters). Terça (20/10) sem indicadores relevantes no Brasil; ANP publica o levantamento semanal de preços de combustíveis.",
  "sources": [
   [
    "Renova Invest",
