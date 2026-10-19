@@ -1,9 +1,9 @@
 {
- "updated": "17/10/2026 08:30",
+ "updated": "19/10/2026 08:35",
  "price": 36.65,
  "price_label": "Fechamento oficial 16/10 (B3 COTAHIST via BolsaData)",
  "change_pct": 1.1,
- "alt_price": "Fechamento de sexta (16/10) confirmado no arquivo oficial da B3: abertura R$ 36,42, máxima R$ 37,04, mínima R$ 36,22, fechamento R$ 36,65 (+1,10%). Próximo pregão: segunda, 19/10.",
+ "alt_price": "Fechamento de sexta (16/10) confirmado no arquivo oficial da B3: abertura R$ 36,42, máxima R$ 37,04, mínima R$ 36,22, fechamento R$ 36,65 (+1,10%). Pregão de hoje (segunda, 19/10) ainda não abriu; no pré-mercado o Brent recua cerca de 2% após os EUA suspenderem sanções à Rússia.",
  "prev_close": 36.25,
  "prev_src": "BolsaData/B3 COTAHIST, 15/10/2026",
  "ma50": 36.38,
@@ -29,6 +29,30 @@
   ]
  ],
  "news": [
+  {
+   "titulo": "IGP-10 sobe 1,76% em outubro (acumula 5,02% em 12 meses), puxado pela gasolina nos preços ao produtor",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/brasil/noticia/2026/10/19/igp-10-sobe-176-pontos-percentuais-em-outubro-e-acumula-alta-de-502-em-12-meses-diz-fgv.ghtml",
+   "publicado_em": "2026-10-19T08:13:00-03:00"
+  },
+  {
+   "titulo": "IGP-10, Focus e pesquisas eleitorais (AtlasIntel e PoderData) são os destaques desta segunda",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/igp-10-focus-pesquisas-eleitorais-agenda-19102026/",
+   "publicado_em": "2026-10-19T06:08:00-03:00"
+  },
+  {
+   "titulo": "Petróleo recua de máxima em cinco meses após EUA suspenderem sanções à Rússia; Brent cai 2,70%, a US$ 106,90 (4h42)",
+   "fonte": "Money Times",
+   "url": "https://www.moneytimes.com.br/petroleo-recua-de-maxima-em-cinco-meses-apos-suspensao-de-sancoes-dos-eua-a-russia-fets/",
+   "publicado_em": "2026-10-19T04:43:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa hoje: após perder 1,74% na semana, índice reage a Focus, IGP-10, eleições e petróleo",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-hoje-eleicoes-e-petroleo-podem-movimentar-a-bolsa-apos-queda-semanal/",
+   "publicado_em": "2026-10-19T04:30:00-03:00"
+  },
   {
    "titulo": "Ibovespa sobe 0,54% com Petrobras (PETR4 +4,04%); Brent fecha a US$ 109,86 e WTI passa de US$ 100",
    "fonte": "Exame",
