@@ -1,26 +1,31 @@
 {
- "updated": "19/10/2026 11:58",
- "price": 35.83,
- "price_label": "Intraday 19/10 ~11h55 (QuantBrasil / TradeMap / Toolz)",
- "change_pct": -2.24,
- "alt_price": "Pregão 19/10 ao vivo: QuantBrasil R$ 35,83 (-2,24%) às 11h55 • abertura R$ 36,76, máx. R$ 36,76, mín. R$ 35,76, vol. ~R$ 117,6 mi. TradeMap R$ 35,83 (-2,24%) às 11h42 • mín. R$ 35,80, vol. ~R$ 113 mi. Toolz R$ 35,83 (-2,24%). ADVFN R$ 35,82 (-2,26%) às 11h41. Fech. anterior R$ 36,65 (16/10). Brent ~US$ 107,88 (-1,84% às 10h50, Estadão).",
+ "updated": "19/10/2026 13:50",
+ "price": 36.01,
+ "price_label": "Intraday 19/10 ~13h45 (QuantBrasil)",
+ "change_pct": -1.75,
+ "alt_price": "Pregão 19/10 ao vivo: QuantBrasil R$ 36,01 (-1,75%) às 13h45 • abertura R$ 36,76, máx. R$ 36,76, mín. R$ 35,73, vol. ~R$ 163,8 mi. Toolz R$ 35,96 (-1,88%), possivelmente com atraso • mín. R$ 35,73. Fech. anterior R$ 36,65 (16/10). Brent ~US$ 108,04 (-1,63% às 12h, Estadão).",
  "prev_close": 36.65,
  "prev_src": "BolsaData/B3 COTAHIST, 16/10/2026",
  "ma50": 36.44,
  "ma200": 32.03,
  "ma_src": "QuantBrasil (SMA diária, 19/10/2026)",
- "ma_alt": "Toolz: SMA50 R$ 36,45 / SMA200 R$ 32,34. Distância ao preço: MA50 -1,67% (abaixo); MA200 +11,86% (acima).",
+ "ma_alt": "Toolz: SMA50 R$ 36,45 / SMA200 R$ 32,34. Distância ao preço (QuantBrasil R$ 36,01): MA50 -1,18% (abaixo); MA200 +12,42% (acima).",
  "support": 34.13,
  "resistance": 36.38,
  "sr_src": "Toolz (S1 R$ 34,13 • R1 R$ 36,38 • R2 R$ 40,85; pivô clássico ~R$ 36,64)",
  "high52": 41.27,
- "volume": "19/10 parcial (~11h55): QuantBrasil ~R$ 117,6 mi • TradeMap ~R$ 113 mi • Toolz ~3 mi ações (média 10d: 18,94 mi). Fech. 16/10: R$ 345,1 mi (BolsaData).",
- "consensus": "Consenso ADVFN (16 analistas): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00), ~+16% de alta vs R$ 35,83; 13 compra, 3 neutro, 0 venda.",
+ "volume": "19/10 parcial (~13h45): QuantBrasil ~R$ 163,8 mi • Toolz ~4,35 mi ações (média 10d: 18,94 mi). Fech. 16/10: R$ 345,1 mi (BolsaData).",
+ "consensus": "Consenso ADVFN (16 analistas): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00), ~+16% de alta vs R$ 36,01; 13 compra, 3 neutro, 0 venda. Itaú BBA (19/10): Outperform, alvo R$ 45.",
  "targets": [
   [
    "BTG Pactual",
    "Compra",
    "R$ 42,00 (12 meses)"
+  ],
+  [
+   "Itaú BBA",
+   "Outperform (compra)",
+   "R$ 45,00"
   ],
   [
    "Morgan Stanley",
@@ -29,6 +34,18 @@
   ]
  ],
  "news": [
+  {
+   "titulo": "Itaú BBA: Petrobras lidera preferência; Vibra mantém Outperform com alvo de R$ 45, mas investidores questionam duração das margens",
+   "fonte": "Investing.com",
+   "url": "https://br.investing.com/news/general-news/petrobras-lidera-preferencia-do-itau-bba-distribuidoras-perdem-espaco-2095434",
+   "publicado_em": "2026-10-19T11:59:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa perde força e vai ao negativo (~12h, -0,03%, 205.371 pts); Brent cai 1,63%, a US$ 108,04; Petrobras cede ~2,6%",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-hoje-eleicoes-e-petroleo-podem-movimentar-a-bolsa-apos-queda-semanal/",
+   "publicado_em": "2026-10-19T12:00:00-03:00"
+  },
   {
    "titulo": "Ibovespa sobe e dólar recua a R$ 5,05 de olho em reta final da eleição (atualizado 11h57)",
    "fonte": "Valor Investe",
@@ -205,7 +222,7 @@
   }
  ],
  "rec": "COMPRA (cautelosa)",
- "reason": "Preço rompeu abaixo da MA50 (R$ 36,44) e do antigo suporte (~R$ 36,2), mas segue ~12% acima da MA200 e ~16% abaixo do alvo médio. Pressão do dia acompanha queda do Brent e do setor (PETR/VBBR). Risco: fechar abaixo de R$ 34,13 (S1 Toolz) enfraquece o cenário; recuperar R$ 36,38•36,44 alivia.",
+ "reason": "Preço segue abaixo da MA50 (R$ 36,44, distância -1,18%) e do R1 Toolz (R$ 36,38), mas ~12% acima da MA200 e ~16% abaixo do alvo médio. Recuperou parte da queda da manhã (mín. R$ 35,73). Pressão acompanha queda do Brent e de Petrobras. Itaú BBA mantém Outperform (alvo R$ 45) mas cita dúvida sobre duração das margens. Risco: fechar abaixo de R$ 34,13 (S1 Toolz) enfraquece o cenário; recuperar R$ 36,38•36,44 alivia.",
  "sources": [
   [
    "Renova Invest",
