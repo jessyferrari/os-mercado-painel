@@ -1,21 +1,21 @@
 {
- "updated": "19/10/2026 13:50",
- "price": 36.01,
- "price_label": "Intraday 19/10 ~13h45 (QuantBrasil)",
- "change_pct": -1.75,
- "alt_price": "Pregão 19/10 ao vivo: QuantBrasil R$ 36,01 (-1,75%) às 13h45 • abertura R$ 36,76, máx. R$ 36,76, mín. R$ 35,73, vol. ~R$ 163,8 mi. Toolz R$ 35,96 (-1,88%), possivelmente com atraso • mín. R$ 35,73. Fech. anterior R$ 36,65 (16/10). Brent ~US$ 108,04 (-1,63% às 12h, Estadão).",
+ "updated": "19/10/2026 15:45",
+ "price": 36.12,
+ "price_label": "Intraday 19/10 15h30 (QuantBrasil)",
+ "change_pct": -1.45,
+ "alt_price": "Pregão 19/10 ao vivo: QuantBrasil R$ 36,12 (-1,45%) às 15h30 • abertura R$ 36,76, máx. R$ 36,76, mín. R$ 35,73, vol. ~R$ 201,25 mi. Toolz R$ 36,11 (-1,47%), possivelmente com atraso. Fech. anterior R$ 36,65 (16/10). Brent ~US$ 110 (+0,15% por volta de 15h, Valor Investe), após cair ~1,5% pela manhã.",
  "prev_close": 36.65,
  "prev_src": "BolsaData/B3 COTAHIST, 16/10/2026",
- "ma50": 36.44,
+ "ma50": 36.45,
  "ma200": 32.03,
- "ma_src": "QuantBrasil (SMA diária, 19/10/2026)",
- "ma_alt": "Toolz: SMA50 R$ 36,45 / SMA200 R$ 32,34. Distância ao preço (QuantBrasil R$ 36,01): MA50 -1,18% (abaixo); MA200 +12,42% (acima).",
+ "ma_src": "QuantBrasil (SMA diária, 19/10/2026 15h30)",
+ "ma_alt": "Toolz não exibiu médias nesta leitura (antes: SMA50 R$ 36,45 / SMA200 R$ 32,34). Distância ao preço (QuantBrasil R$ 36,12): MA50 -0,91% (abaixo, a menos de 1%); MA200 +12,77% (acima).",
  "support": 34.13,
  "resistance": 36.38,
  "sr_src": "Toolz (S1 R$ 34,13 • R1 R$ 36,38 • R2 R$ 40,85; pivô clássico ~R$ 36,64)",
  "high52": 41.27,
- "volume": "19/10 parcial (~13h45): QuantBrasil ~R$ 163,8 mi • Toolz ~4,35 mi ações (média 10d: 18,94 mi). Fech. 16/10: R$ 345,1 mi (BolsaData).",
- "consensus": "Consenso ADVFN (16 analistas): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00), ~+16% de alta vs R$ 36,01; 13 compra, 3 neutro, 0 venda. Itaú BBA (19/10): Outperform, alvo R$ 45.",
+ "volume": "19/10 parcial (15h30): QuantBrasil ~R$ 201,25 mi • Toolz ~5,46 mi ações (média 10d: 18,94 mi). Fech. 16/10: R$ 345,1 mi (BolsaData).",
+ "consensus": "Consenso ADVFN (16 analistas): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00), ~+15% de alta vs R$ 36,12; 13 compra, 3 neutro, 0 venda. Itaú BBA (19/10): Outperform, alvo R$ 45.",
  "targets": [
   [
    "BTG Pactual",
@@ -34,6 +34,18 @@
   ]
  ],
  "news": [
+  {
+   "titulo": "Incerteza eleitoral e petróleo limitam alta do Ibovespa com NY e minério",
+   "fonte": "TN Online / Estadão Conteúdo",
+   "url": "https://tnonline.uol.com.br/noticias/economia/incerteza-eleitoral-e-petroleo-limitam-alta-do-ibovespa-com-ny-e-minerio-1166136",
+   "publicado_em": "2026-10-19T11:36:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa ronda o zero a zero (~15h, -0,1%, 205.342 pts) e dólar recua a R$ 5,05; Brent sobe 0,15%, a US$ 110; Petrobras cai mais de 2%",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/19/ibovespa-e-dolar-hoje-19-de-outubro-de-2026.ghtml",
+   "publicado_em": "2026-10-19T15:18:00-03:00"
+  },
   {
    "titulo": "Itaú BBA: Petrobras lidera preferência; Vibra mantém Outperform com alvo de R$ 45, mas investidores questionam duração das margens",
    "fonte": "Investing.com",
@@ -222,7 +234,7 @@
   }
  ],
  "rec": "COMPRA (cautelosa)",
- "reason": "Preço segue abaixo da MA50 (R$ 36,44, distância -1,18%) e do R1 Toolz (R$ 36,38), mas ~12% acima da MA200 e ~16% abaixo do alvo médio. Recuperou parte da queda da manhã (mín. R$ 35,73). Pressão acompanha queda do Brent e de Petrobras. Itaú BBA mantém Outperform (alvo R$ 45) mas cita dúvida sobre duração das margens. Risco: fechar abaixo de R$ 34,13 (S1 Toolz) enfraquece o cenário; recuperar R$ 36,38•36,44 alivia.",
+ "reason": "Preço a cerca de 0,9% abaixo da MA50 (R$ 36,45) e logo abaixo do R1 Toolz (R$ 36,38); ~12,8% acima da MA200 e ~15% abaixo do alvo médio. Recuperou parte da queda da manhã (mín. R$ 35,73). Pressão acompanha Petrobras (-2%) e o petróleo volátil. Itaú BBA mantém Outperform (alvo R$ 45) mas cita dúvida sobre duração das margens; dados de market share saem amanhã (20/10). Risco: fechar abaixo de R$ 34,13 (S1 Toolz) enfraquece o cenário; romper R$ 36,38•36,45 alivia.",
  "sources": [
   [
    "Renova Invest",
