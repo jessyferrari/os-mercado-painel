@@ -1,5 +1,5 @@
 {
- "updated": "19/10/2026 20:40",
+ "updated": "20/10/2026 08:40",
  "price": 36.29,
  "price_label": "Fechamento 19/10 (QuantBrasil, atualizado 17h30)",
  "change_pct": -0.98,
@@ -34,6 +34,36 @@
   ]
  ],
  "news": [
+  {
+   "titulo": "Petróleo sobe e Brent supera US$ 111 (+1,69%, contrato dez., 7h40) com queda na oferta do Golfo e ataques do Irã em Ormuz; WTI a US$ 100,77",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/20/petrleo-sobe-e-brent-supera-us-111-com-queda-na-oferta-do-golfo-e-ataques-do-ir-em-ormuz.ghtml",
+   "publicado_em": "2026-10-20T07:51:00-03:00"
+  },
+  {
+   "titulo": "Agenda do dia: leilão do Tesouro (11h) é destaque; agenda de indicadores praticamente esvaziada no Brasil",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/20/agenda-do-dia-leilao-do-tesouro-e-destaque.ghtml",
+   "publicado_em": "2026-10-20T07:43:00-03:00"
+  },
+  {
+   "titulo": "Bolsas mundiais têm viés de queda com petróleo novamente acima de US$ 110 por barril (Brent dez. US$ 111,26 às 7h07)",
+   "fonte": "UOL Economia",
+   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/20/bolsas-mundiais-20-de-outubro-de-2026.ghtm",
+   "publicado_em": "2026-10-20T07:20:00-03:00"
+  },
+  {
+   "titulo": "Mercados acompanham contagem regressiva para eleição, ADP nos EUA e salto do petróleo; Ibovespa em dólar sobe nesta terça (20)",
+   "fonte": "Money Times",
+   "url": "https://www.moneytimes.com.br/mercados-acompanham-contagem-regressiva-para-eleicao-adp-nos-eua-e-salto-do-petroleo-ibovespa-em-dolar-sobe-nesta-terca-feira-20-rens/",
+   "publicado_em": "2026-10-20T07:06:00-03:00"
+  },
+  {
+   "titulo": "Pesquisa eleitoral, petróleo (Brent a US$ 111, máxima em cinco meses), balanços de Netflix e SpaceX e mais destaques desta terça",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/pesquisa-eleitoral-balancos-netflix-spacex-agenda-20102026/",
+   "publicado_em": "2026-10-20T06:34:00-03:00"
+  },
   {
    "titulo": "Agenda da semana: IPCA-15 de outubro na sexta (23/10); temporada de balanços do 3T26 começa na terça",
    "fonte": "Poder360",
@@ -276,7 +306,7 @@
   }
  ],
  "rec": "COMPRA (cautelosa)",
- "reason": "Fechou a R$ 36,29 (-0,98%), cerca de 0,4% abaixo da MA50 (R$ 36,45), depois de recuperar parte da queda (mín. R$ 35,73). Segue ~13,3% acima da MA200 e ~15% abaixo do alvo médio. Volume abaixo da média de 10 dias. Pressão acompanhou Petrobras (-2,8%); Toolz marca viés técnico de venda no curto prazo. Itaú BBA mantém Outperform (alvo R$ 45) mas cita dúvida sobre duração das margens; dados de market share saem amanhã (20/10). Risco: fechar abaixo de R$ 34,13 (S1 Toolz) enfraquece o cenário; fechar acima da MA50 (R$ 36,45) alivia. Noite de 19/10: sem fato novo da Vibra; Brent fechou -0,3% a US$ 109,55 (Reuters). Terça (20/10) sem indicadores relevantes no Brasil; ANP publica o levantamento semanal de preços de combustíveis.",
+ "reason": "Fechou a R$ 36,29 (-0,98%), cerca de 0,4% abaixo da MA50 (R$ 36,45), depois de recuperar parte da queda (mín. R$ 35,73). Segue ~13,3% acima da MA200 e ~15% abaixo do alvo médio. Volume abaixo da média de 10 dias. Pressão acompanhou Petrobras (-2,8%); Toolz marca viés técnico de venda no curto prazo. Itaú BBA mantém Outperform (alvo R$ 45) mas cita dúvida sobre duração das margens; dados de market share saem amanhã (20/10). Risco: fechar abaixo de R$ 34,13 (S1 Toolz) enfraquece o cenário; fechar acima da MA50 (R$ 36,45) alivia. Manhã de 20/10 (até 8h40): sem fato novo da Vibra; Brent sobe ~1,7% e supera US$ 111 (máxima em cinco meses, Valor 7h51) com ataques do Irã em Ormuz, o que pode pesar no humor do setor e reforça a expectativa de reajuste da Petrobras após a eleição. Agenda local esvaziada (leilão do Tesouro às 11h); ANP publica hoje o levantamento semanal de preços e a prévia de vendas por distribuidora (market share).",
  "sources": [
   [
    "Renova Invest",
