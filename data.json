@@ -1,20 +1,20 @@
 {
- "updated": "20/10/2026 11:50",
- "price": 36.3,
- "price_label": "Intraday 20/10 às 11h27 (Yahoo Finance, pode ter atraso de ~15 min) • vs fechamento 19/10 de R$ 36,29",
- "change_pct": 0.03,
- "alt_price": "Pregão 20/10 até ~11h27 (Yahoo Finance): abertura R$ 36,79, máx. R$ 37,50, mín. R$ 36,28, ~2,91 mi ações negociadas. O papel chegou a subir acima da MA50 e devolveu os ganhos a partir de ~11h10, junto com a virada do Brent para queda (-0,3%, US$ 109 às 11h06, Finance News) e a perda de força de Petrobras. Conflito entre fontes: Google Finance R$ 36,46 (+0,47%) às 11h15; Investimentos.com.br R$ 37,30 (+2,78%) às 10h52 (leitura anterior à queda). Ibovespa +1,47% a 208.096 pts às 11h34 (InfoMoney); dólar R$ 5,016 às 11h07 (Finance News).",
+ "updated": "20/10/2026 13:55",
+ "price": 36.58,
+ "price_label": "Intraday 20/10 às 13h33 (Yahoo Finance, pode ter atraso de ~15 min) • vs fechamento 19/10 de R$ 36,29",
+ "change_pct": 0.8,
+ "alt_price": "Pregão 20/10 até ~13h33 (Yahoo Finance): abertura R$ 36,79, máx. R$ 37,50, mín. R$ 35,96, ~6,27 mi ações negociadas. Depois de perder a MA50 no fim da manhã, o papel voltou para cima dela (R$ 36,58, ~0,4% acima). Conflito entre fontes: TradeMap R$ 36,53 (+0,66%) às 11h57 com mínima de R$ 35,94; Investimentos.com.br ainda mostra R$ 37,30 (leitura antiga da manhã). Ibovespa +1,67% a 208.512 pts às 13h34 (Yahoo Finance); Brent US$ 108,46 (-1,0%) às 13h38 (Yahoo Finance), enquanto o g1 citava US$ 106,46 (-2,82%) perto das 12h (contratos/horários diferentes); PTAX de venda R$ 5,0140 (BC, via InfoMoney 13h17).",
  "prev_close": 36.29,
  "prev_src": "BolsaData/B3 COTAHIST, 19/10/2026",
  "ma50": 36.45,
  "ma200": 32.03,
  "ma_src": "QuantBrasil (SMA diária, atualizado 19/10/2026 19h)",
- "ma_alt": "Toolz: SMA50 R$ 36,46 / SMA200 R$ 32,34 (EMA50 R$ 36,52). QuantBrasil SMA20 R$ 37,75. Distância ao preço (R$ 36,30, 11h27): MA50 -0,41% (praticamente sobre a média, a menos de 1%); MA200 +13,3% (acima).",
+ "ma_alt": "Toolz: SMA50 R$ 36,46 / SMA200 R$ 32,34 (EMA50 R$ 36,52). QuantBrasil SMA20 R$ 37,75. Distância ao preço (R$ 36,58, 13h33): MA50 +0,36% (praticamente sobre a média, a menos de 1%); MA200 +14,2% (acima).",
  "support": 34.13,
  "resistance": 40.85,
  "sr_src": "Toolz (S1 R$ 34,13 • S2 R$ 32,56 • R1 R$ 40,85; pivô clássico R$ 36,64, R1 pivô R$ 37,05). Nesta leitura a Toolz não lista mais o R1 de R$ 36,38; a MA50 (R$ 36,45) segue como resistência imediata.",
  "high52": 41.27,
- "volume": "20/10 parcial até ~11h27: ~2,91 mi ações (Yahoo Finance); Google Finance 2,76 mi às 11h15 (média 13,34 mi). 19/10 fechamento: BolsaData/B3 R$ 277,7 mi • QuantBrasil R$ 247,27 mi (fontes divergem) • ~7,69 mi ações.",
+ "volume": "20/10 parcial até ~13h33: ~6,27 mi ações (Yahoo Finance); TradeMap R$ 183,9 mi às 11h57. 19/10 fechamento: BolsaData/B3 R$ 277,7 mi • QuantBrasil R$ 247,27 mi (fontes divergem) • ~7,69 mi ações.",
  "consensus": "Consenso ADVFN (16 analistas): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00), ~+14,9% de alta vs R$ 36,29; 13 compra, 3 neutro, 0 venda. Itaú BBA (19/10): Outperform, alvo R$ 45.",
  "targets": [
   [
@@ -34,6 +34,36 @@
   ]
  ],
  "news": [
+  {
+   "titulo": "Banco Central informa PTAX de fechamento: compra R$ 5,0134 e venda R$ 5,0140 (ontem R$ 5,0564)",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
+   "publicado_em": "2026-10-20T13:17:00-03:00"
+  },
+  {
+   "titulo": "Petróleo Brent vira para queda após bater US$ 111, com ataques de houthis",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
+   "publicado_em": "2026-10-20T12:07:00-03:00"
+  },
+  {
+   "titulo": "Petrobras (PETR4) e PRIO (PRIO3) caem com petróleo em dia de alta do Ibovespa; petroleiras dominam as baixas",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
+   "publicado_em": "2026-10-20"
+  },
+  {
+   "titulo": "Ibovespa orbita 208 mil pontos com aval de estrangeiros na reta final da eleição (fluxo externo de R$ 20,99 bi em outubro até 16/10)",
+   "fonte": "Reuters / UOL",
+   "url": "https://economia.uol.com.br/noticias/reuters/2026/10/20/ibovespa-avanca-e-toca-208-mil-pontos-com-aval-de-estrangeiros-na-reta-final-da-eleicao.htm",
+   "publicado_em": "2026-10-20T10:17:00-03:00"
+  },
+  {
+   "titulo": "Dólar opera em queda e Ibovespa sobe; Brent cai 2,82%, a US$ 106,46, perto das 12h após AIE sinalizar nova liberação de reservas",
+   "fonte": "g1",
+   "url": "https://g1.globo.com/economia/noticia/2026/10/20/dolar-ibovespa.ghtml",
+   "publicado_em": "2026-10-20T09:00:00-03:00"
+  },
   {
    "titulo": "Petróleo sobe e Brent supera US$ 111 (+1,69%, contrato dez., 7h40) com queda na oferta do Golfo e ataques do Irã em Ormuz; WTI a US$ 100,77",
    "fonte": "Valor Econômico",
@@ -366,7 +396,7 @@
   }
  ],
  "rec": "COMPRA (cautelosa)",
- "reason": "Às 11h27 de 20/10 (Yahoo Finance) VBBR3 estava em R$ 36,30 (+0,03%), cerca de 0,4% abaixo da MA50 (R$ 36,45) e ~13,3% acima da MA200. O papel abriu em alta, chegou a R$ 37,50 (acima da MA50) e devolveu os ganhos, o que mostra a MA50 funcionando como zona de briga entre compradores e vendedores. Sem fato relevante novo da Vibra hoje (último FR na CVM: 04/09). Itaú BBA mantém Outperform (alvo R$ 45), BTG compra (alvo R$ 42); TraderNews (19/10) sugere manutenção sem nova entrada antes do 3T26 (04/11). Risco: fechar abaixo de R$ 34,13 (S1 Toolz) enfraquece o cenário; fechamento firme acima da MA50 alivia. Contexto: Ibovespa sobe ~1,5% com juros futuros em queda e eleição no radar; Brent oscilou de US$ 111 para ~US$ 109; Abicom segue apontando diesel ~107% abaixo da paridade internacional.",
+ "reason": "Às 13h33 de 20/10 (Yahoo Finance) VBBR3 estava em R$ 36,58 (+0,80%), cerca de 0,4% acima da MA50 (R$ 36,45) e ~14,2% acima da MA200. O papel abriu em alta, chegou a R$ 37,50, caiu até R$ 35,96 e voltou para cima da MA50, o que confirma a média de 50 dias como zona de briga entre compradores e vendedores. Sem fato relevante novo da Vibra hoje (último FR na CVM: 04/09). Itaú BBA mantém Outperform (alvo R$ 45), BTG compra (alvo R$ 42); TraderNews (19/10) sugere manutenção sem nova entrada antes do 3T26 (04/11). Risco: fechar abaixo de R$ 34,13 (S1 Toolz) enfraquece o cenário; fechamento firme acima da MA50 alivia. Contexto: Ibovespa sobe ~1,7% com juros futuros em queda, fluxo estrangeiro e eleição no radar; Brent virou para queda após a AIE sinalizar nova liberação de reservas, o que pesa em petroleiras (PETR4, PRIO3) e tende a ser neutro/positivo para margens de distribuição.",
  "sources": [
   [
    "Renova Invest",
