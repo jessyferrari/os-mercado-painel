@@ -1,9 +1,9 @@
 {
- "updated": "23/10/2026 08:45",
+ "updated": "23/10/2026 09:50",
  "price": 37.0,
- "price_label": "Fechamento de 22/10/2026 (BolsaData/B3 COTAHIST; Toolz e BTG Content confirmam) • vs fechamento 21/10 de R$ 36,83 • pré-abertura de 23/10, pregão abre às 10h",
+ "price_label": "Fechamento de 22/10/2026 (BolsaData/B3 COTAHIST; Toolz e BTG Content confirmam) • vs fechamento 21/10 de R$ 36,83 • pré-abertura de 23/10, pregão à vista abre às 10h",
  "change_pct": 0.46,
- "alt_price": "Pregão 22/10 (BolsaData/B3): abertura R$ 36,67, máx. R$ 37,25, mín. R$ 36,02, fechamento R$ 37,00. Conflito entre fontes: QuantBrasil mostra R$ 36,70 (+0,11%) com fechamento anterior de R$ 36,66 (atualizado 22/10 19h). Semana até aqui (BolsaData): 19/10 R$ 36,29 • 20/10 R$ 36,68 • 21/10 R$ 36,83 • 22/10 R$ 37,00. Ibovespa fechou 22/10 em -1,15%, aos 204.120 pts (InfoMoney 17h31); dólar a R$ 5,0394 (+0,23%, Investing.com). Brent subiu 4,00% a US$ 113,17 em 22/10 (Investing.com) e marcava US$ 114,36 (+1,05%) às 7h20 de 23/10 (Folha), maior nível desde maio.",
+ "alt_price": "Pregão 22/10 (BolsaData/B3): abertura R$ 36,67, máx. R$ 37,25, mín. R$ 36,02, fechamento R$ 37,00. Conflito entre fontes: QuantBrasil mostra R$ 36,70 (+0,11%) com fechamento anterior de R$ 36,66 (atualizado 22/10 19h). Semana até aqui (BolsaData): 19/10 R$ 36,29 • 20/10 R$ 36,68 • 21/10 R$ 36,83 • 22/10 R$ 37,00. Ibovespa fechou 22/10 em -1,15%, aos 204.120 pts (InfoMoney 17h31); dólar a R$ 5,0394 (+0,23%, Investing.com). Brent subiu 4,00% a US$ 113,17 em 22/10 (Investing.com) e marcava US$ 114,44 (+1,12%) por volta das 9h de 23/10 (Money Times/ICE), maior nível desde maio. Pré-abertura 23/10: Ibovespa futuro +0,47% a 207.200 pts e dólar +0,34% a R$ 5,05 por volta das 9h (Valor Investe).",
  "prev_close": 36.83,
  "prev_src": "BolsaData/B3 COTAHIST, 21/10/2026",
  "ma50": 36.63,
@@ -39,6 +39,30 @@
   ]
  ],
  "news": [
+  {
+   "titulo": "IPCA-15 sobe 0,32% em outubro, abaixo do piso das projeções (mediana 0,44%); 4,62% em 12 meses",
+   "fonte": "Valor Econômico / IBGE",
+   "url": "https://valor.globo.com/brasil/noticia/2026/10/23/ipca-15-sobe-032percent-em-outubro.ghtml",
+   "publicado_em": "2026-10-23T09:05:00-03:00"
+  },
+  {
+   "titulo": "IPCA-15 tem alta de 0,32% em outubro, abaixo do esperado (Reuters projetava 0,43%)",
+   "fonte": "Reuters / Investing.com",
+   "url": "https://br.investing.com/news/economic-indicators/ipca15-tem-alta-de-032-em-outubro-abaixo-do-esperado-2101063",
+   "publicado_em": "2026-10-23T09:14:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa futuro abre em alta (+0,47%, 207.200 pts) e dólar sobe a R$ 5,05 no último pregão antes do 2º turno",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/23/ibovespa-e-dolar-hoje-23-de-outubro-de-2026.ghtml",
+   "publicado_em": "2026-10-23T09:08:00-03:00"
+  },
+  {
+   "titulo": "Dólar abre em alta (R$ 5,0453, +0,13% perto das 9h10), no último pregão antes do 2º turno",
+   "fonte": "g1",
+   "url": "https://g1.globo.com/economia/noticia/2026/10/23/dolar-ibovespa.ghtml",
+   "publicado_em": "2026-10-23T09:00:00-03:00"
+  },
   {
    "titulo": "Petróleo volta a subir e Brent passa de US$ 114 pela primeira vez desde maio (US$ 114,36, +1,05%, às 7h20)",
    "fonte": "Folha de S.Paulo",
@@ -473,7 +497,7 @@
   }
  ],
  "rec": "COMPRA (cautelosa)",
- "reason": "VBBR3 fechou 22/10 em R$ 37,00 (+0,46%, BolsaData/B3), subindo num dia em que o Ibovespa caiu 1,15%, com volume acima da média. O papel segue cerca de 1% acima da MA50 (R$ 36,63, QuantBrasil), zona de briga entre compradores e vendedores, e ~15% acima da MA200. JPMorgan reiterou overweight com alvo de R$ 44,50 em 22/10; Itaú BBA apontou ganho de participação de mercado da Vibra em setembro (21/10). Sem fato relevante novo da Vibra (último comunicado à CVM em 15/10, sobre a divergência com a Petrobras no plano de retirada de marcas). Hoje (23/10) é o último pregão antes do 2º turno: Datafolha mostra empate em 50% dos votos válidos, o que mantém a volatilidade alta; IPCA-15 sai às 9h (mediana 0,44%) e o Brent opera acima de US$ 114. Gatilhos técnicos: fechamento acima de R$ 37,50 (R1 Toolz) melhora o cenário; perda de R$ 36,15 (S1) e da MA50 enfraquece. Balanço do 3T26 em 04/11. Prudência com posição antes do resultado da eleição.",
+ "reason": "VBBR3 fechou 22/10 em R$ 37,00 (+0,46%, BolsaData/B3), subindo num dia em que o Ibovespa caiu 1,15%, com volume acima da média. O papel segue cerca de 1% acima da MA50 (R$ 36,63, QuantBrasil), zona de briga entre compradores e vendedores, e ~15% acima da MA200. JPMorgan reiterou overweight com alvo de R$ 44,50 em 22/10; Itaú BBA apontou ganho de participação de mercado da Vibra em setembro (21/10). Sem fato relevante novo da Vibra (último comunicado à CVM em 15/10, sobre a divergência com a Petrobras no plano de retirada de marcas). Hoje (23/10) é o último pregão antes do 2º turno: Datafolha mostra empate em 50% dos votos válidos, o que mantém a volatilidade alta; o IPCA-15 de outubro veio em 0,32% (IBGE, 9h), abaixo do piso das projeções, e o Ibovespa futuro abriu em alta de 0,47% (Valor Investe, ~9h), mas o Brent opera acima de US$ 114. Gatilhos técnicos: fechamento acima de R$ 37,50 (R1 Toolz) melhora o cenário; perda de R$ 36,15 (S1) e da MA50 enfraquece. Balanço do 3T26 em 04/11. Prudência com posição antes do resultado da eleição.",
  "sources": [
   [
    "Renova Invest",
