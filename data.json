@@ -1,31 +1,36 @@
 {
- "updated": "20/10/2026 13:55",
- "price": 36.58,
- "price_label": "Intraday 20/10 às 13h33 (Yahoo Finance, pode ter atraso de ~15 min) • vs fechamento 19/10 de R$ 36,29",
- "change_pct": 0.8,
- "alt_price": "Pregão 20/10 até ~13h33 (Yahoo Finance): abertura R$ 36,79, máx. R$ 37,50, mín. R$ 35,96, ~6,27 mi ações negociadas. Depois de perder a MA50 no fim da manhã, o papel voltou para cima dela (R$ 36,58, ~0,4% acima). Conflito entre fontes: TradeMap R$ 36,53 (+0,66%) às 11h57 com mínima de R$ 35,94; Investimentos.com.br ainda mostra R$ 37,30 (leitura antiga da manhã). Ibovespa +1,67% a 208.512 pts às 13h34 (Yahoo Finance); Brent US$ 108,46 (-1,0%) às 13h38 (Yahoo Finance), enquanto o g1 citava US$ 106,46 (-2,82%) perto das 12h (contratos/horários diferentes); PTAX de venda R$ 5,0140 (BC, via InfoMoney 13h17).",
- "prev_close": 36.29,
- "prev_src": "BolsaData/B3 COTAHIST, 19/10/2026",
- "ma50": 36.45,
- "ma200": 32.03,
- "ma_src": "QuantBrasil (SMA diária, atualizado 19/10/2026 19h)",
- "ma_alt": "Toolz: SMA50 R$ 36,46 / SMA200 R$ 32,34 (EMA50 R$ 36,52). QuantBrasil SMA20 R$ 37,75. Distância ao preço (R$ 36,58, 13h33): MA50 +0,36% (praticamente sobre a média, a menos de 1%); MA200 +14,2% (acima).",
- "support": 34.13,
- "resistance": 40.85,
- "sr_src": "Toolz (S1 R$ 34,13 • S2 R$ 32,56 • R1 R$ 40,85; pivô clássico R$ 36,64, R1 pivô R$ 37,05). Nesta leitura a Toolz não lista mais o R1 de R$ 36,38; a MA50 (R$ 36,45) segue como resistência imediata.",
+ "updated": "23/10/2026 08:45",
+ "price": 37.0,
+ "price_label": "Fechamento de 22/10/2026 (BolsaData/B3 COTAHIST; Toolz e BTG Content confirmam) • vs fechamento 21/10 de R$ 36,83 • pré-abertura de 23/10, pregão abre às 10h",
+ "change_pct": 0.46,
+ "alt_price": "Pregão 22/10 (BolsaData/B3): abertura R$ 36,67, máx. R$ 37,25, mín. R$ 36,02, fechamento R$ 37,00. Conflito entre fontes: QuantBrasil mostra R$ 36,70 (+0,11%) com fechamento anterior de R$ 36,66 (atualizado 22/10 19h). Semana até aqui (BolsaData): 19/10 R$ 36,29 • 20/10 R$ 36,68 • 21/10 R$ 36,83 • 22/10 R$ 37,00. Ibovespa fechou 22/10 em -1,15%, aos 204.120 pts (InfoMoney 17h31); dólar a R$ 5,0394 (+0,23%, Investing.com). Brent subiu 4,00% a US$ 113,17 em 22/10 (Investing.com) e marcava US$ 114,36 (+1,05%) às 7h20 de 23/10 (Folha), maior nível desde maio.",
+ "prev_close": 36.83,
+ "prev_src": "BolsaData/B3 COTAHIST, 21/10/2026",
+ "ma50": 36.63,
+ "ma200": 32.21,
+ "ma_src": "QuantBrasil (SMA diária, atualizado 22/10/2026 19h)",
+ "ma_alt": "Toolz: SMA50 R$ 36,65 / SMA200 R$ 32,51 (EMA50 R$ 36,56; SMA20 R$ 37,35). QuantBrasil SMA20 R$ 37,30. Distância ao fechamento de R$ 37,00: MA50 cerca de +1,0% (muito próxima, menos de 2%); MA200 cerca de +14,9% (acima).",
+ "support": 36.15,
+ "resistance": 37.5,
+ "sr_src": "Toolz (22/10): S1 R$ 36,15 (moderado) • S2 R$ 34,13 • S3 R$ 32,56 (forte) • R1 R$ 37,50 (fraco) • R2 R$ 40,85. Pivô clássico diário R$ 36,88 (R1 R$ 37,25, S1 R$ 36,46). Toolz: rompimento acima de R$ 37,50 abre caminho para R$ 40,85; fechamento abaixo de R$ 36,15 pode levar a R$ 34,13.",
  "high52": 41.27,
- "volume": "20/10 parcial até ~13h33: ~6,27 mi ações (Yahoo Finance); TradeMap R$ 183,9 mi às 11h57. 19/10 fechamento: BolsaData/B3 R$ 277,7 mi • QuantBrasil R$ 247,27 mi (fontes divergem) • ~7,69 mi ações.",
- "consensus": "Consenso ADVFN (16 analistas): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00), ~+14,9% de alta vs R$ 36,29; 13 compra, 3 neutro, 0 venda. Itaú BBA (19/10): Outperform, alvo R$ 45.",
+ "volume": "22/10: R$ 533,2 mi (BolsaData/B3), acima da média de ~R$ 492,6 mi dos últimos 30 pregões (CapitalAgora). QuantBrasil registra 459,11M (fontes divergem). 21/10: R$ 256,2 mi • 20/10: R$ 381,0 mi (BolsaData).",
+ "consensus": "Consenso ADVFN (16 analistas, última leitura de 20/10): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00); 13 compra, 3 neutro, 0 venda. JPMorgan (22/10): overweight, alvo R$ 44,50, Vibra segue preferida no setor. Itaú BBA (19/10): Outperform, alvo R$ 45. BTG: compra, alvo R$ 42 (potencial ~13,5% vs R$ 37,00).",
  "targets": [
   [
-   "BTG Pactual",
-   "Compra",
-   "R$ 42,00 (12 meses)"
+   "JPMorgan",
+   "Overweight (compra)",
+   "R$ 44,50"
   ],
   [
    "Itaú BBA",
    "Outperform (compra)",
    "R$ 45,00"
+  ],
+  [
+   "BTG Pactual",
+   "Compra",
+   "R$ 42,00 (12 meses)"
   ],
   [
    "Morgan Stanley",
@@ -34,6 +39,78 @@
   ]
  ],
  "news": [
+  {
+   "titulo": "Petróleo volta a subir e Brent passa de US$ 114 pela primeira vez desde maio (US$ 114,36, +1,05%, às 7h20)",
+   "fonte": "Folha de S.Paulo",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/petroleo-volta-a-subir-e-ultrapassa-us-114-pela-primeira-vez-desde-maio.shtml",
+   "publicado_em": "2026-10-23T07:40:00-03:00"
+  },
+  {
+   "titulo": "Agenda do dia: IPCA-15 no Brasil (9h) e PMIs nos EUA são destaque",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/23/agenda-do-dia-ipca-15-no-brasil-e-pmis-nos-eua-sao-destaque.ghtml",
+   "publicado_em": "2026-10-23T07:42:00-03:00"
+  },
+  {
+   "titulo": "Brent em máxima de cinco meses (US$ 114,49) e caminha para a 3ª semana seguida de alta",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+   "publicado_em": "2026-10-23T06:02:00-03:00"
+  },
+  {
+   "titulo": "Eleições, debate na Globo, IPCA-15 (previsão 0,45%) e mais destaques desta sexta",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/eleicoes-debate-globo-ipca-15-agenda-23102026/",
+   "publicado_em": "2026-10-23"
+  },
+  {
+   "titulo": "Investidor digere Datafolha (empate em 50% dos válidos) antes do debate da Globo e monitora prévia da inflação",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/23/investidor-digere-datafolha-antes-do-debate-da-globo-e-monitora-previa-da-inflacao.ghtml",
+   "publicado_em": "2026-10-23"
+  },
+  {
+   "titulo": "Ibovespa hoje (23): inflação, Datafolha e debate eleitoral no radar no último pregão antes do 2º turno",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-hoje-empate-entre-lula-e-flavio-e-ipca-15-pautam-ultimo-pregao-antes-do-2-turno/",
+   "publicado_em": "2026-10-23"
+  },
+  {
+   "titulo": "Ibovespa e dólar: techs derrubam NY; Brent salta 4% a US$ 113,17 com tensão EUA-Irã",
+   "fonte": "Investing.com",
+   "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-techs-ia-derrubam-ny-e-petroleo-dispara-com-tensao-euaira-2100482",
+   "publicado_em": "2026-10-22T18:47:00-03:00"
+  },
+  {
+   "titulo": "Dólar sobe 0,22% e fecha a R$ 5,038; Ibovespa cai 1,15%",
+   "fonte": "Poder360",
+   "url": "https://www.poder360.com.br/poder-economia/dolar-sobe-022-e-fecha-a-r-5038-ibovespa-cai-115/",
+   "publicado_em": "2026-10-22T17:34:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa fecha em queda de 1,15% (204.120 pts) com exterior, eleição, Vale e bancos; dólar a R$ 5,03",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-22102026/",
+   "publicado_em": "2026-10-22T17:31:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa cai mais de 1% e dólar sobe com aversão a risco; Brent acima de US$ 113, maior nível desde maio",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/22/ibovespa-e-dolar-hoje-22-de-outubro-de-2026.ghtml",
+   "publicado_em": "2026-10-22T17:15:00-03:00"
+  },
+  {
+   "titulo": "Vibra (VBBR3) segue como favorita do JPMorgan: overweight e alvo de R$ 44,50",
+   "fonte": "Guia do Investidor",
+   "url": "https://guiadoinvestidor.com.br/mercado/vibra-vbbr3-segue-como-favorita-do-jpmorgan-acao-sobe-45-e-banco-ve-mais-potencial/",
+   "publicado_em": "2026-10-22T12:35:00-03:00"
+  },
+  {
+   "titulo": "Vibra ganha participação de mercado em setembro; Ipiranga recua, aponta Itaú BBA",
+   "fonte": "Investing.com / CapitalAgora",
+   "url": "https://capitalagora.com.br/noticia/vibra-ganha-participacao-em-setembro-ipiranga-recua-aponta-itau",
+   "publicado_em": "2026-10-21T18:52:00-03:00"
+  },
   {
    "titulo": "Banco Central informa PTAX de fechamento: compra R$ 5,0134 e venda R$ 5,0140 (ontem R$ 5,0564)",
    "fonte": "InfoMoney",
@@ -396,7 +473,7 @@
   }
  ],
  "rec": "COMPRA (cautelosa)",
- "reason": "Às 13h33 de 20/10 (Yahoo Finance) VBBR3 estava em R$ 36,58 (+0,80%), cerca de 0,4% acima da MA50 (R$ 36,45) e ~14,2% acima da MA200. O papel abriu em alta, chegou a R$ 37,50, caiu até R$ 35,96 e voltou para cima da MA50, o que confirma a média de 50 dias como zona de briga entre compradores e vendedores. Sem fato relevante novo da Vibra hoje (último FR na CVM: 04/09). Itaú BBA mantém Outperform (alvo R$ 45), BTG compra (alvo R$ 42); TraderNews (19/10) sugere manutenção sem nova entrada antes do 3T26 (04/11). Risco: fechar abaixo de R$ 34,13 (S1 Toolz) enfraquece o cenário; fechamento firme acima da MA50 alivia. Contexto: Ibovespa sobe ~1,7% com juros futuros em queda, fluxo estrangeiro e eleição no radar; Brent virou para queda após a AIE sinalizar nova liberação de reservas, o que pesa em petroleiras (PETR4, PRIO3) e tende a ser neutro/positivo para margens de distribuição.",
+ "reason": "VBBR3 fechou 22/10 em R$ 37,00 (+0,46%, BolsaData/B3), subindo num dia em que o Ibovespa caiu 1,15%, com volume acima da média. O papel segue cerca de 1% acima da MA50 (R$ 36,63, QuantBrasil), zona de briga entre compradores e vendedores, e ~15% acima da MA200. JPMorgan reiterou overweight com alvo de R$ 44,50 em 22/10; Itaú BBA apontou ganho de participação de mercado da Vibra em setembro (21/10). Sem fato relevante novo da Vibra (último comunicado à CVM em 15/10, sobre a divergência com a Petrobras no plano de retirada de marcas). Hoje (23/10) é o último pregão antes do 2º turno: Datafolha mostra empate em 50% dos votos válidos, o que mantém a volatilidade alta; IPCA-15 sai às 9h (mediana 0,44%) e o Brent opera acima de US$ 114. Gatilhos técnicos: fechamento acima de R$ 37,50 (R1 Toolz) melhora o cenário; perda de R$ 36,15 (S1) e da MA50 enfraquece. Balanço do 3T26 em 04/11. Prudência com posição antes do resultado da eleição.",
  "sources": [
   [
    "Renova Invest",
