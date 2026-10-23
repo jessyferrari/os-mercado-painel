@@ -1,20 +1,20 @@
 {
- "updated": "23/10/2026 17:50",
+ "updated": "23/10/2026 20:40",
  "price": 35.82,
  "price_label": "Fechamento de 23/10/2026 • R$ 35,82 (Yahoo Finance, último negócio 17h05 de Brasília; OpçõesBR confirma R$ 35,82, -3,19%) • vs fechamento de 22/10 de R$ 37,00 (BolsaData/B3)",
  "change_pct": -3.19,
  "alt_price": "Pregão de 23/10 (Yahoo Finance): abertura R$ 36,90, máx. R$ 37,24, mín. R$ 35,82 (fechou na mínima), 12,34 mi de ações. VBBR3 foi a maior queda do Ibovespa no dia (OpçõesBR, 17h29). O Investimento Certo (BRAPI, 17h04) marcava R$ 35,94 (-2,86%), leitura anterior ao leilão de fechamento. Ibovespa fechou em +0,47% a 205.083 pts (máx. 205.757, mín. 203.428), dólar a R$ 5,037 (-0,01%) (Valor Econômico 17h22 e OpçõesBR). Na semana o Ibovespa recuou 0,17%.",
  "prev_close": 37.0,
  "prev_src": "BolsaData/B3 COTAHIST, 22/10/2026",
- "ma50": 36.63,
- "ma200": 32.21,
- "ma_src": "QuantBrasil (SMA diária, atualizado 22/10/2026 19h)",
- "ma_alt": "Toolz: SMA50 R$ 36,65 / SMA200 R$ 32,51 (EMA50 R$ 36,56; SMA20 R$ 37,35). QuantBrasil SMA20 R$ 37,30. Distância ao fechamento de R$ 35,82: MA50 cerca de -2,2% (preço abaixo da média); MA200 cerca de +11,2% (acima). Médias com base no fechamento de 22/10; ainda não recalculadas com o pregão de 23/10.",
+ "ma50": 36.69,
+ "ma200": 32.26,
+ "ma_src": "QuantBrasil (SMA diária, atualizado 23/10/2026 19h)",
+ "ma_alt": "QuantBrasil 23/10: SMA20 R$ 37,13 • IFR(14) 40 (neutro) • Bollinger inferior R$ 35,68. Toolz (22/10): SMA50 R$ 36,65 / SMA200 R$ 32,51. Distância ao fechamento de R$ 35,82: MA50 cerca de -2,4% (preço abaixo da média); MA200 cerca de +11,0% (acima). Divergência: QuantBrasil registra último preço de R$ 35,75 (-2,59%), mínima R$ 35,67 e fechamento anterior R$ 36,70; BolsaData/B3 confirma fechamento de 22/10 em R$ 37,00, por isso o painel mantém R$ 35,82 (Yahoo Finance/OpçõesBR).",
  "support": 36.15,
  "resistance": 37.5,
  "sr_src": "Toolz (22/10): S1 R$ 36,15 (moderado) • S2 R$ 34,13 • S3 R$ 32,56 (forte) • R1 R$ 37,50 (fraco) • R2 R$ 40,85. Pivô clássico diário R$ 36,88 (R1 R$ 37,25, S1 R$ 36,46). Toolz: rompimento acima de R$ 37,50 abre caminho para R$ 40,85; fechamento abaixo de R$ 36,15 pode levar a R$ 34,13.",
  "high52": 41.27,
- "volume": "23/10: 12,34 mi de ações (Yahoo Finance), abaixo das 14,55 mi de 22/10. 22/10: R$ 533,2 mi (BolsaData/B3), acima da média de ~R$ 492,6 mi dos últimos 30 pregões (CapitalAgora). QuantBrasil registra 459,11M (fontes divergem). 21/10: R$ 256,2 mi • 20/10: R$ 381,0 mi (BolsaData). Valor financeiro de 23/10 ainda não publicado pelas fontes consultadas.",
+ "volume": "23/10: 12,34 mi de ações (Yahoo Finance), abaixo das 14,55 mi de 22/10. 22/10: R$ 533,2 mi (BolsaData/B3), acima da média de ~R$ 492,6 mi dos últimos 30 pregões (CapitalAgora). QuantBrasil registra 459,11M (fontes divergem). 21/10: R$ 256,2 mi • 20/10: R$ 381,0 mi (BolsaData). Valor financeiro de 23/10: R$ 448,72 mi segundo QuantBrasil (19h); B3/COTAHIST ainda não publicado.",
  "consensus": "Consenso ADVFN (16 analistas, última leitura de 20/10): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00); 13 compra, 3 neutro, 0 venda. JPMorgan (22/10): overweight, alvo R$ 44,50, Vibra segue preferida no setor. Itaú BBA (19/10): Outperform, alvo R$ 45. BTG: compra, alvo R$ 42 (potencial ~13,5% vs R$ 37,00).",
  "targets": [
   [
@@ -36,9 +36,44 @@
    "Morgan Stanley",
    "Neutra (rebaixou de overweight)",
    "R$ 43,00 (fim de 2027)"
+  ],
+  [
+   "Goldman Sachs",
+   "Neutra",
+   "não informado"
   ]
  ],
  "news": [
+  {
+   "titulo": "Petróleo fecha em alta com temor de reescalada EUA-Irã: Brent a US$ 116,72 (+3,13%), maior valor desde abril; +6,24% na semana",
+   "fonte": "Estadão Conteúdo / UOL",
+   "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/23/petroleo-fecha-em-alta-com-temor-de-reescalada-entre-eua-ira-brent-tem-maior-valor-desde-abril.htm",
+   "publicado_em": "2026-10-23T16:07:00-03:00"
+  },
+  {
+   "titulo": "Goldman Sachs alerta para risco de reajuste de até 50% no diesel da Petrobras após as eleições; defasagem de 21%",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/empresas/noticia/2026/10/23/goldman-sachs-alerta-para-risco-de-reajuste-de-50-pontos-percentuais-no-diesel-da-petrobras-aps-eleies.ghtml",
+   "publicado_em": "2026-10-23T14:29:00-03:00"
+  },
+  {
+   "titulo": "Conselho da Petrobras deve discutir preço do diesel na segunda (26), depois do 2º turno, dizem fontes",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/empresas/noticia/2026/10/23/conselho-da-petrobras-deve-discutir-preo-do-diesel-depois-do-segundo-turno-dizem-fontes.ghtml",
+   "publicado_em": "2026-10-23T13:16:00-03:00"
+  },
+  {
+   "titulo": "Defasagem do diesel nas refinarias da Petrobras ultrapassa a subvenção e atinge R$ 3,53/l (Abicom); 145 dias sem reajuste",
+   "fonte": "Estadão Conteúdo / UOL",
+   "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/23/defasagem-do-diesel-nas-refinarias-da-petrobras-ultrapassa-subvencao-e-atinge-r-353l.htm",
+   "publicado_em": "2026-10-23T12:43:00-03:00"
+  },
+  {
+   "titulo": "Goldman: alta do diesel seria positiva para Petrobras, mas poderia prejudicar Vibra (VBBR3) e Ultrapar; banco mantém neutro nas duas",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-pode-ter-subir-diesel-ate-cinquenta-porcento-goldman-sachs-quais-impactos-acoes-inflacao/",
+   "publicado_em": "2026-10-22T14:00:00-03:00"
+  },
   {
    "titulo": "Ibovespa ganha força na reta final antes do 2º turno e fecha em alta de 0,47%, aos 205.083 pontos; na semana, recua 0,17%",
    "fonte": "Valor Econômico",
@@ -557,7 +592,7 @@
   }
  ],
  "rec": "COMPRA (cautelosa)",
- "reason": "VBBR3 fechou 23/10 a R$ 35,82 (-3,19%), na mínima do dia e como maior queda do Ibovespa (OpçõesBR; Yahoo Finance), na contramão do índice, que subiu 0,47% a 205.083 pts (Valor Econômico, 17h22). O papel fechou abaixo do S1 de R$ 36,15 (Toolz), gatilho técnico que confirma fraqueza e abre espaço para R$ 34,13 (S2). Está cerca de 2,2% abaixo da MA50 (R$ 36,63, QuantBrasil) e ~11% acima da MA200. Sem fato relevante novo da Vibra hoje (último comunicado à CVM em 15/10, sobre a divergência com a Petrobras no plano de retirada de marcas). Analistas citam pressão de margens com o dólar mais fraco e normalização após o combate a postos irregulares (Exame/Blue3). JPMorgan reiterou overweight com alvo de R$ 44,50 em 22/10 e o consenso segue de compra. Segundo turno no domingo e balanço do 3T26 em 04/11: risco elevado de volatilidade. Recuperar R$ 36,15 e a MA50 melhora o cenário; sem isso, prudência com novas entradas.",
+ "reason": "VBBR3 fechou 23/10 a R$ 35,82 (-3,19%), na mínima do dia e como maior queda do Ibovespa (OpçõesBR; Yahoo Finance), na contramão do índice, que subiu 0,47% a 205.083 pts (Valor Econômico, 17h22). O papel fechou abaixo do S1 de R$ 36,15 (Toolz), gatilho técnico que confirma fraqueza e abre espaço para R$ 34,13 (S2). Está cerca de 2,4% abaixo da MA50 (R$ 36,69, QuantBrasil 23/10) e ~11% acima da MA200 (R$ 32,26). Sem fato relevante novo da Vibra hoje (último comunicado à CVM em 15/10, sobre a divergência com a Petrobras no plano de retirada de marcas). No radar do próximo pregão (26/10): o Conselho da Petrobras deve discutir o preço do diesel na segunda, após o 2º turno (Valor), e o Goldman Sachs vê risco de reajuste de até 50% que poderia prejudicar distribuidoras como a Vibra (InfoMoney/Valor); o Brent fechou a US$ 116,72, maior valor desde abril (Estadão). Analistas citam pressão de margens com o dólar mais fraco e normalização após o combate a postos irregulares (Exame/Blue3). JPMorgan reiterou overweight com alvo de R$ 44,50 em 22/10 e o consenso segue de compra. Segundo turno no domingo e balanço do 3T26 em 04/11: risco elevado de volatilidade. Recuperar R$ 36,15 e a MA50 melhora o cenário; sem isso, prudência com novas entradas.",
  "sources": [
   [
    "Renova Invest",
