@@ -1,5 +1,5 @@
 {
- "updated": "26/10/2026 08:40",
+ "updated": "26/10/2026 09:52",
  "price": 35.82,
  "price_label": "Fechamento de 23/10/2026 • R$ 35,82 (Yahoo Finance, último negócio 17h05 de Brasília; OpçõesBR confirma R$ 35,82, -3,19%) • vs fechamento de 22/10 de R$ 37,00 (BolsaData/B3)",
  "change_pct": -3.19,
@@ -44,6 +44,24 @@
   ]
  ],
  "news": [
+  {
+   "titulo": "Ibovespa futuro abre em queda de 14,84% (177.215 pts) e fica paralisado; dólar comercial salta a R$ 5,42 e juros futuros disparam",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
+   "publicado_em": "2026-10-26T09:48:00-03:00"
+  },
+  {
+   "titulo": "Dólar abre em alta de 8,65%, a R$ 5,42, e aciona circuit breaker no câmbio; Ibovespa futuro tem dois circuit breakers; Tesouro cancela leilão",
+   "fonte": "O Globo",
+   "url": "https://oglobo.globo.com/economia/noticia/2026/10/26/bolsa-e-dolar-nesta-segunda-feira-mercados-reagem-a-reeleicao-de-lula.ghtml",
+   "publicado_em": "2026-10-26"
+  },
+  {
+   "titulo": "Com Lula reeleito, mercado teme queda de mais de 10% na Bolsa; circuit breaker do à vista seria acionado com Ibovespa a 184.574 pts",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/com-lula-reeleito-mercado-teme-queda-de-mais-de-10-na-bolsa-e-risco-de-circuit-breaker/",
+   "publicado_em": "2026-10-26T08:33:00-03:00"
+  },
   {
    "titulo": "Lula é reeleito no 2º turno com 51,8% dos votos válidos contra 48,2% de Flávio Bolsonaro; mercado espera ajuste severo na abertura",
    "fonte": "Valor Investe",
@@ -639,8 +657,8 @@
    "publicado_em": "2026-10-20"
   }
  ],
- "rec": "COMPRA (cautelosa) • aguardar ajuste pós-eleição",
- "reason": "PRÉ-ABERTURA 26/10: Lula foi reeleito no domingo com 51,8% dos votos válidos (Valor Investe, 7h03), resultado contrário ao cenário-base do mercado. No pré-mercado o EWZ caía cerca de 27% em NY (Money Times, 7h08) e o dólar futuro em Chicago foi ao equivalente a R$ 5,56 (UOL, 25/10 21h24); a Monte Bravo vê mais de 50% de chance de circuit breaker na B3 hoje (Estadão). Espere abertura com forte volatilidade e possível gap de baixa em VBBR3. No setor, o Conselho da Petrobras se reúne hoje para avaliar preços de combustíveis, com reajuste do diesel visto como provável (Broadcast); o Brent recua para US$ 115,23 (Reuters, 4h44). Último fechamento de VBBR3: R$ 35,82 (-3,19%) em 23/10, abaixo do S1 de R$ 36,15 (Toolz) e cerca de 2,4% abaixo da MA50 (R$ 36,69, QuantBrasil); próximo suporte em R$ 34,13 (S2) e MA200 em R$ 32,26. O consenso de analistas segue de compra (ADVFN, alvo médio R$ 41,68), mas o quadro de curto prazo mudou: prudência com novas entradas até o mercado assentar o ajuste pós-eleição. Balanço do 3T26 em 04/11.",
+ "rec": "AGUARDAR • pregão sob circuit breaker, sem entradas até o mercado assentar",
+ "reason": "PRÉ-ABERTURA 26/10 (09h52 de Brasília): o mercado reage à reeleição de Lula com pânico. O Ibovespa futuro abriu em queda de 14,84%, aos 177.215 pontos, e teve as negociações paralisadas; o dólar comercial saltou 8,65%, a R$ 5,42, acionando o circuit breaker do câmbio, e os juros futuros disparam (InfoMoney 9h48; O Globo). O Tesouro cancelou o leilão do dia (O Globo). O mercado à vista, onde VBBR3 negocia, abre às 10h; o circuit breaker do à vista é acionado com queda de 10% do Ibovespa (184.574 pts, Estadão). Divergência: O Globo diz que a B3 ampliou o limite do índice futuro de 10% para 15%; o InfoMoney fala em ampliação de 15% para 20%. Ainda não há cotação de VBBR3 hoje; a referência segue o fechamento de 23/10 em R$ 35,82 (-3,19%), cerca de 2,4% abaixo da MA50 (R$ 36,69) e 11% acima da MA200 (R$ 32,26, QuantBrasil). Um gap de baixa na linha do mercado pode levar o papel ao S2 de R$ 34,13 ou até perto do S3 de R$ 32,56 e da MA200 (Toolz/QuantBrasil). No setor, o Conselho da Petrobras se reúne hoje para avaliar preços; a estatal vê reajuste moderado de diesel e gasolina como inevitável (Broadcast), e a parcela de R$ 2,12/l da subvenção ao diesel vence nesta semana. O consenso de analistas segue de compra (ADVFN, alvo médio R$ 41,68), mas no curto prazo a recomendação é não abrir posição durante a paralisação e esperar o preço assentar. Balanço do 3T26 em 04/11.",
  "sources": [
   [
    "Renova Invest",
