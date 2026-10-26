@@ -1,20 +1,20 @@
 {
- "updated": "26/10/2026 09:52",
- "price": 35.82,
- "price_label": "Fechamento de 23/10/2026 • R$ 35,82 (Yahoo Finance, último negócio 17h05 de Brasília; OpçõesBR confirma R$ 35,82, -3,19%) • vs fechamento de 22/10 de R$ 37,00 (BolsaData/B3)",
- "change_pct": -3.19,
- "alt_price": "Pregão de 23/10 (Yahoo Finance): abertura R$ 36,90, máx. R$ 37,24, mín. R$ 35,82 (fechou na mínima), 12,34 mi de ações. VBBR3 foi a maior queda do Ibovespa no dia (OpçõesBR, 17h29). O Investimento Certo (BRAPI, 17h04) marcava R$ 35,94 (-2,86%), leitura anterior ao leilão de fechamento. Ibovespa fechou em +0,47% a 205.083 pts (máx. 205.757, mín. 203.428), dólar a R$ 5,037 (-0,01%) (Valor Econômico 17h22 e OpçõesBR). Na semana o Ibovespa recuou 0,17%. Divergência: Money Times (26/10) cita Ibovespa de sexta em -0,47% e dólar a R$ 4,9931 (-0,92%); o painel mantém Valor Econômico/OpçõesBR (+0,47%, R$ 5,037).",
- "prev_close": 37.0,
- "prev_src": "BolsaData/B3 COTAHIST, 22/10/2026",
+ "updated": "26/10/2026 11:55",
+ "price": 29.41,
+ "price_label": "Pregão de 26/10/2026 • R$ 29,41 (-17,9%) às 11h25 de Brasília (Yahoo Finance, dado com possível atraso) • vs fechamento de 23/10 de R$ 35,82",
+ "change_pct": -17.9,
+ "alt_price": "Pregão de 26/10 até 11h25 (Yahoo Finance): máx. R$ 33,51, mín. R$ 27,48, 2,80 mi de ações. A B3 acionou circuit breaker por volta das 10h10 (queda de 10% do Ibovespa) e suspendeu o à vista por 30 minutos, com retomada em leilão das 10h30 às 10h35 (B3 Bora Investir 10h13; Reuters 10h27). Ibovespa a 169.918 pts (-17,1%) às 11h33 (Yahoo Finance); mínima de 169.516 pts (Reuters 11h04). Ultrapar (UGPA3) a R$ 34,32 (-11,0%) às 11h33 (Yahoo Finance). Dólar comercial a R$ 5,60 (InfoMoney 11h36; VEJA). Valor Econômico (11h17) relata que a B3 não acionou o segundo circuit breaker mesmo com queda acima de 15% e aguarda explicação da B3. Não foi possível confirmar a cotação de VBBR3 em uma segunda fonte neste horário.",
+ "prev_close": 35.82,
+ "prev_src": "Yahoo Finance / OpçõesBR, fechamento de 23/10/2026",
  "ma50": 36.69,
  "ma200": 32.26,
  "ma_src": "QuantBrasil (SMA diária, atualizado 23/10/2026 19h)",
- "ma_alt": "QuantBrasil 23/10: SMA20 R$ 37,13 • IFR(14) 40 (neutro) • Bollinger inferior R$ 35,68. Toolz (22/10): SMA50 R$ 36,65 / SMA200 R$ 32,51. Distância ao fechamento de R$ 35,82: MA50 cerca de -2,4% (preço abaixo da média); MA200 cerca de +11,0% (acima). Divergência: QuantBrasil registra último preço de R$ 35,75 (-2,59%), mínima R$ 35,67 e fechamento anterior R$ 36,70; BolsaData/B3 confirma fechamento de 22/10 em R$ 37,00, por isso o painel mantém R$ 35,82 (Yahoo Finance/OpçõesBR).",
+ "ma_alt": "QuantBrasil 23/10: SMA20 R$ 37,13 • IFR(14) 40 • Bollinger inferior R$ 35,68. Toolz (22/10): SMA50 R$ 36,65 / SMA200 R$ 32,51. Distância ao preço de R$ 29,41 (11h25): MA50 cerca de -19,8% e MA200 cerca de -8,8%. O papel ROMPEU a MA200 hoje (abriu perto de R$ 33,51 e chegou a R$ 27,48). Médias ainda calculadas até 23/10.",
  "support": 36.15,
  "resistance": 37.5,
  "sr_src": "Toolz (22/10): S1 R$ 36,15 (moderado) • S2 R$ 34,13 • S3 R$ 32,56 (forte) • R1 R$ 37,50 (fraco) • R2 R$ 40,85. Pivô clássico diário R$ 36,88 (R1 R$ 37,25, S1 R$ 36,46). Toolz: rompimento acima de R$ 37,50 abre caminho para R$ 40,85; fechamento abaixo de R$ 36,15 pode levar a R$ 34,13.",
  "high52": 41.27,
- "volume": "23/10: 12,34 mi de ações (Yahoo Finance), abaixo das 14,55 mi de 22/10. 22/10: R$ 533,2 mi (BolsaData/B3), acima da média de ~R$ 492,6 mi dos últimos 30 pregões (CapitalAgora). QuantBrasil registra 459,11M (fontes divergem). 21/10: R$ 256,2 mi • 20/10: R$ 381,0 mi (BolsaData). Valor financeiro de 23/10: R$ 448,72 mi segundo QuantBrasil (19h); B3/COTAHIST ainda não publicado.",
+ "volume": "26/10 até 11h25: 2,80 mi de ações (Yahoo Finance), parcial. 23/10: 12,34 mi de ações (Yahoo Finance) • R$ 448,72 mi (QuantBrasil). 22/10: R$ 533,2 mi (BolsaData/B3), acima da média de ~R$ 492,6 mi dos últimos 30 pregões (CapitalAgora).",
  "consensus": "Consenso ADVFN (16 analistas, última leitura de 20/10): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00); 13 compra, 3 neutro, 0 venda. JPMorgan (22/10): overweight, alvo R$ 44,50, Vibra segue preferida no setor. Itaú BBA (19/10): Outperform, alvo R$ 45. BTG: compra, alvo R$ 42 (potencial ~13,5% vs R$ 37,00).",
  "targets": [
   [
@@ -44,6 +44,36 @@
   ]
  ],
  "news": [
+  {
+   "titulo": "Ibovespa derrete 17%, aos 169,8 mil pontos; dólar comercial a R$ 5,60; B3 (B3SA3) cai 47%, bancos até 31%, Petrobras 8%; Vale sobe 6%",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
+   "publicado_em": "2026-10-26T11:36:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa cai mais de 16%, mas B3 não aciona novo circuit breaker; Valor aguarda explicação da B3",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/26/ibovespa-cai-mais-de-16percent-mas-b3-nao-aciona-novo-circuit-breaker.ghtml",
+   "publicado_em": "2026-10-26T11:17:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa desaba mais de 15% em pregão com circuit breaker após reeleição de Lula; mínima de 169.516 pts",
+   "fonte": "Reuters / UOL",
+   "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/26/ibovespa-desaba-mais-de-15-em-pregao-com-circuit-breaker-apos-reeleicao-de-lula.htm",
+   "publicado_em": "2026-10-26T11:04:00-03:00"
+  },
+  {
+   "titulo": "B3 cita queda de 10% e aciona circuit breaker na abertura do pregão à vista após reeleição de Lula",
+   "fonte": "Reuters / UOL",
+   "url": "https://economia.uol.com.br/noticias/reuters/2026/10/26/b3-cita-queda-de-10-e-aciona-circuit-breaker-na-abertura-do-pregao-a-vista-apos-reeleicao-de-lula.htm",
+   "publicado_em": "2026-10-26T10:27:00-03:00"
+  },
+  {
+   "titulo": "B3 aciona circuit breaker: negociação à vista suspensa por 30 minutos, retomada em leilão das 10h30 às 10h35",
+   "fonte": "B3 Bora Investir",
+   "url": "https://borainvestir.b3.com.br/noticias/mercado/b3-aciona-circuit-breaker/",
+   "publicado_em": "2026-10-26T10:13:00-03:00"
+  },
   {
    "titulo": "Ibovespa futuro abre em queda de 14,84% (177.215 pts) e fica paralisado; dólar comercial salta a R$ 5,42 e juros futuros disparam",
    "fonte": "InfoMoney",
@@ -657,8 +687,8 @@
    "publicado_em": "2026-10-20"
   }
  ],
- "rec": "AGUARDAR • pregão sob circuit breaker, sem entradas até o mercado assentar",
- "reason": "PRÉ-ABERTURA 26/10 (09h52 de Brasília): o mercado reage à reeleição de Lula com pânico. O Ibovespa futuro abriu em queda de 14,84%, aos 177.215 pontos, e teve as negociações paralisadas; o dólar comercial saltou 8,65%, a R$ 5,42, acionando o circuit breaker do câmbio, e os juros futuros disparam (InfoMoney 9h48; O Globo). O Tesouro cancelou o leilão do dia (O Globo). O mercado à vista, onde VBBR3 negocia, abre às 10h; o circuit breaker do à vista é acionado com queda de 10% do Ibovespa (184.574 pts, Estadão). Divergência: O Globo diz que a B3 ampliou o limite do índice futuro de 10% para 15%; o InfoMoney fala em ampliação de 15% para 20%. Ainda não há cotação de VBBR3 hoje; a referência segue o fechamento de 23/10 em R$ 35,82 (-3,19%), cerca de 2,4% abaixo da MA50 (R$ 36,69) e 11% acima da MA200 (R$ 32,26, QuantBrasil). Um gap de baixa na linha do mercado pode levar o papel ao S2 de R$ 34,13 ou até perto do S3 de R$ 32,56 e da MA200 (Toolz/QuantBrasil). No setor, o Conselho da Petrobras se reúne hoje para avaliar preços; a estatal vê reajuste moderado de diesel e gasolina como inevitável (Broadcast), e a parcela de R$ 2,12/l da subvenção ao diesel vence nesta semana. O consenso de analistas segue de compra (ADVFN, alvo médio R$ 41,68), mas no curto prazo a recomendação é não abrir posição durante a paralisação e esperar o preço assentar. Balanço do 3T26 em 04/11.",
+ "rec": "AGUARDAR • queda de -17,9% e rompimento da MA200 em pregão de pânico; sem entradas até o preço assentar",
+ "reason": "PREGÃO 26/10 (11h55 de Brasília): o mercado reage à reeleição de Lula com pânico. A B3 acionou circuit breaker por volta das 10h10, quando o Ibovespa caiu 10%, e o à vista voltou em leilão às 10h30 (B3 Bora Investir; Reuters). Depois da retomada o índice chegou a cair mais de 17%, a 169,9 mil pontos, e o dólar comercial foi a R$ 5,60 (InfoMoney 11h36; Yahoo Finance 11h33). O Valor Econômico (11h17) aponta que o segundo circuit breaker, previsto em queda de 15%, não foi acionado e aguarda explicação da B3. VBBR3 negocia a R$ 29,41 (-17,9%) às 11h25, com mínima de R$ 27,48 (Yahoo Finance), e rompeu a MA200 (R$ 32,26, QuantBrasil), ficando cerca de 8,8% abaixo dela e perto de 20% abaixo da MA50 (R$ 36,69). O papel já está abaixo do S3 de R$ 32,56 (Toolz); não há suporte técnico mapeado pelas fontes abaixo desse nível. Ultrapar cai 11% (Yahoo Finance). No setor, o Conselho da Petrobras se reúne hoje para avaliar preços de diesel e gasolina (Broadcast). O consenso de analistas segue de compra (ADVFN, alvo médio R$ 41,68), mas os alvos são anteriores ao resultado da eleição e podem ser revistos. Com volatilidade extrema e risco de nova suspensão, a recomendação é não abrir posição agora e esperar o preço assentar. Balanço do 3T26 em 04/11.",
  "sources": [
   [
    "Renova Invest",
