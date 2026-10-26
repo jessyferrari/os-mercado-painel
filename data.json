@@ -1,5 +1,5 @@
 {
-  "updated": "26/10/2026 17:55",
+  "updated": "26/10/2026 20:35",
   "price": 32.21,
   "price_label": "Fechamento de 26/10/2026 • R$ 32,21 (-10,08%) • Yahoo Finance (último negócio às 17h05 de Brasília) e Toolz • vs fechamento de 23/10 de R$ 35,82",
   "change_pct": -10.08,
@@ -757,10 +757,34 @@
       "fonte": "Valor Econômico",
       "url": "https://valor.globo.com/financas/noticia/2026/10/26/ibovespa-passa-por-circuit-breaker-e-cai-quase-14percent-com-liquidacao-apos-vitoria-de-lula.ghtml",
       "publicado_em": "2026-10-26T17:25:00-03:00"
+    },
+    {
+      "titulo": "Tombo da bolsa apaga R$ 663 bilhões do valor de mercado das empresas do Ibovespa em um pregão",
+      "fonte": "Valor Investe",
+      "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/26/tombo-da-bolsa-apaga-r-663-bilhoes-do-valor-das-empresas-do-ibovespa.ghtml",
+      "publicado_em": "2026-10-26T18:19:00-03:00"
+    },
+    {
+      "titulo": "Após reação negativa do mercado, Durigan diz que vai ampliar superávit primário em 2027",
+      "fonte": "Poder360",
+      "url": "https://www.poder360.com.br/poder-economia/apos-reacao-negativa-do-mercado-durigan-diz-que-vai-ampliar-superavit/",
+      "publicado_em": "2026-10-26T18:22:00-03:00"
+    },
+    {
+      "titulo": "Fechamento: Ibovespa -13,88% (176.608 pts), Ibovespa Futuro -14,5% (177.925 pts), dólar comercial a R$ 5,4029 (+8,21%)",
+      "fonte": "Estadão Conteúdo / UOL",
+      "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/26/fechamento-do-mercado-financeiro.htm",
+      "publicado_em": "2026-10-26T18:38:00-03:00"
+    },
+    {
+      "titulo": "Lula se reúne no Alvorada com Durigan (Fazenda) e Moretti (Planejamento) após queda da Bolsa e alta do dólar",
+      "fonte": "O Globo",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/10/26/lula-se-reune-com-ministros-da-fazenda-e-do-planejamento-apos-queda-da-bolsa-e-alta-do-dolar.ghtml",
+      "publicado_em": "2026-10-26T18:58:00-03:00"
     }
   ],
   "rec": "AGUARDAR • fechou em -10,08% colado na MA200 (cerca de 0,3% abaixo) após pregão de pânico; esperar o preço confirmar acima de R$ 32,30 a R$ 32,90 ou respeitar S1 de R$ 30,40",
-  "reason": "FECHAMENTO 26/10 (17h55 de Brasília): o Ibovespa terminou em -13,88%, aos 176.608 pts, depois do circuit breaker na abertura e da mínima de 169.516 pts (-17,34%), em reação à reeleição de Lula (Valor 17h25). O volume do Ibovespa foi de R$ 88,6 bi (Valor). Durante o dia, o ministro da Fazenda, Dario Durigan, disse que o governo fará alterações para buscar o centro da meta fiscal (Broadcast, via InfoMoney 12h59), e o mercado passou a precificar alta da Selic em novembro (Reuters, via InfoMoney 13h29). VBBR3 chegou a R$ 27,48 (-23%), mas recuperou boa parte e fechou a R$ 32,21 (-10,08%, Yahoo Finance/Toolz; a QuantBrasil mostra R$ 31,81). O preço terminou praticamente sobre a MA200 (R$ 32,30), cerca de 12% abaixo da MA50 (R$ 36,65), com IFR(14) em 24 (sobrevendido) e volume de 25,55 mi de ações, mais que o dobro de sexta. O consenso segue de compra (ADVFN, alvo médio R$ 41,68), mas os alvos são anteriores à eleição e podem ser revistos. A recomendação é esperar o pregão de amanhã: confirmação acima da MA200 e da R1 (R$ 32,90) seria sinal de recuperação; perda de R$ 30,40 reabre espaço para R$ 28,34. Balanço do 3T26 em 04/11.",
+  "reason": "FECHAMENTO 26/10 (17h55 de Brasília): o Ibovespa terminou em -13,88%, aos 176.608 pts, depois do circuit breaker na abertura e da mínima de 169.516 pts (-17,34%), em reação à reeleição de Lula (Valor 17h25). O volume do Ibovespa foi de R$ 88,6 bi (Valor). Durante o dia, o ministro da Fazenda, Dario Durigan, disse que o governo fará alterações para buscar o centro da meta fiscal (Broadcast, via InfoMoney 12h59), e o mercado passou a precificar alta da Selic em novembro (Reuters, via InfoMoney 13h29). VBBR3 chegou a R$ 27,48 (-23%), mas recuperou boa parte e fechou a R$ 32,21 (-10,08%, Yahoo Finance/Toolz; a QuantBrasil mostra R$ 31,81). O preço terminou praticamente sobre a MA200 (R$ 32,30), cerca de 12% abaixo da MA50 (R$ 36,65), com IFR(14) em 24 (sobrevendido) e volume de 25,55 mi de ações, mais que o dobro de sexta. O consenso segue de compra (ADVFN, alvo médio R$ 41,68), mas os alvos são anteriores à eleição e podem ser revistos. A recomendação é esperar o pregão de amanhã: confirmação acima da MA200 e da R1 (R$ 32,90) seria sinal de recuperação; perda de R$ 30,40 reabre espaço para R$ 28,34. Balanço do 3T26 em 04/11. ATUALIZAÇÃO DA NOITE (20h35 de Brasília): após o fechamento, o Ibovespa Futuro terminou em -14,5%, aos 177.925 pts, e o dólar comercial em R$ 5,4029 (+8,21%) (Estadão Conteúdo/UOL 18h38). Durigan disse que o governo vai ampliar o superávit primário de 2027, sem informar novo valor nem detalhar medidas (Poder360 18h22). Lula se reuniu no começo da noite no Alvorada com Durigan e Moretti; até esta atualização não havia anúncio de resultado da reunião (O Globo 18h58). Não houve fato relevante novo da Vibra hoje; o balanço do 3T26 segue agendado para 04/11 (TraderNews).",
   "sources": [
     [
       "Renova Invest",
