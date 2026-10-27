@@ -1,20 +1,20 @@
 {
-  "updated": "27/10/2026 11:50",
-  "price": 32.03,
-  "price_label": "Pregão de 27/10/2026 • R$ 32,03 (-0,56%) • Yahoo Finance, último negócio às 11h31 de Brasília (atraso de cerca de 15 min) • vs fechamento de 26/10 de R$ 32,21",
-  "change_pct": -0.56,
-  "alt_price": "Pregão de 27/10 até 11h31 (Yahoo Finance): máx. R$ 32,59, mín. R$ 31,50, 5,45 mi de ações. Ibovespa a 176.248 pts (-0,20%) no mesmo horário (Yahoo Finance); o Valor Investe registrava +0,17%, a 176.911 pts, às 11h12, e a Reuters +0,32% às 10h10: índice oscila perto da estabilidade. Dólar comercial em queda de 1,63%, a R$ 5,3145, às 11h12 (Valor Investe). Na véspera (26/10) VBBR3 fechou a R$ 32,21 (-10,08%), mínima de R$ 27,48 e 25,59 mi de ações (Cota B3). CONFLITO na véspera: a QuantBrasil mostrava R$ 31,81 (-11,02%).",
+  "updated": "27/10/2026 13:50",
+  "price": 32.31,
+  "price_label": "Pregão de 27/10/2026 • R$ 32,31 (+0,31%) • Yahoo Finance, último negócio às 13h29 de Brasília (atraso de cerca de 15 min) • vs fechamento de 26/10 de R$ 32,21",
+  "change_pct": 0.31,
+  "alt_price": "Pregão de 27/10 até 13h29 (Yahoo Finance): máx. R$ 32,59, mín. R$ 31,50, 11,21 mi de ações. Ibovespa a 176.332 pts (-0,16%) às 13h29 (Yahoo Finance); a OpçõesBR registrava +0,12%, a 176.817 pts, às 13h20, e a CBN -0,43% (175.842 pts) por volta das 13h: índice volátil perto da estabilidade, entre 175.157 e 178.526 pts no dia (OpçõesBR). Dólar comercial em queda: R$ 5,36 (-1,17%) pela CBN e R$ 5,333 (-1,51%) às 12h43 pela CNN Brasil. CONFLITO: a OpçõesBR mostra R$ 5,3401 com -2,90%, variação que diverge das demais fontes. Na véspera (26/10) VBBR3 fechou a R$ 32,21 (-10,08%), mínima de R$ 27,48 e 25,59 mi de ações (Cota B3).",
   "prev_close": 35.82,
   "prev_src": "Yahoo Finance / OpçõesBR, fechamento de 23/10/2026",
   "ma50": 36.65,
   "ma200": 32.3,
   "ma_src": "QuantBrasil (SMA diária, atualizado 26/10/2026 17h45)",
-  "ma_alt": "QuantBrasil 26/10 17h45: SMA20 R$ 36,87 • SMA50 R$ 36,65 • SMA200 R$ 32,30 • IFR(14) 24 (sobrevendido) • IFR(2) 1 • abaixo da Bollinger inferior (R$ 34,08) • ATR(14) R$ 1,52. Distância ao preço de R$ 32,03 (11h31): MA50 cerca de -12,6% e MA200 cerca de -0,8% (preço logo abaixo da MA200; a máxima do dia, R$ 32,59, chegou a passar acima dela).",
+  "ma_alt": "QuantBrasil 26/10 17h45: SMA20 R$ 36,87 • SMA50 R$ 36,65 • SMA200 R$ 32,30 • IFR(14) 24 (sobrevendido) • IFR(2) 1 • abaixo da Bollinger inferior (R$ 34,08) • ATR(14) R$ 1,52. Distância ao preço de R$ 32,31 (13h29): MA50 cerca de -11,8% e MA200 praticamente zero (+0,03%): o preço está colado na MA200.",
   "support": 30.4,
   "resistance": 32.9,
   "sr_src": "Toolz (pós-fechamento 26/10): R1 R$ 32,90 (forte) • R2 R$ 36,77 • R3 R$ 40,85 • S1 R$ 30,40 (fraco) • S2 R$ 28,34 (forte) • S3 R$ 24,40. A MA200 (R$ 32,30) e a R1 (R$ 32,90) formam a barreira imediata acima do preço.",
   "high52": 41.27,
-  "volume": "27/10 até 11h31: 5,45 mi de ações (Yahoo Finance). 26/10: 25,55 mi de ações (Yahoo Finance) ou 25,59 mi (Cota B3), R$ 815,3 mi negociados (Cota B3/TradeMap), mais que o dobro de 23/10 (12,35 mi) e bem acima da média de 10 dias de 11,71 mi citada pela Toolz.",
+  "volume": "27/10 até 13h29: 11,21 mi de ações (Yahoo Finance). 26/10: 25,55 mi de ações (Yahoo Finance) ou 25,59 mi (Cota B3), R$ 815,3 mi negociados (Cota B3/TradeMap); a Cifrix cita R$ 824,3 mi. Média de 10 dias de 11,71 mi citada pela Toolz.",
   "consensus": "Consenso ADVFN (16 analistas, última leitura de 20/10): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00); 13 compra, 3 neutro, 0 venda. JPMorgan (22/10): overweight, alvo R$ 44,50, Vibra segue preferida no setor. Itaú BBA (19/10): Outperform, alvo R$ 45. BTG: compra, alvo R$ 42 (potencial ~13,5% vs R$ 37,00).",
   "targets": [
     [
@@ -44,6 +44,24 @@
     ]
   ],
   "news": [
+    {
+      "titulo": "Ibovespa opera com volatilidade nesta terça após queda de quase 14% na véspera; perde força durante entrevista de Galípolo",
+      "fonte": "CBN",
+      "url": "https://cbn.globo.com/economia/noticia/2026/10/27/ibovespa-opera-com-volatilidade-nesta-terca-27-apos-queda-de-quase-14percent-na-vespera.ghtml",
+      "publicado_em": "2026-10-27T13:05:00-03:00"
+    },
+    {
+      "titulo": "Ibovespa opera com volatilidade após choque com vitória de Lula; dólar cai a R$ 5,333 (atualizado 12h47)",
+      "fonte": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-27-outubro-2026/",
+      "publicado_em": "2026-10-27T12:47:00-03:00"
+    },
+    {
+      "titulo": "Vibra e Petrobras: o que a reeleição de Lula muda na disputa pela marca BR",
+      "fonte": "Minaspetro (via Exame)",
+      "url": "https://minaspetro.com.br/vibra-e-petrobras-o-que-a-reeleicao-de-lula-muda-na-disputa-pela-marca-br/",
+      "publicado_em": "2026-10-27"
+    },
     {
       "titulo": "Ibovespa e dólar hoje: bolsa sobe e dólar recua abaixo de R$ 5,40",
       "fonte": "Valor Investe",
@@ -849,8 +867,8 @@
       "publicado_em": "2026-10-27"
     }
   ],
-  "rec": "AGUARDAR • opera em R$ 32,03, cerca de 0,8% abaixo da MA200 (R$ 32,30), testou R$ 32,59 e voltou; esperar fechamento acima de R$ 32,30 a R$ 32,90 ou respeitar S1 de R$ 30,40",
-  "reason": "ATUALIZAÇÃO 27/10 (11h50 de Brasília): VBBR3 negocia a R$ 32,03 (-0,56%) às 11h31 (Yahoo Finance, com atraso), entre R$ 31,50 e R$ 32,59 no dia. A ação chegou a superar a MA200 (R$ 32,30) na máxima, mas não se sustentou e segue cerca de 0,8% abaixo dela, ainda sem romper a R1 de R$ 32,90. O Ibovespa oscila perto da estabilidade (+0,17% às 11h12 pelo Valor Investe; -0,20% às 11h31 pelo Yahoo Finance) depois do tombo de 13,88% de segunda, e o dólar cai 1,63%, a R$ 5,3145 (Valor Investe 11h12). Analistas ainda esperam turbulência até o governo sinalizar compromisso fiscal e definir a equipe econômica (Valor Investe). Galípolo (BC) fala das 11h às 13h sobre o Relatório de Estabilidade Financeira, com o Copom na próxima semana (Valor 08h39). CONTEXTO: em 26/10 VBBR3 caiu 10,08%, a R$ 32,21, com mínima de R$ 27,48, após a reeleição de Lula; IFR(14) em 24 (sobrevendido). Para a Vibra, a reeleição reduz a expectativa de rever a não renovação da licença da marca BR, que vence em junho de 2029 (Exame 07h00); não há fato relevante novo da companhia. O consenso segue de compra (ADVFN, alvo médio R$ 41,68), mas os alvos são anteriores à eleição e podem ser revistos. Fechamento acima da MA200 e da R1 (R$ 32,90) seria sinal de recuperação; perda de R$ 30,40 reabre espaço para R$ 28,34. Balanço do 3T26 em 04/11.",
+  "rec": "AGUARDAR • R$ 32,31, colado na MA200 (R$ 32,30); confirmação só com fechamento acima de R$ 32,30 e rompimento da R1 de R$ 32,90; abaixo de R$ 30,40 (S1) o quadro piora",
+  "reason": "ATUALIZAÇÃO 27/10 (13h50 de Brasília): VBBR3 negocia a R$ 32,31 (+0,31%) às 13h29 (Yahoo Finance, com atraso), entre R$ 31,50 e R$ 32,59 no dia, com 11,21 mi de ações. O preço voltou para cima da MA200 (R$ 32,30) e está praticamente sobre ela (+0,03%), ainda abaixo da R1 de R$ 32,90. O Ibovespa segue volátil perto da estabilidade (176.332 pts, -0,16%, Yahoo 13h29) após o tombo de 13,88% de segunda; perdeu força a partir das 11h, durante a entrevista de Galípolo (CBN 13h05). O dólar cai cerca de 1,2% a 1,5%, perto de R$ 5,33 a R$ 5,36 (CBN, CNN Brasil). O governo renovou a subvenção de R$ 2,12 do diesel por mais 30 dias (CNN Brasil / InfoMoney), e Citi e BCA rebaixaram ativos brasileiros. Para a Vibra, a reeleição reduz a chance de rever a não renovação da licença da marca BR, que vence em junho de 2029 (Exame, reproduzido pela Minaspetro); não há fato relevante novo da companhia. Consenso ainda de compra (ADVFN, alvo médio R$ 41,68), com alvos anteriores à eleição. Fechamento acima da MA200 e da R1 seria sinal de recuperação; perda de R$ 30,40 reabre espaço para R$ 28,34. Balanço do 3T26 em 04/11.",
   "sources": [
     [
       "Renova Invest",
