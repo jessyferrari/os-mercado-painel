@@ -1,844 +1,862 @@
 {
-  "updated": "27/10/2026 08:35",
-  "price": 32.21,
-  "price_label": "Fechamento de 26/10/2026 • R$ 32,21 (-10,08%) • Yahoo Finance (último negócio às 17h05 de Brasília) e Toolz • vs fechamento de 23/10 de R$ 35,82",
-  "change_pct": -10.08,
-  "alt_price": "Pregão de 26/10 (Yahoo Finance): abertura R$ 33,50 (Toolz), máx. R$ 33,51, mín. R$ 27,48, 25,55 mi de ações. CONFLITO: a QuantBrasil (atualizada às 17h45) mostra R$ 31,81 (-11,02%), mínima de R$ 31,22, volume de R$ 761,94 mi e fechamento anterior de R$ 35,75; o fechamento oficial da B3 (COTAHIST) ainda não foi publicado. Ibovespa fechou a 176.608 pts (-13,88%), mínima de 169.516 pts (Valor 17h25; Yahoo Finance). Dólar a R$ 5,40 às 17h50 (Yahoo Finance), depois de chegar a R$ 5,60.",
-  "prev_close": 35.82,
-  "prev_src": "Yahoo Finance / OpçõesBR, fechamento de 23/10/2026",
-  "ma50": 36.65,
-  "ma200": 32.3,
-  "ma_src": "QuantBrasil (SMA diária, atualizado 26/10/2026 17h45)",
-  "ma_alt": "QuantBrasil 26/10 17h45: SMA20 R$ 36,87 • SMA50 R$ 36,65 • SMA200 R$ 32,30 • IFR(14) 24 (sobrevendido) • IFR(2) 1 • abaixo da Bollinger inferior (R$ 34,08) • ATR(14) R$ 1,52. Distância ao fechamento de R$ 32,21: MA50 cerca de -12,1% e MA200 cerca de -0,3% (preço praticamente encostado na MA200, por baixo).",
-  "support": 30.4,
-  "resistance": 32.9,
-  "sr_src": "Toolz (pós-fechamento 26/10): R1 R$ 32,90 (forte) • R2 R$ 36,77 • R3 R$ 40,85 • S1 R$ 30,40 (fraco) • S2 R$ 28,34 (forte) • S3 R$ 24,40. A MA200 (R$ 32,30) e a R1 (R$ 32,90) formam a barreira imediata acima do preço.",
-  "high52": 41.27,
-  "volume": "26/10: 25,55 mi de ações (Yahoo Finance), mais que o dobro de 23/10 (12,35 mi) e bem acima da média de 10 dias de 11,71 mi citada pela Toolz. QuantBrasil indica R$ 761,94 mi negociados. 23/10: R$ 447,7 mi (BolsaData/B3).",
-  "consensus": "Consenso ADVFN (16 analistas, última leitura de 20/10): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00); 13 compra, 3 neutro, 0 venda. JPMorgan (22/10): overweight, alvo R$ 44,50, Vibra segue preferida no setor. Itaú BBA (19/10): Outperform, alvo R$ 45. BTG: compra, alvo R$ 42 (potencial ~13,5% vs R$ 37,00).",
-  "targets": [
-    [
-      "JPMorgan",
-      "Overweight (compra)",
-      "R$ 44,50"
-    ],
-    [
-      "Itaú BBA",
-      "Outperform (compra)",
-      "R$ 45,00"
-    ],
-    [
-      "BTG Pactual",
-      "Compra",
-      "R$ 42,00 (12 meses)"
-    ],
-    [
-      "Morgan Stanley",
-      "Neutra (rebaixou de overweight)",
-      "R$ 43,00 (fim de 2027)"
-    ],
-    [
-      "Goldman Sachs",
-      "Neutra",
-      "não informado"
-    ]
+ "updated": "27/10/2026 09:45",
+ "price": 32.21,
+ "price_label": "Fechamento de 26/10/2026 • R$ 32,21 (-10,08%) • Yahoo Finance (último negócio às 17h05 de Brasília) e Toolz • vs fechamento de 23/10 de R$ 35,82",
+ "change_pct": -10.08,
+ "alt_price": "Pregão de 26/10 (Yahoo Finance): abertura R$ 33,50 (Toolz), máx. R$ 33,51, mín. R$ 27,48, 25,55 mi de ações. CONFLITO: a QuantBrasil (atualizada às 17h45) mostra R$ 31,81 (-11,02%), mínima de R$ 31,22, volume de R$ 761,94 mi e fechamento anterior de R$ 35,75; o fechamento oficial da B3 (COTAHIST) ainda não foi publicado. Ibovespa fechou a 176.608 pts (-13,88%), mínima de 169.516 pts (Valor 17h25; Yahoo Finance). Dólar a R$ 5,40 às 17h50 (Yahoo Finance), depois de chegar a R$ 5,60. Em 27/10 o pregão à vista abre às 10h; Cota B3, TradeMap e OpçõesBR ainda mostram o fechamento de R$ 32,21 (volume financeiro de R$ 815,3 mi segundo Cota B3/TradeMap).",
+ "prev_close": 35.82,
+ "prev_src": "Yahoo Finance / OpçõesBR, fechamento de 23/10/2026",
+ "ma50": 36.65,
+ "ma200": 32.3,
+ "ma_src": "QuantBrasil (SMA diária, atualizado 26/10/2026 17h45)",
+ "ma_alt": "QuantBrasil 26/10 17h45: SMA20 R$ 36,87 • SMA50 R$ 36,65 • SMA200 R$ 32,30 • IFR(14) 24 (sobrevendido) • IFR(2) 1 • abaixo da Bollinger inferior (R$ 34,08) • ATR(14) R$ 1,52. Distância ao fechamento de R$ 32,21: MA50 cerca de -12,1% e MA200 cerca de -0,3% (preço praticamente encostado na MA200, por baixo).",
+ "support": 30.4,
+ "resistance": 32.9,
+ "sr_src": "Toolz (pós-fechamento 26/10): R1 R$ 32,90 (forte) • R2 R$ 36,77 • R3 R$ 40,85 • S1 R$ 30,40 (fraco) • S2 R$ 28,34 (forte) • S3 R$ 24,40. A MA200 (R$ 32,30) e a R1 (R$ 32,90) formam a barreira imediata acima do preço.",
+ "high52": 41.27,
+ "volume": "26/10: 25,55 mi de ações (Yahoo Finance), mais que o dobro de 23/10 (12,35 mi) e bem acima da média de 10 dias de 11,71 mi citada pela Toolz. QuantBrasil indica R$ 761,94 mi negociados. 23/10: R$ 447,7 mi (BolsaData/B3).",
+ "consensus": "Consenso ADVFN (16 analistas, última leitura de 20/10): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00); 13 compra, 3 neutro, 0 venda. JPMorgan (22/10): overweight, alvo R$ 44,50, Vibra segue preferida no setor. Itaú BBA (19/10): Outperform, alvo R$ 45. BTG: compra, alvo R$ 42 (potencial ~13,5% vs R$ 37,00).",
+ "targets": [
+  [
+   "JPMorgan",
+   "Overweight (compra)",
+   "R$ 44,50"
   ],
-  "news": [
-    {
-      "titulo": "Ibovespa derrete 17%, aos 169,8 mil pontos; dólar comercial a R$ 5,60; B3 (B3SA3) cai 47%, bancos até 31%, Petrobras 8%; Vale sobe 6%",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
-      "publicado_em": "2026-10-26T11:36:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa cai mais de 16%, mas B3 não aciona novo circuit breaker; Valor aguarda explicação da B3",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/26/ibovespa-cai-mais-de-16percent-mas-b3-nao-aciona-novo-circuit-breaker.ghtml",
-      "publicado_em": "2026-10-26T11:17:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa desaba mais de 15% em pregão com circuit breaker após reeleição de Lula; mínima de 169.516 pts",
-      "fonte": "Reuters / UOL",
-      "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/26/ibovespa-desaba-mais-de-15-em-pregao-com-circuit-breaker-apos-reeleicao-de-lula.htm",
-      "publicado_em": "2026-10-26T11:04:00-03:00"
-    },
-    {
-      "titulo": "B3 cita queda de 10% e aciona circuit breaker na abertura do pregão à vista após reeleição de Lula",
-      "fonte": "Reuters / UOL",
-      "url": "https://economia.uol.com.br/noticias/reuters/2026/10/26/b3-cita-queda-de-10-e-aciona-circuit-breaker-na-abertura-do-pregao-a-vista-apos-reeleicao-de-lula.htm",
-      "publicado_em": "2026-10-26T10:27:00-03:00"
-    },
-    {
-      "titulo": "B3 aciona circuit breaker: negociação à vista suspensa por 30 minutos, retomada em leilão das 10h30 às 10h35",
-      "fonte": "B3 Bora Investir",
-      "url": "https://borainvestir.b3.com.br/noticias/mercado/b3-aciona-circuit-breaker/",
-      "publicado_em": "2026-10-26T10:13:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa futuro abre em queda de 14,84% (177.215 pts) e fica paralisado; dólar comercial salta a R$ 5,42 e juros futuros disparam",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
-      "publicado_em": "2026-10-26T09:48:00-03:00"
-    },
-    {
-      "titulo": "Dólar abre em alta de 8,65%, a R$ 5,42, e aciona circuit breaker no câmbio; Ibovespa futuro tem dois circuit breakers; Tesouro cancela leilão",
-      "fonte": "O Globo",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/10/26/bolsa-e-dolar-nesta-segunda-feira-mercados-reagem-a-reeleicao-de-lula.ghtml",
-      "publicado_em": "2026-10-26"
-    },
-    {
-      "titulo": "Com Lula reeleito, mercado teme queda de mais de 10% na Bolsa; circuit breaker do à vista seria acionado com Ibovespa a 184.574 pts",
-      "fonte": "Estadão E-Investidor",
-      "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/com-lula-reeleito-mercado-teme-queda-de-mais-de-10-na-bolsa-e-risco-de-circuit-breaker/",
-      "publicado_em": "2026-10-26T08:33:00-03:00"
-    },
-    {
-      "titulo": "Lula é reeleito no 2º turno com 51,8% dos votos válidos contra 48,2% de Flávio Bolsonaro; mercado espera ajuste severo na abertura",
-      "fonte": "Valor Investe",
-      "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/26/eleicoes-2026-etf-de-acoes-brasileiras-em-ny-tomba-em-resposta-as-urnas.ghtml",
-      "publicado_em": "2026-10-26T07:03:00-03:00"
-    },
-    {
-      "titulo": "EWZ, ETF de ações brasileiras em NY, recua 27% (US$ 31) no pré-mercado por volta das 7h após resultado das urnas",
-      "fonte": "Valor Investe",
-      "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/26/eleicoes-2026-etf-de-acoes-brasileiras-em-ny-tomba-em-resposta-as-urnas.ghtml",
-      "publicado_em": "2026-10-26T07:04:00-03:00"
-    },
-    {
-      "titulo": "Mercado repercute vitória de Lula: EWZ cai 27,26% (US$ 30,98) e ADRs recuam; agenda tem Focus (8h25) e transações correntes (8h30)",
-      "fonte": "Money Times",
-      "url": "https://www.moneytimes.com.br/mercado-repercute-vitoria-de-lula-na-eleicao-de-2026-ibovespa-em-dolar-despenca-quase-30-nesta-segunda-feira-26-rens/",
-      "publicado_em": "2026-10-26T07:08:00-03:00"
-    },
-    {
-      "titulo": "Monte Bravo vê mais de 50% de chance de circuit breaker na B3 nesta segunda; analistas preveem queda da bolsa e alta de dólar e juros",
-      "fonte": "Estadão E-Investidor",
-      "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/mercado-financeiro-ja-precificou-a-eleicao-veja-o-que-esperar-de-acoes-dolar-e-tesouro-hoje/",
-      "publicado_em": "2026-10-26T00:50:00-03:00"
-    },
-    {
-      "titulo": "Dólar futuro em Chicago vai ao equivalente a R$ 5,56 (+10%) e ETF do Ibovespa em Tóquio recua mais de 14% após vitória de Lula",
-      "fonte": "UOL",
-      "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/25/real-futuro-cai-9-e-etf-do-ibovespa-recua-11-apos-vitoria-de-lula.htm",
-      "publicado_em": "2026-10-25T21:24:00-03:00"
-    },
-    {
-      "titulo": "Investidores esperam queda das ações brasileiras e do real após reeleição de Lula; Warren prevê onda de vendas e juros futuros no limite",
-      "fonte": "Reuters / Investing.com",
-      "url": "https://br.investing.com/news/economy-news/investidores-esperam-queda-das-acoes-brasileiras-e-do-real-apos-reeleicao-de-lula-2102194",
-      "publicado_em": "2026-10-26"
-    },
-    {
-      "titulo": "Petróleo recua de máximas de quase seis meses com esperança de alívio EUA-Irã: Brent a US$ 115,23 (-1,28%) às 4h44 de Brasília",
-      "fonte": "Reuters / Yahoo Finance",
-      "url": "https://finance.yahoo.com/energy/articles/oil-prices-down-almost-1-232445179.html",
-      "publicado_em": "2026-10-26T07:33:00-03:00"
-    },
-    {
-      "titulo": "Conselho da Petrobras se reúne nesta segunda (26) para avaliar preços; reajuste moderado de diesel e gasolina é visto internamente como inevitável",
-      "fonte": "Broadcast Agro / Cogo",
-      "url": "https://www.carloscogo.com.br/docs/group1/group2/insumos/insumos_conj_12646.shtml",
-      "publicado_em": "2026-10-26"
-    },
-    {
-      "titulo": "Petróleo fecha em alta com temor de reescalada EUA-Irã: Brent a US$ 116,72 (+3,13%), maior valor desde abril; +6,24% na semana",
-      "fonte": "Estadão Conteúdo / UOL",
-      "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/23/petroleo-fecha-em-alta-com-temor-de-reescalada-entre-eua-ira-brent-tem-maior-valor-desde-abril.htm",
-      "publicado_em": "2026-10-23T16:07:00-03:00"
-    },
-    {
-      "titulo": "Goldman Sachs alerta para risco de reajuste de até 50% no diesel da Petrobras após as eleições; defasagem de 21%",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/23/goldman-sachs-alerta-para-risco-de-reajuste-de-50-pontos-percentuais-no-diesel-da-petrobras-aps-eleies.ghtml",
-      "publicado_em": "2026-10-23T14:29:00-03:00"
-    },
-    {
-      "titulo": "Conselho da Petrobras deve discutir preço do diesel na segunda (26), depois do 2º turno, dizem fontes",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/23/conselho-da-petrobras-deve-discutir-preo-do-diesel-depois-do-segundo-turno-dizem-fontes.ghtml",
-      "publicado_em": "2026-10-23T13:16:00-03:00"
-    },
-    {
-      "titulo": "Defasagem do diesel nas refinarias da Petrobras ultrapassa a subvenção e atinge R$ 3,53/l (Abicom); 145 dias sem reajuste",
-      "fonte": "Estadão Conteúdo / UOL",
-      "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/23/defasagem-do-diesel-nas-refinarias-da-petrobras-ultrapassa-subvencao-e-atinge-r-353l.htm",
-      "publicado_em": "2026-10-23T12:43:00-03:00"
-    },
-    {
-      "titulo": "Goldman: alta do diesel seria positiva para Petrobras, mas poderia prejudicar Vibra (VBBR3) e Ultrapar; banco mantém neutro nas duas",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-pode-ter-subir-diesel-ate-cinquenta-porcento-goldman-sachs-quais-impactos-acoes-inflacao/",
-      "publicado_em": "2026-10-22T14:00:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa ganha força na reta final antes do 2º turno e fecha em alta de 0,47%, aos 205.083 pontos; na semana, recua 0,17%",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/23/ibovespa-ganha-forca-na-reta-final-antes-do-2o-turno-com-sondagens-eleitorais-e-avanco-de-blue-chips.ghtml",
-      "publicado_em": "2026-10-23T17:22:00-03:00"
-    },
-    {
-      "titulo": "Fechamento: VBBR3 é a maior queda do Ibovespa (-3,19%, R$ 35,82); índice +0,47% e dólar a R$ 5,04",
-      "fonte": "OpçõesBR",
-      "url": "https://opcoesbr.com.br/fechamento-do-mercado",
-      "publicado_em": "2026-10-23T17:29:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa acelera e avança (+0,66%, 205.462 pts por volta das 15h10) e dólar cai a R$ 5,00 antes do 2º turno",
-      "fonte": "Valor Investe",
-      "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/23/ibovespa-e-dolar-hoje-23-de-outubro-de-2026.ghtml",
-      "publicado_em": "2026-10-23T15:12:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa avança aos 205,7 mil pontos, dólar recua a R$ 5,00 e juros futuros caem; Small Caps sobe 20% em outubro",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23102026/",
-      "publicado_em": "2026-10-23T15:10:00-03:00"
-    },
-    {
-      "titulo": "Dólar oscila perto da estabilidade (R$ 5,027, -0,21% às 14h27) no último pregão antes do 2º turno",
-      "fonte": "Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/dolar-oscila-perto-da-estabilidade-em-ultimo-pregao-antes-do-segundo-turno-com-datafolha-no-radar.shtml",
-      "publicado_em": "2026-10-23T14:38:00-03:00"
-    },
-    {
-      "titulo": "Mercado agora: Ibovespa vira o sinal e cai 0,14% perto das 13h50; bolsas europeias fecham mistas com petróleo e IA",
-      "fonte": "InvesTalk (BB)",
-      "url": "https://investalk.bb.com.br/noticias/mercado/mercado-agora-23-10-26",
-      "publicado_em": "2026-10-23"
-    },
-    {
-      "titulo": "Ibovespa ronda estabilidade (+0,09%, 204.309 pts perto das 12h45), com apoio de Petrobras e de olho nas eleições",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/23/ibovespa-segue-estavel-com-alta-em-petrobras-e-vale-e-queda-em-bradesco-apos-balanco.ghtml",
-      "publicado_em": "2026-10-23T13:03:00-03:00"
-    },
-    {
-      "titulo": "Rápidas: Brent sobe 2,5% a US$ 116; Petrobras e petroleiras juniores em alta; Ibovespa -0,18% às 11h24",
-      "fonte": "Finance News",
-      "url": "https://financenews.com.br/2026/10/rapidas-petrobras-prio-brava-bradesco-vale-cpfl-gerdau-petz-cobasi/",
-      "publicado_em": "2026-10-23T11:25:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa oscila aos 204,2 mil pontos; dólar a R$ 5,03 e juros futuros recuam após IPCA-15 e Datafolha",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23102026/",
-      "publicado_em": "2026-10-23T12:54:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa e dólar operam estáveis no último pregão antes do 2º turno; Brent supera US$ 115 e WTI passa de US$ 101",
-      "fonte": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-e-dolar-operam-estaveis-no-ultimo-pregao-antes-do-segundo-turno-das-eleicoes/",
-      "publicado_em": "2026-10-23T11:13:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa sobe 0,17% (204.461 pts) e dólar trava perto das 11h, com IPCA-15 abaixo do esperado antes do 2º turno",
-      "fonte": "Valor Investe",
-      "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/23/ibovespa-e-dolar-hoje-23-de-outubro-de-2026.ghtml",
-      "publicado_em": "2026-10-23T11:14:00-03:00"
-    },
-    {
-      "titulo": "IPCA-15 sobe 0,32% em outubro, abaixo do piso das projeções (mediana 0,44%); 4,62% em 12 meses",
-      "fonte": "Valor Econômico / IBGE",
-      "url": "https://valor.globo.com/brasil/noticia/2026/10/23/ipca-15-sobe-032percent-em-outubro.ghtml",
-      "publicado_em": "2026-10-23T09:05:00-03:00"
-    },
-    {
-      "titulo": "IPCA-15 tem alta de 0,32% em outubro, abaixo do esperado (Reuters projetava 0,43%)",
-      "fonte": "Reuters / Investing.com",
-      "url": "https://br.investing.com/news/economic-indicators/ipca15-tem-alta-de-032-em-outubro-abaixo-do-esperado-2101063",
-      "publicado_em": "2026-10-23T09:14:00-03:00"
-    },
-    {
-      "titulo": "Dólar abre em alta (R$ 5,0453, +0,13% perto das 9h10), no último pregão antes do 2º turno",
-      "fonte": "g1",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/23/dolar-ibovespa.ghtml",
-      "publicado_em": "2026-10-23T09:00:00-03:00"
-    },
-    {
-      "titulo": "Petróleo volta a subir e Brent passa de US$ 114 pela primeira vez desde maio (US$ 114,36, +1,05%, às 7h20)",
-      "fonte": "Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/petroleo-volta-a-subir-e-ultrapassa-us-114-pela-primeira-vez-desde-maio.shtml",
-      "publicado_em": "2026-10-23T07:40:00-03:00"
-    },
-    {
-      "titulo": "Agenda do dia: IPCA-15 no Brasil (9h) e PMIs nos EUA são destaque",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/23/agenda-do-dia-ipca-15-no-brasil-e-pmis-nos-eua-sao-destaque.ghtml",
-      "publicado_em": "2026-10-23T07:42:00-03:00"
-    },
-    {
-      "titulo": "Brent em máxima de cinco meses (US$ 114,49) e caminha para a 3ª semana seguida de alta",
-      "fonte": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-      "publicado_em": "2026-10-23T06:02:00-03:00"
-    },
-    {
-      "titulo": "Eleições, debate na Globo, IPCA-15 (previsão 0,45%) e mais destaques desta sexta",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/eleicoes-debate-globo-ipca-15-agenda-23102026/",
-      "publicado_em": "2026-10-23"
-    },
-    {
-      "titulo": "Investidor digere Datafolha (empate em 50% dos válidos) antes do debate da Globo e monitora prévia da inflação",
-      "fonte": "Valor Investe",
-      "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/23/investidor-digere-datafolha-antes-do-debate-da-globo-e-monitora-previa-da-inflacao.ghtml",
-      "publicado_em": "2026-10-23"
-    },
-    {
-      "titulo": "Ibovespa hoje (23): inflação, Datafolha e debate eleitoral no radar no último pregão antes do 2º turno",
-      "fonte": "Estadão E-Investidor",
-      "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-hoje-empate-entre-lula-e-flavio-e-ipca-15-pautam-ultimo-pregao-antes-do-2-turno/",
-      "publicado_em": "2026-10-23"
-    },
-    {
-      "titulo": "Ibovespa e dólar: techs derrubam NY; Brent salta 4% a US$ 113,17 com tensão EUA-Irã",
-      "fonte": "Investing.com",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-techs-ia-derrubam-ny-e-petroleo-dispara-com-tensao-euaira-2100482",
-      "publicado_em": "2026-10-22T18:47:00-03:00"
-    },
-    {
-      "titulo": "Dólar sobe 0,22% e fecha a R$ 5,038; Ibovespa cai 1,15%",
-      "fonte": "Poder360",
-      "url": "https://www.poder360.com.br/poder-economia/dolar-sobe-022-e-fecha-a-r-5038-ibovespa-cai-115/",
-      "publicado_em": "2026-10-22T17:34:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa fecha em queda de 1,15% (204.120 pts) com exterior, eleição, Vale e bancos; dólar a R$ 5,03",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-22102026/",
-      "publicado_em": "2026-10-22T17:31:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa cai mais de 1% e dólar sobe com aversão a risco; Brent acima de US$ 113, maior nível desde maio",
-      "fonte": "Valor Investe",
-      "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/22/ibovespa-e-dolar-hoje-22-de-outubro-de-2026.ghtml",
-      "publicado_em": "2026-10-22T17:15:00-03:00"
-    },
-    {
-      "titulo": "Vibra (VBBR3) segue como favorita do JPMorgan: overweight e alvo de R$ 44,50",
-      "fonte": "Guia do Investidor",
-      "url": "https://guiadoinvestidor.com.br/mercado/vibra-vbbr3-segue-como-favorita-do-jpmorgan-acao-sobe-45-e-banco-ve-mais-potencial/",
-      "publicado_em": "2026-10-22T12:35:00-03:00"
-    },
-    {
-      "titulo": "Vibra ganha participação de mercado em setembro; Ipiranga recua, aponta Itaú BBA",
-      "fonte": "Investing.com / CapitalAgora",
-      "url": "https://capitalagora.com.br/noticia/vibra-ganha-participacao-em-setembro-ipiranga-recua-aponta-itau",
-      "publicado_em": "2026-10-21T18:52:00-03:00"
-    },
-    {
-      "titulo": "Banco Central informa PTAX de fechamento: compra R$ 5,0134 e venda R$ 5,0140 (ontem R$ 5,0564)",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
-      "publicado_em": "2026-10-20T13:17:00-03:00"
-    },
-    {
-      "titulo": "Petróleo Brent vira para queda após bater US$ 111, com ataques de houthis",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
-      "publicado_em": "2026-10-20T12:07:00-03:00"
-    },
-    {
-      "titulo": "Petrobras (PETR4) e PRIO (PRIO3) caem com petróleo em dia de alta do Ibovespa; petroleiras dominam as baixas",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
-      "publicado_em": "2026-10-20"
-    },
-    {
-      "titulo": "Ibovespa orbita 208 mil pontos com aval de estrangeiros na reta final da eleição (fluxo externo de R$ 20,99 bi em outubro até 16/10)",
-      "fonte": "Reuters / UOL",
-      "url": "https://economia.uol.com.br/noticias/reuters/2026/10/20/ibovespa-avanca-e-toca-208-mil-pontos-com-aval-de-estrangeiros-na-reta-final-da-eleicao.htm",
-      "publicado_em": "2026-10-20T10:17:00-03:00"
-    },
-    {
-      "titulo": "Dólar opera em queda e Ibovespa sobe; Brent cai 2,82%, a US$ 106,46, perto das 12h após AIE sinalizar nova liberação de reservas",
-      "fonte": "g1",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/20/dolar-ibovespa.ghtml",
-      "publicado_em": "2026-10-20T09:00:00-03:00"
-    },
-    {
-      "titulo": "Petróleo sobe e Brent supera US$ 111 (+1,69%, contrato dez., 7h40) com queda na oferta do Golfo e ataques do Irã em Ormuz; WTI a US$ 100,77",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/20/petrleo-sobe-e-brent-supera-us-111-com-queda-na-oferta-do-golfo-e-ataques-do-ir-em-ormuz.ghtml",
-      "publicado_em": "2026-10-20T07:51:00-03:00"
-    },
-    {
-      "titulo": "Agenda do dia: leilão do Tesouro (11h) é destaque; agenda de indicadores praticamente esvaziada no Brasil",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/20/agenda-do-dia-leilao-do-tesouro-e-destaque.ghtml",
-      "publicado_em": "2026-10-20T07:43:00-03:00"
-    },
-    {
-      "titulo": "Bolsas mundiais têm viés de queda com petróleo novamente acima de US$ 110 por barril (Brent dez. US$ 111,26 às 7h07)",
-      "fonte": "UOL Economia",
-      "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/20/bolsas-mundiais-20-de-outubro-de-2026.ghtm",
-      "publicado_em": "2026-10-20T07:20:00-03:00"
-    },
-    {
-      "titulo": "Mercados acompanham contagem regressiva para eleição, ADP nos EUA e salto do petróleo; Ibovespa em dólar sobe nesta terça (20)",
-      "fonte": "Money Times",
-      "url": "https://www.moneytimes.com.br/mercados-acompanham-contagem-regressiva-para-eleicao-adp-nos-eua-e-salto-do-petroleo-ibovespa-em-dolar-sobe-nesta-terca-feira-20-rens/",
-      "publicado_em": "2026-10-20T07:06:00-03:00"
-    },
-    {
-      "titulo": "Pesquisa eleitoral, petróleo (Brent a US$ 111, máxima em cinco meses), balanços de Netflix e SpaceX e mais destaques desta terça",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/pesquisa-eleitoral-balancos-netflix-spacex-agenda-20102026/",
-      "publicado_em": "2026-10-20T06:34:00-03:00"
-    },
-    {
-      "titulo": "Agenda da semana: IPCA-15 de outubro na sexta (23/10); temporada de balanços do 3T26 começa na terça",
-      "fonte": "Poder360",
-      "url": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-semana-11/",
-      "publicado_em": "2026-10-19T06:00:00-03:00"
-    },
-    {
-      "titulo": "Raízen (RAIZ4): acionistas votam em 30/10 medidas da recuperação extrajudicial; BB vê risco de diluição",
-      "fonte": "Estadão E-Investidor",
-      "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/raizen-recuperacao-dos-credores-segue-incerta-apesar-de-medidas-de-reestruturacao-diz-bb/",
-      "publicado_em": "2026-10-19T16:34:00-03:00"
-    },
-    {
-      "titulo": "Petróleo Brent fecha em leve queda (-0,3%, US$ 109,55) mesmo após ataques houthis à infraestrutura saudita; WTI (nov.) sobe 2,2%, a US$ 103,66",
-      "fonte": "Reuters / UOL",
-      "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/19/petroleo-brent-registra-leve-queda-mesmo-apos-ataques-houthis-a-infraestrutura-saudita.htm",
-      "publicado_em": "2026-10-19T16:38:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa cede 0,17% com baixa forte em Petrobras e eleições no radar",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/19/ibovespa-cede-017percent-com-baixa-forte-em-petrobras-e-eleicoes-no-radar.ghtml",
-      "publicado_em": "2026-10-19T17:31:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa fecha com leve queda (-0,17%, 205.079 pts) de olho na eleição; dólar cai a R$ 5,04; PETR4 -2,82%",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
-      "publicado_em": "2026-10-19T17:28:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa fecha em leve queda com cautela na reta final das eleições; Brent fecha a US$ 109,55 (-0,3%)",
-      "fonte": "Valor Investe",
-      "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/19/ibovespa-e-dolar-hoje-19-de-outubro-de-2026.ghtml",
-      "publicado_em": "2026-10-19T17:14:00-03:00"
-    },
-    {
-      "titulo": "Dólar fecha em queda de 0,49%, a R$ 5,048; Petrobras pesa na Bolsa",
-      "fonte": "UOL Economia",
-      "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/19/dolar-fecha-em-queda-de-049-a-r-5048-petrobras-pesa-na-bolsa.htm",
-      "publicado_em": "2026-10-19T17:08:00-03:00"
-    },
-    {
-      "titulo": "Incerteza eleitoral e petróleo limitam alta do Ibovespa com NY e minério",
-      "fonte": "TN Online / Estadão Conteúdo",
-      "url": "https://tnonline.uol.com.br/noticias/economia/incerteza-eleitoral-e-petroleo-limitam-alta-do-ibovespa-com-ny-e-minerio-1166136",
-      "publicado_em": "2026-10-19T11:36:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa ronda o zero a zero (~15h, -0,1%, 205.342 pts) e dólar recua a R$ 5,05; Brent sobe 0,15%, a US$ 110; Petrobras cai mais de 2%",
-      "fonte": "Valor Investe",
-      "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/19/ibovespa-e-dolar-hoje-19-de-outubro-de-2026.ghtml",
-      "publicado_em": "2026-10-19T15:18:00-03:00"
-    },
-    {
-      "titulo": "Itaú BBA: Petrobras lidera preferência; Vibra mantém Outperform com alvo de R$ 45, mas investidores questionam duração das margens",
-      "fonte": "Investing.com",
-      "url": "https://br.investing.com/news/general-news/petrobras-lidera-preferencia-do-itau-bba-distribuidoras-perdem-espaco-2095434",
-      "publicado_em": "2026-10-19T11:59:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa perde força e vai ao negativo (~12h, -0,03%, 205.371 pts); Brent cai 1,63%, a US$ 108,04; Petrobras cede ~2,6%",
-      "fonte": "Estadão E-Investidor",
-      "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-hoje-eleicoes-e-petroleo-podem-movimentar-a-bolsa-apos-queda-semanal/",
-      "publicado_em": "2026-10-19T12:00:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa sobe e dólar recua a R$ 5,05 de olho em reta final da eleição (atualizado 11h57)",
-      "fonte": "Valor Investe",
-      "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/19/ibovespa-e-dolar-hoje-19-de-outubro-de-2026.ghtml",
-      "publicado_em": "2026-10-19T11:57:00-03:00"
-    },
-    {
-      "titulo": "Abicom: diesel A S10 -107% e gasolina A -22% vs paridade internacional (defasagem amplia)",
-      "fonte": "InfoMoney / Abicom",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
-      "publicado_em": "2026-10-19T11:04:00-03:00"
-    },
-    {
-      "titulo": "Estadão: às 10h50 VBBR3 entre as maiores baixas (-1,42%); Brent -1,84% a US$ 107,88",
-      "fonte": "Estadão E-Investidor",
-      "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-hoje-eleicoes-e-petroleo-podem-movimentar-a-bolsa-apos-queda-semanal/",
-      "publicado_em": "2026-10-19T10:55:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa sobe com Vale e bancos; Petrobras cai mais de 1% com recuo do petróleo",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/19/ibovespa-sobe-com-vale-e-bancos-de-olho-em-cenario-eleitoral.ghtml",
-      "publicado_em": "2026-10-19T10:46:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa vira para queda e tenta manter os 205 mil pontos; dólar a R$ 5,05",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
-      "publicado_em": "2026-10-19T11:50:00-03:00"
-    },
-    {
-      "titulo": "Focus: mercado mantém IPCA 2026 em 5,22% e Selic em 13,25%; dólar no fim do ano cai para R$ 5,13 e PIB para 1,83%",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/brasil/noticia/2026/10/19/mercado-mantem-projecao-de-alta-do-ipca-de-2026-em-522percent-e-eleva-de-2027-para-432percent-aponta-focus.ghtml",
-      "publicado_em": "2026-10-19T08:43:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa futuro avança, com foco na reta final da eleição",
-      "fonte": "Valor Investe",
-      "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/19/ibovespa-e-dolar-hoje-19-de-outubro-de-2026.ghtml",
-      "publicado_em": "2026-10-19T09:02:00-03:00"
-    },
-    {
-      "titulo": "Manhã no mercado: reta final do 2º turno deve guiar ativos locais; Brent cai 1,37%, a US$ 108,42 (8h)",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/19/manha-no-mercado-reta-final-do-2o-turno-deve-guiar-ativos-locais.ghtml",
-      "publicado_em": "2026-10-19"
-    },
-    {
-      "titulo": "IGP-10 sobe 1,76% em outubro (acumula 5,02% em 12 meses), puxado pela gasolina nos preços ao produtor",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/brasil/noticia/2026/10/19/igp-10-sobe-176-pontos-percentuais-em-outubro-e-acumula-alta-de-502-em-12-meses-diz-fgv.ghtml",
-      "publicado_em": "2026-10-19T08:13:00-03:00"
-    },
-    {
-      "titulo": "IGP-10, Focus e pesquisas eleitorais (AtlasIntel e PoderData) são os destaques desta segunda",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/igp-10-focus-pesquisas-eleitorais-agenda-19102026/",
-      "publicado_em": "2026-10-19T06:08:00-03:00"
-    },
-    {
-      "titulo": "Petróleo recua de máxima em cinco meses após EUA suspenderem sanções à Rússia; Brent cai 2,70%, a US$ 106,90 (4h42)",
-      "fonte": "Money Times",
-      "url": "https://www.moneytimes.com.br/petroleo-recua-de-maxima-em-cinco-meses-apos-suspensao-de-sancoes-dos-eua-a-russia-fets/",
-      "publicado_em": "2026-10-19T04:43:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa hoje: após perder 1,74% na semana, índice reage a Focus, IGP-10, eleições e petróleo",
-      "fonte": "Estadão E-Investidor",
-      "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-hoje-eleicoes-e-petroleo-podem-movimentar-a-bolsa-apos-queda-semanal/",
-      "publicado_em": "2026-10-19T04:30:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa sobe 0,54% com Petrobras (PETR4 +4,04%); Brent fecha a US$ 109,86 e WTI passa de US$ 100",
-      "fonte": "Exame",
-      "url": "https://exame.com/invest/mercados/ibovespa-sobe-com-petrobras-mas-perde-174-na-semana-com-cautela-eleitoral/",
-      "publicado_em": "2026-10-16T17:41:00-03:00"
-    },
-    {
-      "titulo": "Petrobras (PETR4) dispara com petróleo no maior nível em um mês e otimismo de analistas",
-      "fonte": "Valor Investe",
-      "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/16/petrobras-petr4-dispara-com-petroleo-no-maior-nivel-em-um-mes-e-otimismo-de-analistas.ghtml",
-      "publicado_em": "2026-10-16T14:51:00-03:00"
-    },
-    {
-      "titulo": "Vibra esclarece à CVM divergência com Petrobras sobre prazo para plano de descontinuação de marcas",
-      "fonte": "Radar Energia",
-      "url": "https://portalradarenergia.com.br/noticias/vibra-esclarece-a-cvm-divergencia-com-petrobras-sobre-prazo-para-plano-de-descon-c4367962",
-      "publicado_em": "2026-10-16T12:18:00-03:00"
-    },
-    {
-      "titulo": "Vibra Energia (VBBR3) esclarece divergência sobre plano de debranding com Petrobras",
-      "fonte": "Acionista.com.br",
-      "url": "https://acionista.com.br/vibra-energia-vbbr3-esclarece-divergencia-sobre-plano-de-debranding-com-petrobras/",
-      "publicado_em": "2026-10-16"
-    },
-    {
-      "titulo": "Vibra diz manter divergência com a Petrobras sobre plano de retirada de marcas",
-      "fonte": "Estadão",
-      "url": "https://www.estadao.com.br/economia/negocios/vibra-diz-manter-divergencia-com-a-petrobras-sobre-plano-de-retirada-de-marcas/",
-      "publicado_em": "2026-10-15T19:21:00-03:00"
-    },
-    {
-      "titulo": "Vibra Energia fará resgate antecipado da 5ª emissão e da 2ª série da 4ª emissão de debêntures",
-      "fonte": "Broadcast",
-      "url": "https://www.broadcast.com.br/ultimas-noticias/vibra-energia-fara-resgate-antecipado-da-5a-emissao-e-da-2a-serie-da-4a-emissao/",
-      "publicado_em": "2026-10-15T08:40:00-03:00"
-    },
-    {
-      "titulo": "Prévia do 3T26: BTG projeta Ebitda ajustado de R$ 3,8 bi, mantém compra e alvo de R$ 42",
-      "fonte": "Eu Quero Investir",
-      "url": "https://euqueroinvestir.com/acoes/vibra-previa-3t26-btg",
-      "publicado_em": "2026-10-15"
-    },
-    {
-      "titulo": "Lazard diminui participação na Vibra (de 5% para 4,96%)",
-      "fonte": "O Globo (Lauro Jardim)",
-      "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/lazard-diminui-participacao-na-vibra.ghtml",
-      "publicado_em": "2026-10-13T09:01:00-03:00"
-    },
-    {
-      "titulo": "Morgan Stanley rebaixa Vibra para neutra e eleva alvo para R$ 43: setor 'precificado à perfeição'",
-      "fonte": "Finance News",
-      "url": "https://financenews.com.br/2026/10/entenda-por-que-o-morgan-stanley-alterou-a-recomendacao-para-a-vibra-e-a-ultrapar/",
-      "publicado_em": "2026-10-08T13:12:00-03:00"
-    },
-    {
-      "titulo": "Petróleo dispara e Brent chega a US$ 110 pela 1ª vez desde maio; veja o que pressiona os preços",
-      "fonte": "g1",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/16/petroleo-dispara-e-brent-chega-a-us-110-pela-1a-vez-desde-maio-veja-o-que-pressiona-os-precos.ghtml",
-      "publicado_em": "2026-10-16T17:14:00-03:00"
-    },
-    {
-      "titulo": "Diesel comum sobe 6,67% na primeira quinzena de outubro e chega a R$ 7,20 (IPTL/Edenred Ticket Log)",
-      "fonte": "Brasil Postos",
-      "url": "https://www.brasilpostos.com.br/noticias/mercado/diesel-comum-sobe-667-primeira-quinzena-outubro-iptl-ticket-log/",
-      "publicado_em": "2026-10-16T17:19:22-03:00"
-    },
-    {
-      "titulo": "Distribuidoras ficaram fora da festa da Bolsa, mas por que o BBI segue otimista? (VBBR3, UGPA3)",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/vbbr3-ugpa3-distribuidoras-ficaram-fora-da-festa-da-bolsa-mas-por-que-o-bbi-segue-otimista/",
-      "publicado_em": "2026-10-16T12:00:00-03:00"
-    },
-    {
-      "titulo": "BTG espera Ebitda ajustado de cerca de R$ 3,8 bi da Vibra no 3T26; alvo de R$ 42 (Rápidas)",
-      "fonte": "Finance News",
-      "url": "https://financenews.com.br/2026/10/rapidas-petrobras-vale-bb-seguridade-unifique-eneva-vibra-mitre/",
-      "publicado_em": "2026-10-16T11:10:17-03:00"
-    },
-    {
-      "titulo": "ANP publica na terça (20/10) o levantamento de preços de combustíveis de 11 a 17/10",
-      "fonte": "ANP (gov.br)",
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/levantamento-de-precos-de-combustiveis-11-a-17-10-sera-publicado-na-terca-20-10",
-      "publicado_em": "2026-10-16T13:10:00-03:00"
-    },
-    {
-      "titulo": "Vibra vê disparada no interesse por embandeiramento Petrobras em cenário de formalização do setor",
-      "fonte": "Radar Energia",
-      "url": "https://portalradarenergia.com.br/noticias/vibra-ve-disparada-no-interesse-por-embandeiramento-petrobras-em-cenario-de-form-749ba8e6",
-      "publicado_em": "2026-10-16T08:21:00-03:00"
-    },
-    {
-      "titulo": "CBIE: Petrobras não reajustou preços nas refinarias de 9 a 15/10; Brent sobe 1,15% no período, a US$ 105,92",
-      "fonte": "CBIE",
-      "url": "https://cbie.com.br/analise-semanal-da-defasagem-16-10-2026/",
-      "publicado_em": "2026-10-16T11:53:50-03:00"
-    },
-    {
-      "titulo": "Agenda da semana: IGP-10 e Boletim Focus na segunda (19/10); IPCA-15 de outubro no radar",
-      "fonte": "TradeMap",
-      "url": "https://trademap.com.br/noticias/news-8446002",
-      "publicado_em": "2026-10-16T17:30:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa futuro abre em alta (+1,21%, 211.015 pts às 9h38); dólar cai 0,58%, a R$ 5,019; Brent +1,69%, a US$ 111,4",
-      "fonte": "Finance News",
-      "url": "https://financenews.com.br/2026/10/ibovespa-futuro-abre-em-alta-dolar-cai-e-noticias-corporativas-2/",
-      "publicado_em": "2026-10-20T09:20:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa futuro avança com disparada do petróleo (Brent a US$ 111, maior nível em cinco meses); dólar cai a R$ 5,04",
-      "fonte": "Valor Investe",
-      "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/20/ibovespa-e-dolar-hoje-20-de-outubro-de-2026.ghtml",
-      "publicado_em": "2026-10-20T09:04:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa Futuro sobe 1% com petróleo em alta e nova pesquisa eleitoral (210.665 pts às 9h02)",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-sobe-1-com-petroleo-em-alta-e-nova-pesquisa-eleitoral/",
-      "publicado_em": "2026-10-20T09:12:00-03:00"
-    },
-    {
-      "titulo": "Manhã no mercado: petróleo a US$ 111 pressiona ativos em meio à cautela eleitoral no Brasil",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/20/manha-no-mercado-petroleo-a-us-111-pressiona-ativos-em-meio-a-cautela-eleitoral-no-brasil.ghtml",
-      "publicado_em": "2026-10-20"
-    },
-    {
-      "titulo": "TraderNews (19/10): VBBR3 em MANUTENÇÃO, evitar nova entrada; alvo estimado R$ 40, resultado do 3T26 em 04/11",
-      "fonte": "TraderNews",
-      "url": "https://tradernews.com.br/analise/Analise_VBBR3_261019.html/",
-      "publicado_em": "2026-10-19"
-    },
-    {
-      "titulo": "Mesmo com queda de Petrobras, Ibovespa segura forte alta: +1,47%, aos 208.096 pontos",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
-      "publicado_em": "2026-10-20T11:34:00-03:00"
-    },
-    {
-      "titulo": "Rápidas: Ibovespa +1,48% (208.109 pts às 11h07); dólar a R$ 5,016; Brent reduz alta e cai 0,3%, a US$ 109; PETR4 +1,07%",
-      "fonte": "Finance News",
-      "url": "https://financenews.com.br/2026/10/rapidas-petrobras-vale-prio-jsl-americanas-randoncorp-frasle-santander-pine-mitre/",
-      "publicado_em": "2026-10-20T11:08:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa sobe com apoio de Petrobras e queda dos juros futuros, de olho no quadro eleitoral",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/20/ibovespa-sobe-com-apoio-de-petrobras-e-queda-dos-juros-futuros-de-olho-no-quadro-eleitoral.ghtml",
-      "publicado_em": "2026-10-20T10:43:00-03:00"
-    },
-    {
-      "titulo": "Abicom (20/10): diesel A S10 segue 107% (R$ 3,49/l) e gasolina A 22% (R$ 0,66/l) abaixo da paridade internacional",
-      "fonte": "InfoMoney / Abicom",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
-      "publicado_em": "2026-10-20"
-    },
-    {
-      "titulo": "AIE diz estar pronta para nova liberação de reservas de petróleo se necessário",
-      "fonte": "InfoMoney / Reuters",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
-      "publicado_em": "2026-10-20"
-    },
-    {
-      "titulo": "Taxas do Tesouro superam 2020 e têm maior alta da série histórica com vitória de Lula; Prefixado 2032 vai a 15,78%",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
-      "publicado_em": "2026-10-26T13:35:00-03:00"
-    },
-    {
-      "titulo": "Ativos brasileiros desabam após eleição e mercado precifica alta da Selic em novembro",
-      "fonte": "Reuters / InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
-      "publicado_em": "2026-10-26T13:29:00-03:00"
-    },
-    {
-      "titulo": "Banco Central informa PTAX de fechamento a R$ 5,5007 na venda (R$ 5,0377 na sexta)",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
-      "publicado_em": "2026-10-26T13:14:00-03:00"
-    },
-    {
-      "titulo": "Durigan: vamos fazer alterações para buscar o centro da meta fiscal ainda este ano",
-      "fonte": "Broadcast / InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
-      "publicado_em": "2026-10-26T12:59:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa reduz queda para 14,44%, aos 175.466 pontos; dólar perde força, mas sobe 8,47%, a R$ 5,415",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
-      "publicado_em": "2026-10-26T12:42:00-03:00"
-    },
-    {
-      "titulo": "Goldman vê risco fiscal maior com Lula e alerta para governabilidade",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
-      "publicado_em": "2026-10-26T12:26:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa cai 17% após vitória de Lula; Petrobras ON cai 10% e Banco do Brasil 31%, diz EFG",
-      "fonte": "Portal Band",
-      "url": "https://www.band.com.br/economia/macroeconomia/ibovespa-cai-17-apos-reeleicao-de-lula-e-b3-aciona-circuit-breaker",
-      "publicado_em": "2026-10-26T11:57:00-03:00"
-    },
-    {
-      "titulo": "Mercado despenca e amplia temor sobre contas públicas; real perde 11% e juros disparam quase 300 pontos-base",
-      "fonte": "Bloomberg Línea",
-      "url": "https://www.bloomberglinea.com.br/mercados/mercados-despencam-apos-vitoria-inesperada-de-lula-e-ampliam-temor-sobre-contas-publicas/",
-      "publicado_em": "2026-10-26T10:56:00-03:00"
-    },
-    {
-      "titulo": "Bolsa aciona circuit breaker após vitória de Lula; analistas explicam queda",
-      "fonte": "VEJA",
-      "url": "https://veja.abril.com.br/economia/bolsa-aciona-circuit-breaker-apos-vitoria-de-lula-analistas-explicam-queda/",
-      "publicado_em": "2026-10-26T10:35:00-03:00"
-    },
-    {
-      "titulo": "Petrobras (PETR4) e ações de combustíveis tombam; CSAN3 perde mais de 44% e Vibra recua mais de 20%",
-      "fonte": "Investidor10",
-      "url": "https://investidor10.com.br/noticias/petrobras-petr4-e-acoes-de-combustiveis-tombam-na-bolsa-csan3-perde-mais-de-44-123510/",
-      "publicado_em": "2026-10-26T11:59:00-03:00"
-    },
-    {
-      "titulo": "Bolsa tomba 15% após vitória de Lula e registra uma das maiores quedas da história",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/bolsa-tomba-15-apos-vitoria-de-lula-e-registra-uma-das-maiores-quedas-da-historia/",
-      "publicado_em": "2026-10-26T13:03:00-03:00"
-    },
-    {
-      "titulo": "Ibovespa passa por circuit breaker e fecha em queda de 13,88%, aos 176.608 pontos, com liquidação após vitória de Lula",
-      "fonte": "Valor Econômico",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/26/ibovespa-passa-por-circuit-breaker-e-cai-quase-14percent-com-liquidacao-apos-vitoria-de-lula.ghtml",
-      "publicado_em": "2026-10-26T17:25:00-03:00"
-    },
-    {
-      "titulo": "Tombo da bolsa apaga R$ 663 bilhões do valor de mercado das empresas do Ibovespa em um pregão",
-      "fonte": "Valor Investe",
-      "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/26/tombo-da-bolsa-apaga-r-663-bilhoes-do-valor-das-empresas-do-ibovespa.ghtml",
-      "publicado_em": "2026-10-26T18:19:00-03:00"
-    },
-    {
-      "titulo": "Após reação negativa do mercado, Durigan diz que vai ampliar superávit primário em 2027",
-      "fonte": "Poder360",
-      "url": "https://www.poder360.com.br/poder-economia/apos-reacao-negativa-do-mercado-durigan-diz-que-vai-ampliar-superavit/",
-      "publicado_em": "2026-10-26T18:22:00-03:00"
-    },
-    {
-      "titulo": "Fechamento: Ibovespa -13,88% (176.608 pts), Ibovespa Futuro -14,5% (177.925 pts), dólar comercial a R$ 5,4029 (+8,21%)",
-      "fonte": "Estadão Conteúdo / UOL",
-      "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/26/fechamento-do-mercado-financeiro.htm",
-      "publicado_em": "2026-10-26T18:38:00-03:00"
-    },
-    {
-      "titulo": "Lula se reúne no Alvorada com Durigan (Fazenda) e Moretti (Planejamento) após queda da Bolsa e alta do dólar",
-      "fonte": "O Globo",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/10/26/lula-se-reune-com-ministros-da-fazenda-e-do-planejamento-apos-queda-da-bolsa-e-alta-do-dolar.ghtml",
-      "publicado_em": "2026-10-26T18:58:00-03:00"
-    },
-    {
-      "titulo": "Vibra e Petrobras: com Lula reeleito, Vibra vê menos espaço para negociar o futuro da marca BR (licença vence em junho de 2029)",
-      "fonte": "Exame INSIGHT",
-      "url": "https://exame.com/insight/com-lula-reeleito-vibra-ve-menos-espaco-para-negociar-futuro-da-marca-br/p",
-      "publicado_em": "2026-10-27T07:00:00-03:00"
-    },
-    {
-      "titulo": "Contratos futuros voltam a cair, mas ADRs de empresas brasileiras sobem no pré-mercado nos EUA",
-      "fonte": "Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/contratos-futuros-voltam-a-cair-mas-adrs-de-empresas-brasileiras-sobem-no-pre-mercado-nos-eua.shtml",
-      "publicado_em": "2026-10-27T06:56:00-03:00"
-    },
-    {
-      "titulo": "Possível correção dos mercados, Galípolo às 11h e leilão de swap de até US$ 4 bi: destaques desta terça",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/correcao-mercados-galipolo-leiloes-bc-agenda-27102026/",
-      "publicado_em": "2026-10-27T06:13:00-03:00"
-    },
-    {
-      "titulo": "Citigroup e BCA Research rebaixam recomendação de ativos brasileiros após vitória de Lula",
-      "fonte": "Reuters / InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/",
-      "publicado_em": "2026-10-27"
-    },
-    {
-      "titulo": "Governo renovará subvenção de R$ 2,12 do diesel por mais um mês, diz Planejamento",
-      "fonte": "InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/",
-      "publicado_em": "2026-10-27"
-    }
+  [
+   "Itaú BBA",
+   "Outperform (compra)",
+   "R$ 45,00"
   ],
-  "rec": "AGUARDAR • fechou em -10,08% colado na MA200 (cerca de 0,3% abaixo) após pregão de pânico; esperar o preço confirmar acima de R$ 32,30 a R$ 32,90 ou respeitar S1 de R$ 30,40",
-  "reason": "FECHAMENTO 26/10 (17h55 de Brasília): o Ibovespa terminou em -13,88%, aos 176.608 pts, depois do circuit breaker na abertura e da mínima de 169.516 pts (-17,34%), em reação à reeleição de Lula (Valor 17h25). O volume do Ibovespa foi de R$ 88,6 bi (Valor). Durante o dia, o ministro da Fazenda, Dario Durigan, disse que o governo fará alterações para buscar o centro da meta fiscal (Broadcast, via InfoMoney 12h59), e o mercado passou a precificar alta da Selic em novembro (Reuters, via InfoMoney 13h29). VBBR3 chegou a R$ 27,48 (-23%), mas recuperou boa parte e fechou a R$ 32,21 (-10,08%, Yahoo Finance/Toolz; a QuantBrasil mostra R$ 31,81). O preço terminou praticamente sobre a MA200 (R$ 32,30), cerca de 12% abaixo da MA50 (R$ 36,65), com IFR(14) em 24 (sobrevendido) e volume de 25,55 mi de ações, mais que o dobro de sexta. O consenso segue de compra (ADVFN, alvo médio R$ 41,68), mas os alvos são anteriores à eleição e podem ser revistos. A recomendação é esperar o pregão de amanhã: confirmação acima da MA200 e da R1 (R$ 32,90) seria sinal de recuperação; perda de R$ 30,40 reabre espaço para R$ 28,34. Balanço do 3T26 em 04/11. PRÉ-ABERTURA 27/10 (08h35 de Brasília): os ADRs brasileiros e o EWZ sobem no pré-mercado em Nova York (EWZ +0,26% por volta das 6h45, após -19,82% na véspera; ADR da Petrobras +0,67%), sinal de possível correção positiva, sem garantia de alta no pregão (Folha 06h56; InfoMoney 06h13). Citigroup e BCA Research rebaixaram a recomendação dos ativos brasileiros após a eleição (Reuters, via InfoMoney). O governo renovará por mais um mês a subvenção de R$ 2,12 do diesel (Ministério do Planejamento, via InfoMoney), tema que afeta as distribuidoras. Para a Vibra, a reeleição reduz a expectativa de rever a não renovação da licença da marca BR, que vence em junho de 2029 (Exame 07h00); não há fato relevante novo da companhia. Agenda: coletiva de Galípolo (BC) às 11h e leilão de swap cambial de até US$ 4 bi às 11h30. O Brent recua 0,43%, a US$ 115,26 (InfoMoney). Balanço do 3T26 em 04/11.",
-  "sources": [
-    [
-      "Renova Invest",
-      "https://renovainvest.com.br/acoes/vbbr3/"
-    ],
-    [
-      "BolsaData",
-      "https://bolsadata.com.br/acoes/vbbr3"
-    ],
-    [
-      "CapitalAgora",
-      "https://capitalagora.com.br/acoes/VBBR3"
-    ],
-    [
-      "QuantBrasil",
-      "https://quantbrasil.com.br/ativos/VBBR3/"
-    ],
-    [
-      "Toolz",
-      "https://toolz.trade/pt/acoes-vibra/"
-    ],
-    [
-      "ADVFN",
-      "https://br.advfn.com/bolsa-de-valores/bovespa/vibra-energia-on-VBBR3/previsoes"
-    ]
+  [
+   "BTG Pactual",
+   "Compra",
+   "R$ 42,00 (12 meses)"
+  ],
+  [
+   "Morgan Stanley",
+   "Neutra (rebaixou de overweight)",
+   "R$ 43,00 (fim de 2027)"
+  ],
+  [
+   "Goldman Sachs",
+   "Neutra",
+   "não informado"
   ]
+ ],
+ "news": [
+  {
+   "titulo": "Ressaca do circuit breaker: Ibovespa futuro ensaia alta, dólar e juros futuros caem",
+   "fonte": "Exame",
+   "url": "https://exame.com/invest/mercados/ressaca-do-circuit-breaker-ibovespa-futuro-ensaia-alta-dolar-e-juros-futuros-caem/",
+   "publicado_em": "2026-10-27T09:29:00-03:00"
+  },
+  {
+   "titulo": "Dólar abre em queda, com eleições ainda no radar e à espera do Fed",
+   "fonte": "G1",
+   "url": "https://g1.globo.com/economia/noticia/2026/10/27/dolar-ibovespa.ghtml",
+   "publicado_em": "2026-10-27T09:00:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa hoje (27): Bolsa busca reação após queda de 13,88% com vitória de Lula",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-hoje-apos-tombo-de-quase-14-com-vitoria-de-lula-o-que-esperar-da-bolsa-nesta-terca/",
+   "publicado_em": "2026-10-27T05:30:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa derrete 17%, aos 169,8 mil pontos; dólar comercial a R$ 5,60; B3 (B3SA3) cai 47%, bancos até 31%, Petrobras 8%; Vale sobe 6%",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
+   "publicado_em": "2026-10-26T11:36:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa cai mais de 16%, mas B3 não aciona novo circuit breaker; Valor aguarda explicação da B3",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/26/ibovespa-cai-mais-de-16percent-mas-b3-nao-aciona-novo-circuit-breaker.ghtml",
+   "publicado_em": "2026-10-26T11:17:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa desaba mais de 15% em pregão com circuit breaker após reeleição de Lula; mínima de 169.516 pts",
+   "fonte": "Reuters / UOL",
+   "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/26/ibovespa-desaba-mais-de-15-em-pregao-com-circuit-breaker-apos-reeleicao-de-lula.htm",
+   "publicado_em": "2026-10-26T11:04:00-03:00"
+  },
+  {
+   "titulo": "B3 cita queda de 10% e aciona circuit breaker na abertura do pregão à vista após reeleição de Lula",
+   "fonte": "Reuters / UOL",
+   "url": "https://economia.uol.com.br/noticias/reuters/2026/10/26/b3-cita-queda-de-10-e-aciona-circuit-breaker-na-abertura-do-pregao-a-vista-apos-reeleicao-de-lula.htm",
+   "publicado_em": "2026-10-26T10:27:00-03:00"
+  },
+  {
+   "titulo": "B3 aciona circuit breaker: negociação à vista suspensa por 30 minutos, retomada em leilão das 10h30 às 10h35",
+   "fonte": "B3 Bora Investir",
+   "url": "https://borainvestir.b3.com.br/noticias/mercado/b3-aciona-circuit-breaker/",
+   "publicado_em": "2026-10-26T10:13:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa futuro abre em queda de 14,84% (177.215 pts) e fica paralisado; dólar comercial salta a R$ 5,42 e juros futuros disparam",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
+   "publicado_em": "2026-10-26T09:48:00-03:00"
+  },
+  {
+   "titulo": "Dólar abre em alta de 8,65%, a R$ 5,42, e aciona circuit breaker no câmbio; Ibovespa futuro tem dois circuit breakers; Tesouro cancela leilão",
+   "fonte": "O Globo",
+   "url": "https://oglobo.globo.com/economia/noticia/2026/10/26/bolsa-e-dolar-nesta-segunda-feira-mercados-reagem-a-reeleicao-de-lula.ghtml",
+   "publicado_em": "2026-10-26"
+  },
+  {
+   "titulo": "Com Lula reeleito, mercado teme queda de mais de 10% na Bolsa; circuit breaker do à vista seria acionado com Ibovespa a 184.574 pts",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/com-lula-reeleito-mercado-teme-queda-de-mais-de-10-na-bolsa-e-risco-de-circuit-breaker/",
+   "publicado_em": "2026-10-26T08:33:00-03:00"
+  },
+  {
+   "titulo": "Lula é reeleito no 2º turno com 51,8% dos votos válidos contra 48,2% de Flávio Bolsonaro; mercado espera ajuste severo na abertura",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/26/eleicoes-2026-etf-de-acoes-brasileiras-em-ny-tomba-em-resposta-as-urnas.ghtml",
+   "publicado_em": "2026-10-26T07:03:00-03:00"
+  },
+  {
+   "titulo": "EWZ, ETF de ações brasileiras em NY, recua 27% (US$ 31) no pré-mercado por volta das 7h após resultado das urnas",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/26/eleicoes-2026-etf-de-acoes-brasileiras-em-ny-tomba-em-resposta-as-urnas.ghtml",
+   "publicado_em": "2026-10-26T07:04:00-03:00"
+  },
+  {
+   "titulo": "Mercado repercute vitória de Lula: EWZ cai 27,26% (US$ 30,98) e ADRs recuam; agenda tem Focus (8h25) e transações correntes (8h30)",
+   "fonte": "Money Times",
+   "url": "https://www.moneytimes.com.br/mercado-repercute-vitoria-de-lula-na-eleicao-de-2026-ibovespa-em-dolar-despenca-quase-30-nesta-segunda-feira-26-rens/",
+   "publicado_em": "2026-10-26T07:08:00-03:00"
+  },
+  {
+   "titulo": "Monte Bravo vê mais de 50% de chance de circuit breaker na B3 nesta segunda; analistas preveem queda da bolsa e alta de dólar e juros",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/mercado-financeiro-ja-precificou-a-eleicao-veja-o-que-esperar-de-acoes-dolar-e-tesouro-hoje/",
+   "publicado_em": "2026-10-26T00:50:00-03:00"
+  },
+  {
+   "titulo": "Dólar futuro em Chicago vai ao equivalente a R$ 5,56 (+10%) e ETF do Ibovespa em Tóquio recua mais de 14% após vitória de Lula",
+   "fonte": "UOL",
+   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/25/real-futuro-cai-9-e-etf-do-ibovespa-recua-11-apos-vitoria-de-lula.htm",
+   "publicado_em": "2026-10-25T21:24:00-03:00"
+  },
+  {
+   "titulo": "Investidores esperam queda das ações brasileiras e do real após reeleição de Lula; Warren prevê onda de vendas e juros futuros no limite",
+   "fonte": "Reuters / Investing.com",
+   "url": "https://br.investing.com/news/economy-news/investidores-esperam-queda-das-acoes-brasileiras-e-do-real-apos-reeleicao-de-lula-2102194",
+   "publicado_em": "2026-10-26"
+  },
+  {
+   "titulo": "Petróleo recua de máximas de quase seis meses com esperança de alívio EUA-Irã: Brent a US$ 115,23 (-1,28%) às 4h44 de Brasília",
+   "fonte": "Reuters / Yahoo Finance",
+   "url": "https://finance.yahoo.com/energy/articles/oil-prices-down-almost-1-232445179.html",
+   "publicado_em": "2026-10-26T07:33:00-03:00"
+  },
+  {
+   "titulo": "Conselho da Petrobras se reúne nesta segunda (26) para avaliar preços; reajuste moderado de diesel e gasolina é visto internamente como inevitável",
+   "fonte": "Broadcast Agro / Cogo",
+   "url": "https://www.carloscogo.com.br/docs/group1/group2/insumos/insumos_conj_12646.shtml",
+   "publicado_em": "2026-10-26"
+  },
+  {
+   "titulo": "Petróleo fecha em alta com temor de reescalada EUA-Irã: Brent a US$ 116,72 (+3,13%), maior valor desde abril; +6,24% na semana",
+   "fonte": "Estadão Conteúdo / UOL",
+   "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/23/petroleo-fecha-em-alta-com-temor-de-reescalada-entre-eua-ira-brent-tem-maior-valor-desde-abril.htm",
+   "publicado_em": "2026-10-23T16:07:00-03:00"
+  },
+  {
+   "titulo": "Goldman Sachs alerta para risco de reajuste de até 50% no diesel da Petrobras após as eleições; defasagem de 21%",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/empresas/noticia/2026/10/23/goldman-sachs-alerta-para-risco-de-reajuste-de-50-pontos-percentuais-no-diesel-da-petrobras-aps-eleies.ghtml",
+   "publicado_em": "2026-10-23T14:29:00-03:00"
+  },
+  {
+   "titulo": "Conselho da Petrobras deve discutir preço do diesel na segunda (26), depois do 2º turno, dizem fontes",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/empresas/noticia/2026/10/23/conselho-da-petrobras-deve-discutir-preo-do-diesel-depois-do-segundo-turno-dizem-fontes.ghtml",
+   "publicado_em": "2026-10-23T13:16:00-03:00"
+  },
+  {
+   "titulo": "Defasagem do diesel nas refinarias da Petrobras ultrapassa a subvenção e atinge R$ 3,53/l (Abicom); 145 dias sem reajuste",
+   "fonte": "Estadão Conteúdo / UOL",
+   "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/23/defasagem-do-diesel-nas-refinarias-da-petrobras-ultrapassa-subvencao-e-atinge-r-353l.htm",
+   "publicado_em": "2026-10-23T12:43:00-03:00"
+  },
+  {
+   "titulo": "Goldman: alta do diesel seria positiva para Petrobras, mas poderia prejudicar Vibra (VBBR3) e Ultrapar; banco mantém neutro nas duas",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-pode-ter-subir-diesel-ate-cinquenta-porcento-goldman-sachs-quais-impactos-acoes-inflacao/",
+   "publicado_em": "2026-10-22T14:00:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa ganha força na reta final antes do 2º turno e fecha em alta de 0,47%, aos 205.083 pontos; na semana, recua 0,17%",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/23/ibovespa-ganha-forca-na-reta-final-antes-do-2o-turno-com-sondagens-eleitorais-e-avanco-de-blue-chips.ghtml",
+   "publicado_em": "2026-10-23T17:22:00-03:00"
+  },
+  {
+   "titulo": "Fechamento: VBBR3 é a maior queda do Ibovespa (-3,19%, R$ 35,82); índice +0,47% e dólar a R$ 5,04",
+   "fonte": "OpçõesBR",
+   "url": "https://opcoesbr.com.br/fechamento-do-mercado",
+   "publicado_em": "2026-10-23T17:29:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa acelera e avança (+0,66%, 205.462 pts por volta das 15h10) e dólar cai a R$ 5,00 antes do 2º turno",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/23/ibovespa-e-dolar-hoje-23-de-outubro-de-2026.ghtml",
+   "publicado_em": "2026-10-23T15:12:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa avança aos 205,7 mil pontos, dólar recua a R$ 5,00 e juros futuros caem; Small Caps sobe 20% em outubro",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23102026/",
+   "publicado_em": "2026-10-23T15:10:00-03:00"
+  },
+  {
+   "titulo": "Dólar oscila perto da estabilidade (R$ 5,027, -0,21% às 14h27) no último pregão antes do 2º turno",
+   "fonte": "Folha de S.Paulo",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/dolar-oscila-perto-da-estabilidade-em-ultimo-pregao-antes-do-segundo-turno-com-datafolha-no-radar.shtml",
+   "publicado_em": "2026-10-23T14:38:00-03:00"
+  },
+  {
+   "titulo": "Mercado agora: Ibovespa vira o sinal e cai 0,14% perto das 13h50; bolsas europeias fecham mistas com petróleo e IA",
+   "fonte": "InvesTalk (BB)",
+   "url": "https://investalk.bb.com.br/noticias/mercado/mercado-agora-23-10-26",
+   "publicado_em": "2026-10-23"
+  },
+  {
+   "titulo": "Ibovespa ronda estabilidade (+0,09%, 204.309 pts perto das 12h45), com apoio de Petrobras e de olho nas eleições",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/23/ibovespa-segue-estavel-com-alta-em-petrobras-e-vale-e-queda-em-bradesco-apos-balanco.ghtml",
+   "publicado_em": "2026-10-23T13:03:00-03:00"
+  },
+  {
+   "titulo": "Rápidas: Brent sobe 2,5% a US$ 116; Petrobras e petroleiras juniores em alta; Ibovespa -0,18% às 11h24",
+   "fonte": "Finance News",
+   "url": "https://financenews.com.br/2026/10/rapidas-petrobras-prio-brava-bradesco-vale-cpfl-gerdau-petz-cobasi/",
+   "publicado_em": "2026-10-23T11:25:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa oscila aos 204,2 mil pontos; dólar a R$ 5,03 e juros futuros recuam após IPCA-15 e Datafolha",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23102026/",
+   "publicado_em": "2026-10-23T12:54:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa e dólar operam estáveis no último pregão antes do 2º turno; Brent supera US$ 115 e WTI passa de US$ 101",
+   "fonte": "Exame",
+   "url": "https://exame.com/invest/mercados/ibovespa-e-dolar-operam-estaveis-no-ultimo-pregao-antes-do-segundo-turno-das-eleicoes/",
+   "publicado_em": "2026-10-23T11:13:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa sobe 0,17% (204.461 pts) e dólar trava perto das 11h, com IPCA-15 abaixo do esperado antes do 2º turno",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/23/ibovespa-e-dolar-hoje-23-de-outubro-de-2026.ghtml",
+   "publicado_em": "2026-10-23T11:14:00-03:00"
+  },
+  {
+   "titulo": "IPCA-15 sobe 0,32% em outubro, abaixo do piso das projeções (mediana 0,44%); 4,62% em 12 meses",
+   "fonte": "Valor Econômico / IBGE",
+   "url": "https://valor.globo.com/brasil/noticia/2026/10/23/ipca-15-sobe-032percent-em-outubro.ghtml",
+   "publicado_em": "2026-10-23T09:05:00-03:00"
+  },
+  {
+   "titulo": "IPCA-15 tem alta de 0,32% em outubro, abaixo do esperado (Reuters projetava 0,43%)",
+   "fonte": "Reuters / Investing.com",
+   "url": "https://br.investing.com/news/economic-indicators/ipca15-tem-alta-de-032-em-outubro-abaixo-do-esperado-2101063",
+   "publicado_em": "2026-10-23T09:14:00-03:00"
+  },
+  {
+   "titulo": "Dólar abre em alta (R$ 5,0453, +0,13% perto das 9h10), no último pregão antes do 2º turno",
+   "fonte": "g1",
+   "url": "https://g1.globo.com/economia/noticia/2026/10/23/dolar-ibovespa.ghtml",
+   "publicado_em": "2026-10-23T09:00:00-03:00"
+  },
+  {
+   "titulo": "Petróleo volta a subir e Brent passa de US$ 114 pela primeira vez desde maio (US$ 114,36, +1,05%, às 7h20)",
+   "fonte": "Folha de S.Paulo",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/petroleo-volta-a-subir-e-ultrapassa-us-114-pela-primeira-vez-desde-maio.shtml",
+   "publicado_em": "2026-10-23T07:40:00-03:00"
+  },
+  {
+   "titulo": "Agenda do dia: IPCA-15 no Brasil (9h) e PMIs nos EUA são destaque",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/23/agenda-do-dia-ipca-15-no-brasil-e-pmis-nos-eua-sao-destaque.ghtml",
+   "publicado_em": "2026-10-23T07:42:00-03:00"
+  },
+  {
+   "titulo": "Brent em máxima de cinco meses (US$ 114,49) e caminha para a 3ª semana seguida de alta",
+   "fonte": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+   "publicado_em": "2026-10-23T06:02:00-03:00"
+  },
+  {
+   "titulo": "Eleições, debate na Globo, IPCA-15 (previsão 0,45%) e mais destaques desta sexta",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/eleicoes-debate-globo-ipca-15-agenda-23102026/",
+   "publicado_em": "2026-10-23"
+  },
+  {
+   "titulo": "Investidor digere Datafolha (empate em 50% dos válidos) antes do debate da Globo e monitora prévia da inflação",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/23/investidor-digere-datafolha-antes-do-debate-da-globo-e-monitora-previa-da-inflacao.ghtml",
+   "publicado_em": "2026-10-23"
+  },
+  {
+   "titulo": "Ibovespa hoje (23): inflação, Datafolha e debate eleitoral no radar no último pregão antes do 2º turno",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-hoje-empate-entre-lula-e-flavio-e-ipca-15-pautam-ultimo-pregao-antes-do-2-turno/",
+   "publicado_em": "2026-10-23"
+  },
+  {
+   "titulo": "Ibovespa e dólar: techs derrubam NY; Brent salta 4% a US$ 113,17 com tensão EUA-Irã",
+   "fonte": "Investing.com",
+   "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-techs-ia-derrubam-ny-e-petroleo-dispara-com-tensao-euaira-2100482",
+   "publicado_em": "2026-10-22T18:47:00-03:00"
+  },
+  {
+   "titulo": "Dólar sobe 0,22% e fecha a R$ 5,038; Ibovespa cai 1,15%",
+   "fonte": "Poder360",
+   "url": "https://www.poder360.com.br/poder-economia/dolar-sobe-022-e-fecha-a-r-5038-ibovespa-cai-115/",
+   "publicado_em": "2026-10-22T17:34:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa fecha em queda de 1,15% (204.120 pts) com exterior, eleição, Vale e bancos; dólar a R$ 5,03",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-22102026/",
+   "publicado_em": "2026-10-22T17:31:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa cai mais de 1% e dólar sobe com aversão a risco; Brent acima de US$ 113, maior nível desde maio",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/22/ibovespa-e-dolar-hoje-22-de-outubro-de-2026.ghtml",
+   "publicado_em": "2026-10-22T17:15:00-03:00"
+  },
+  {
+   "titulo": "Vibra (VBBR3) segue como favorita do JPMorgan: overweight e alvo de R$ 44,50",
+   "fonte": "Guia do Investidor",
+   "url": "https://guiadoinvestidor.com.br/mercado/vibra-vbbr3-segue-como-favorita-do-jpmorgan-acao-sobe-45-e-banco-ve-mais-potencial/",
+   "publicado_em": "2026-10-22T12:35:00-03:00"
+  },
+  {
+   "titulo": "Vibra ganha participação de mercado em setembro; Ipiranga recua, aponta Itaú BBA",
+   "fonte": "Investing.com / CapitalAgora",
+   "url": "https://capitalagora.com.br/noticia/vibra-ganha-participacao-em-setembro-ipiranga-recua-aponta-itau",
+   "publicado_em": "2026-10-21T18:52:00-03:00"
+  },
+  {
+   "titulo": "Banco Central informa PTAX de fechamento: compra R$ 5,0134 e venda R$ 5,0140 (ontem R$ 5,0564)",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
+   "publicado_em": "2026-10-20T13:17:00-03:00"
+  },
+  {
+   "titulo": "Petróleo Brent vira para queda após bater US$ 111, com ataques de houthis",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
+   "publicado_em": "2026-10-20T12:07:00-03:00"
+  },
+  {
+   "titulo": "Petrobras (PETR4) e PRIO (PRIO3) caem com petróleo em dia de alta do Ibovespa; petroleiras dominam as baixas",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
+   "publicado_em": "2026-10-20"
+  },
+  {
+   "titulo": "Ibovespa orbita 208 mil pontos com aval de estrangeiros na reta final da eleição (fluxo externo de R$ 20,99 bi em outubro até 16/10)",
+   "fonte": "Reuters / UOL",
+   "url": "https://economia.uol.com.br/noticias/reuters/2026/10/20/ibovespa-avanca-e-toca-208-mil-pontos-com-aval-de-estrangeiros-na-reta-final-da-eleicao.htm",
+   "publicado_em": "2026-10-20T10:17:00-03:00"
+  },
+  {
+   "titulo": "Dólar opera em queda e Ibovespa sobe; Brent cai 2,82%, a US$ 106,46, perto das 12h após AIE sinalizar nova liberação de reservas",
+   "fonte": "g1",
+   "url": "https://g1.globo.com/economia/noticia/2026/10/20/dolar-ibovespa.ghtml",
+   "publicado_em": "2026-10-20T09:00:00-03:00"
+  },
+  {
+   "titulo": "Petróleo sobe e Brent supera US$ 111 (+1,69%, contrato dez., 7h40) com queda na oferta do Golfo e ataques do Irã em Ormuz; WTI a US$ 100,77",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/20/petrleo-sobe-e-brent-supera-us-111-com-queda-na-oferta-do-golfo-e-ataques-do-ir-em-ormuz.ghtml",
+   "publicado_em": "2026-10-20T07:51:00-03:00"
+  },
+  {
+   "titulo": "Agenda do dia: leilão do Tesouro (11h) é destaque; agenda de indicadores praticamente esvaziada no Brasil",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/20/agenda-do-dia-leilao-do-tesouro-e-destaque.ghtml",
+   "publicado_em": "2026-10-20T07:43:00-03:00"
+  },
+  {
+   "titulo": "Bolsas mundiais têm viés de queda com petróleo novamente acima de US$ 110 por barril (Brent dez. US$ 111,26 às 7h07)",
+   "fonte": "UOL Economia",
+   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/20/bolsas-mundiais-20-de-outubro-de-2026.ghtm",
+   "publicado_em": "2026-10-20T07:20:00-03:00"
+  },
+  {
+   "titulo": "Mercados acompanham contagem regressiva para eleição, ADP nos EUA e salto do petróleo; Ibovespa em dólar sobe nesta terça (20)",
+   "fonte": "Money Times",
+   "url": "https://www.moneytimes.com.br/mercados-acompanham-contagem-regressiva-para-eleicao-adp-nos-eua-e-salto-do-petroleo-ibovespa-em-dolar-sobe-nesta-terca-feira-20-rens/",
+   "publicado_em": "2026-10-20T07:06:00-03:00"
+  },
+  {
+   "titulo": "Pesquisa eleitoral, petróleo (Brent a US$ 111, máxima em cinco meses), balanços de Netflix e SpaceX e mais destaques desta terça",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/pesquisa-eleitoral-balancos-netflix-spacex-agenda-20102026/",
+   "publicado_em": "2026-10-20T06:34:00-03:00"
+  },
+  {
+   "titulo": "Agenda da semana: IPCA-15 de outubro na sexta (23/10); temporada de balanços do 3T26 começa na terça",
+   "fonte": "Poder360",
+   "url": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-semana-11/",
+   "publicado_em": "2026-10-19T06:00:00-03:00"
+  },
+  {
+   "titulo": "Raízen (RAIZ4): acionistas votam em 30/10 medidas da recuperação extrajudicial; BB vê risco de diluição",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/raizen-recuperacao-dos-credores-segue-incerta-apesar-de-medidas-de-reestruturacao-diz-bb/",
+   "publicado_em": "2026-10-19T16:34:00-03:00"
+  },
+  {
+   "titulo": "Petróleo Brent fecha em leve queda (-0,3%, US$ 109,55) mesmo após ataques houthis à infraestrutura saudita; WTI (nov.) sobe 2,2%, a US$ 103,66",
+   "fonte": "Reuters / UOL",
+   "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/19/petroleo-brent-registra-leve-queda-mesmo-apos-ataques-houthis-a-infraestrutura-saudita.htm",
+   "publicado_em": "2026-10-19T16:38:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa cede 0,17% com baixa forte em Petrobras e eleições no radar",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/19/ibovespa-cede-017percent-com-baixa-forte-em-petrobras-e-eleicoes-no-radar.ghtml",
+   "publicado_em": "2026-10-19T17:31:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa fecha com leve queda (-0,17%, 205.079 pts) de olho na eleição; dólar cai a R$ 5,04; PETR4 -2,82%",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
+   "publicado_em": "2026-10-19T17:28:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa fecha em leve queda com cautela na reta final das eleições; Brent fecha a US$ 109,55 (-0,3%)",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/19/ibovespa-e-dolar-hoje-19-de-outubro-de-2026.ghtml",
+   "publicado_em": "2026-10-19T17:14:00-03:00"
+  },
+  {
+   "titulo": "Dólar fecha em queda de 0,49%, a R$ 5,048; Petrobras pesa na Bolsa",
+   "fonte": "UOL Economia",
+   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/19/dolar-fecha-em-queda-de-049-a-r-5048-petrobras-pesa-na-bolsa.htm",
+   "publicado_em": "2026-10-19T17:08:00-03:00"
+  },
+  {
+   "titulo": "Incerteza eleitoral e petróleo limitam alta do Ibovespa com NY e minério",
+   "fonte": "TN Online / Estadão Conteúdo",
+   "url": "https://tnonline.uol.com.br/noticias/economia/incerteza-eleitoral-e-petroleo-limitam-alta-do-ibovespa-com-ny-e-minerio-1166136",
+   "publicado_em": "2026-10-19T11:36:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa ronda o zero a zero (~15h, -0,1%, 205.342 pts) e dólar recua a R$ 5,05; Brent sobe 0,15%, a US$ 110; Petrobras cai mais de 2%",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/19/ibovespa-e-dolar-hoje-19-de-outubro-de-2026.ghtml",
+   "publicado_em": "2026-10-19T15:18:00-03:00"
+  },
+  {
+   "titulo": "Itaú BBA: Petrobras lidera preferência; Vibra mantém Outperform com alvo de R$ 45, mas investidores questionam duração das margens",
+   "fonte": "Investing.com",
+   "url": "https://br.investing.com/news/general-news/petrobras-lidera-preferencia-do-itau-bba-distribuidoras-perdem-espaco-2095434",
+   "publicado_em": "2026-10-19T11:59:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa perde força e vai ao negativo (~12h, -0,03%, 205.371 pts); Brent cai 1,63%, a US$ 108,04; Petrobras cede ~2,6%",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-hoje-eleicoes-e-petroleo-podem-movimentar-a-bolsa-apos-queda-semanal/",
+   "publicado_em": "2026-10-19T12:00:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa sobe e dólar recua a R$ 5,05 de olho em reta final da eleição (atualizado 11h57)",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/19/ibovespa-e-dolar-hoje-19-de-outubro-de-2026.ghtml",
+   "publicado_em": "2026-10-19T11:57:00-03:00"
+  },
+  {
+   "titulo": "Abicom: diesel A S10 -107% e gasolina A -22% vs paridade internacional (defasagem amplia)",
+   "fonte": "InfoMoney / Abicom",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
+   "publicado_em": "2026-10-19T11:04:00-03:00"
+  },
+  {
+   "titulo": "Estadão: às 10h50 VBBR3 entre as maiores baixas (-1,42%); Brent -1,84% a US$ 107,88",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-hoje-eleicoes-e-petroleo-podem-movimentar-a-bolsa-apos-queda-semanal/",
+   "publicado_em": "2026-10-19T10:55:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa sobe com Vale e bancos; Petrobras cai mais de 1% com recuo do petróleo",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/19/ibovespa-sobe-com-vale-e-bancos-de-olho-em-cenario-eleitoral.ghtml",
+   "publicado_em": "2026-10-19T10:46:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa vira para queda e tenta manter os 205 mil pontos; dólar a R$ 5,05",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
+   "publicado_em": "2026-10-19T11:50:00-03:00"
+  },
+  {
+   "titulo": "Focus: mercado mantém IPCA 2026 em 5,22% e Selic em 13,25%; dólar no fim do ano cai para R$ 5,13 e PIB para 1,83%",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/brasil/noticia/2026/10/19/mercado-mantem-projecao-de-alta-do-ipca-de-2026-em-522percent-e-eleva-de-2027-para-432percent-aponta-focus.ghtml",
+   "publicado_em": "2026-10-19T08:43:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa futuro avança, com foco na reta final da eleição",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/19/ibovespa-e-dolar-hoje-19-de-outubro-de-2026.ghtml",
+   "publicado_em": "2026-10-19T09:02:00-03:00"
+  },
+  {
+   "titulo": "Manhã no mercado: reta final do 2º turno deve guiar ativos locais; Brent cai 1,37%, a US$ 108,42 (8h)",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/19/manha-no-mercado-reta-final-do-2o-turno-deve-guiar-ativos-locais.ghtml",
+   "publicado_em": "2026-10-19"
+  },
+  {
+   "titulo": "IGP-10 sobe 1,76% em outubro (acumula 5,02% em 12 meses), puxado pela gasolina nos preços ao produtor",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/brasil/noticia/2026/10/19/igp-10-sobe-176-pontos-percentuais-em-outubro-e-acumula-alta-de-502-em-12-meses-diz-fgv.ghtml",
+   "publicado_em": "2026-10-19T08:13:00-03:00"
+  },
+  {
+   "titulo": "IGP-10, Focus e pesquisas eleitorais (AtlasIntel e PoderData) são os destaques desta segunda",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/igp-10-focus-pesquisas-eleitorais-agenda-19102026/",
+   "publicado_em": "2026-10-19T06:08:00-03:00"
+  },
+  {
+   "titulo": "Petróleo recua de máxima em cinco meses após EUA suspenderem sanções à Rússia; Brent cai 2,70%, a US$ 106,90 (4h42)",
+   "fonte": "Money Times",
+   "url": "https://www.moneytimes.com.br/petroleo-recua-de-maxima-em-cinco-meses-apos-suspensao-de-sancoes-dos-eua-a-russia-fets/",
+   "publicado_em": "2026-10-19T04:43:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa hoje: após perder 1,74% na semana, índice reage a Focus, IGP-10, eleições e petróleo",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-hoje-eleicoes-e-petroleo-podem-movimentar-a-bolsa-apos-queda-semanal/",
+   "publicado_em": "2026-10-19T04:30:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa sobe 0,54% com Petrobras (PETR4 +4,04%); Brent fecha a US$ 109,86 e WTI passa de US$ 100",
+   "fonte": "Exame",
+   "url": "https://exame.com/invest/mercados/ibovespa-sobe-com-petrobras-mas-perde-174-na-semana-com-cautela-eleitoral/",
+   "publicado_em": "2026-10-16T17:41:00-03:00"
+  },
+  {
+   "titulo": "Petrobras (PETR4) dispara com petróleo no maior nível em um mês e otimismo de analistas",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/16/petrobras-petr4-dispara-com-petroleo-no-maior-nivel-em-um-mes-e-otimismo-de-analistas.ghtml",
+   "publicado_em": "2026-10-16T14:51:00-03:00"
+  },
+  {
+   "titulo": "Vibra esclarece à CVM divergência com Petrobras sobre prazo para plano de descontinuação de marcas",
+   "fonte": "Radar Energia",
+   "url": "https://portalradarenergia.com.br/noticias/vibra-esclarece-a-cvm-divergencia-com-petrobras-sobre-prazo-para-plano-de-descon-c4367962",
+   "publicado_em": "2026-10-16T12:18:00-03:00"
+  },
+  {
+   "titulo": "Vibra Energia (VBBR3) esclarece divergência sobre plano de debranding com Petrobras",
+   "fonte": "Acionista.com.br",
+   "url": "https://acionista.com.br/vibra-energia-vbbr3-esclarece-divergencia-sobre-plano-de-debranding-com-petrobras/",
+   "publicado_em": "2026-10-16"
+  },
+  {
+   "titulo": "Vibra diz manter divergência com a Petrobras sobre plano de retirada de marcas",
+   "fonte": "Estadão",
+   "url": "https://www.estadao.com.br/economia/negocios/vibra-diz-manter-divergencia-com-a-petrobras-sobre-plano-de-retirada-de-marcas/",
+   "publicado_em": "2026-10-15T19:21:00-03:00"
+  },
+  {
+   "titulo": "Vibra Energia fará resgate antecipado da 5ª emissão e da 2ª série da 4ª emissão de debêntures",
+   "fonte": "Broadcast",
+   "url": "https://www.broadcast.com.br/ultimas-noticias/vibra-energia-fara-resgate-antecipado-da-5a-emissao-e-da-2a-serie-da-4a-emissao/",
+   "publicado_em": "2026-10-15T08:40:00-03:00"
+  },
+  {
+   "titulo": "Prévia do 3T26: BTG projeta Ebitda ajustado de R$ 3,8 bi, mantém compra e alvo de R$ 42",
+   "fonte": "Eu Quero Investir",
+   "url": "https://euqueroinvestir.com/acoes/vibra-previa-3t26-btg",
+   "publicado_em": "2026-10-15"
+  },
+  {
+   "titulo": "Lazard diminui participação na Vibra (de 5% para 4,96%)",
+   "fonte": "O Globo (Lauro Jardim)",
+   "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/lazard-diminui-participacao-na-vibra.ghtml",
+   "publicado_em": "2026-10-13T09:01:00-03:00"
+  },
+  {
+   "titulo": "Morgan Stanley rebaixa Vibra para neutra e eleva alvo para R$ 43: setor 'precificado à perfeição'",
+   "fonte": "Finance News",
+   "url": "https://financenews.com.br/2026/10/entenda-por-que-o-morgan-stanley-alterou-a-recomendacao-para-a-vibra-e-a-ultrapar/",
+   "publicado_em": "2026-10-08T13:12:00-03:00"
+  },
+  {
+   "titulo": "Petróleo dispara e Brent chega a US$ 110 pela 1ª vez desde maio; veja o que pressiona os preços",
+   "fonte": "g1",
+   "url": "https://g1.globo.com/economia/noticia/2026/10/16/petroleo-dispara-e-brent-chega-a-us-110-pela-1a-vez-desde-maio-veja-o-que-pressiona-os-precos.ghtml",
+   "publicado_em": "2026-10-16T17:14:00-03:00"
+  },
+  {
+   "titulo": "Diesel comum sobe 6,67% na primeira quinzena de outubro e chega a R$ 7,20 (IPTL/Edenred Ticket Log)",
+   "fonte": "Brasil Postos",
+   "url": "https://www.brasilpostos.com.br/noticias/mercado/diesel-comum-sobe-667-primeira-quinzena-outubro-iptl-ticket-log/",
+   "publicado_em": "2026-10-16T17:19:22-03:00"
+  },
+  {
+   "titulo": "Distribuidoras ficaram fora da festa da Bolsa, mas por que o BBI segue otimista? (VBBR3, UGPA3)",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/vbbr3-ugpa3-distribuidoras-ficaram-fora-da-festa-da-bolsa-mas-por-que-o-bbi-segue-otimista/",
+   "publicado_em": "2026-10-16T12:00:00-03:00"
+  },
+  {
+   "titulo": "BTG espera Ebitda ajustado de cerca de R$ 3,8 bi da Vibra no 3T26; alvo de R$ 42 (Rápidas)",
+   "fonte": "Finance News",
+   "url": "https://financenews.com.br/2026/10/rapidas-petrobras-vale-bb-seguridade-unifique-eneva-vibra-mitre/",
+   "publicado_em": "2026-10-16T11:10:17-03:00"
+  },
+  {
+   "titulo": "ANP publica na terça (20/10) o levantamento de preços de combustíveis de 11 a 17/10",
+   "fonte": "ANP (gov.br)",
+   "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/levantamento-de-precos-de-combustiveis-11-a-17-10-sera-publicado-na-terca-20-10",
+   "publicado_em": "2026-10-16T13:10:00-03:00"
+  },
+  {
+   "titulo": "Vibra vê disparada no interesse por embandeiramento Petrobras em cenário de formalização do setor",
+   "fonte": "Radar Energia",
+   "url": "https://portalradarenergia.com.br/noticias/vibra-ve-disparada-no-interesse-por-embandeiramento-petrobras-em-cenario-de-form-749ba8e6",
+   "publicado_em": "2026-10-16T08:21:00-03:00"
+  },
+  {
+   "titulo": "CBIE: Petrobras não reajustou preços nas refinarias de 9 a 15/10; Brent sobe 1,15% no período, a US$ 105,92",
+   "fonte": "CBIE",
+   "url": "https://cbie.com.br/analise-semanal-da-defasagem-16-10-2026/",
+   "publicado_em": "2026-10-16T11:53:50-03:00"
+  },
+  {
+   "titulo": "Agenda da semana: IGP-10 e Boletim Focus na segunda (19/10); IPCA-15 de outubro no radar",
+   "fonte": "TradeMap",
+   "url": "https://trademap.com.br/noticias/news-8446002",
+   "publicado_em": "2026-10-16T17:30:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa futuro abre em alta (+1,21%, 211.015 pts às 9h38); dólar cai 0,58%, a R$ 5,019; Brent +1,69%, a US$ 111,4",
+   "fonte": "Finance News",
+   "url": "https://financenews.com.br/2026/10/ibovespa-futuro-abre-em-alta-dolar-cai-e-noticias-corporativas-2/",
+   "publicado_em": "2026-10-20T09:20:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa futuro avança com disparada do petróleo (Brent a US$ 111, maior nível em cinco meses); dólar cai a R$ 5,04",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/20/ibovespa-e-dolar-hoje-20-de-outubro-de-2026.ghtml",
+   "publicado_em": "2026-10-20T09:04:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa Futuro sobe 1% com petróleo em alta e nova pesquisa eleitoral (210.665 pts às 9h02)",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-sobe-1-com-petroleo-em-alta-e-nova-pesquisa-eleitoral/",
+   "publicado_em": "2026-10-20T09:12:00-03:00"
+  },
+  {
+   "titulo": "Manhã no mercado: petróleo a US$ 111 pressiona ativos em meio à cautela eleitoral no Brasil",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/20/manha-no-mercado-petroleo-a-us-111-pressiona-ativos-em-meio-a-cautela-eleitoral-no-brasil.ghtml",
+   "publicado_em": "2026-10-20"
+  },
+  {
+   "titulo": "TraderNews (19/10): VBBR3 em MANUTENÇÃO, evitar nova entrada; alvo estimado R$ 40, resultado do 3T26 em 04/11",
+   "fonte": "TraderNews",
+   "url": "https://tradernews.com.br/analise/Analise_VBBR3_261019.html/",
+   "publicado_em": "2026-10-19"
+  },
+  {
+   "titulo": "Mesmo com queda de Petrobras, Ibovespa segura forte alta: +1,47%, aos 208.096 pontos",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
+   "publicado_em": "2026-10-20T11:34:00-03:00"
+  },
+  {
+   "titulo": "Rápidas: Ibovespa +1,48% (208.109 pts às 11h07); dólar a R$ 5,016; Brent reduz alta e cai 0,3%, a US$ 109; PETR4 +1,07%",
+   "fonte": "Finance News",
+   "url": "https://financenews.com.br/2026/10/rapidas-petrobras-vale-prio-jsl-americanas-randoncorp-frasle-santander-pine-mitre/",
+   "publicado_em": "2026-10-20T11:08:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa sobe com apoio de Petrobras e queda dos juros futuros, de olho no quadro eleitoral",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/20/ibovespa-sobe-com-apoio-de-petrobras-e-queda-dos-juros-futuros-de-olho-no-quadro-eleitoral.ghtml",
+   "publicado_em": "2026-10-20T10:43:00-03:00"
+  },
+  {
+   "titulo": "Abicom (20/10): diesel A S10 segue 107% (R$ 3,49/l) e gasolina A 22% (R$ 0,66/l) abaixo da paridade internacional",
+   "fonte": "InfoMoney / Abicom",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
+   "publicado_em": "2026-10-20"
+  },
+  {
+   "titulo": "AIE diz estar pronta para nova liberação de reservas de petróleo se necessário",
+   "fonte": "InfoMoney / Reuters",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
+   "publicado_em": "2026-10-20"
+  },
+  {
+   "titulo": "Taxas do Tesouro superam 2020 e têm maior alta da série histórica com vitória de Lula; Prefixado 2032 vai a 15,78%",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
+   "publicado_em": "2026-10-26T13:35:00-03:00"
+  },
+  {
+   "titulo": "Ativos brasileiros desabam após eleição e mercado precifica alta da Selic em novembro",
+   "fonte": "Reuters / InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
+   "publicado_em": "2026-10-26T13:29:00-03:00"
+  },
+  {
+   "titulo": "Banco Central informa PTAX de fechamento a R$ 5,5007 na venda (R$ 5,0377 na sexta)",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
+   "publicado_em": "2026-10-26T13:14:00-03:00"
+  },
+  {
+   "titulo": "Durigan: vamos fazer alterações para buscar o centro da meta fiscal ainda este ano",
+   "fonte": "Broadcast / InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
+   "publicado_em": "2026-10-26T12:59:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa reduz queda para 14,44%, aos 175.466 pontos; dólar perde força, mas sobe 8,47%, a R$ 5,415",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
+   "publicado_em": "2026-10-26T12:42:00-03:00"
+  },
+  {
+   "titulo": "Goldman vê risco fiscal maior com Lula e alerta para governabilidade",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
+   "publicado_em": "2026-10-26T12:26:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa cai 17% após vitória de Lula; Petrobras ON cai 10% e Banco do Brasil 31%, diz EFG",
+   "fonte": "Portal Band",
+   "url": "https://www.band.com.br/economia/macroeconomia/ibovespa-cai-17-apos-reeleicao-de-lula-e-b3-aciona-circuit-breaker",
+   "publicado_em": "2026-10-26T11:57:00-03:00"
+  },
+  {
+   "titulo": "Mercado despenca e amplia temor sobre contas públicas; real perde 11% e juros disparam quase 300 pontos-base",
+   "fonte": "Bloomberg Línea",
+   "url": "https://www.bloomberglinea.com.br/mercados/mercados-despencam-apos-vitoria-inesperada-de-lula-e-ampliam-temor-sobre-contas-publicas/",
+   "publicado_em": "2026-10-26T10:56:00-03:00"
+  },
+  {
+   "titulo": "Bolsa aciona circuit breaker após vitória de Lula; analistas explicam queda",
+   "fonte": "VEJA",
+   "url": "https://veja.abril.com.br/economia/bolsa-aciona-circuit-breaker-apos-vitoria-de-lula-analistas-explicam-queda/",
+   "publicado_em": "2026-10-26T10:35:00-03:00"
+  },
+  {
+   "titulo": "Petrobras (PETR4) e ações de combustíveis tombam; CSAN3 perde mais de 44% e Vibra recua mais de 20%",
+   "fonte": "Investidor10",
+   "url": "https://investidor10.com.br/noticias/petrobras-petr4-e-acoes-de-combustiveis-tombam-na-bolsa-csan3-perde-mais-de-44-123510/",
+   "publicado_em": "2026-10-26T11:59:00-03:00"
+  },
+  {
+   "titulo": "Bolsa tomba 15% após vitória de Lula e registra uma das maiores quedas da história",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/bolsa-tomba-15-apos-vitoria-de-lula-e-registra-uma-das-maiores-quedas-da-historia/",
+   "publicado_em": "2026-10-26T13:03:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa passa por circuit breaker e fecha em queda de 13,88%, aos 176.608 pontos, com liquidação após vitória de Lula",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/26/ibovespa-passa-por-circuit-breaker-e-cai-quase-14percent-com-liquidacao-apos-vitoria-de-lula.ghtml",
+   "publicado_em": "2026-10-26T17:25:00-03:00"
+  },
+  {
+   "titulo": "Tombo da bolsa apaga R$ 663 bilhões do valor de mercado das empresas do Ibovespa em um pregão",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/26/tombo-da-bolsa-apaga-r-663-bilhoes-do-valor-das-empresas-do-ibovespa.ghtml",
+   "publicado_em": "2026-10-26T18:19:00-03:00"
+  },
+  {
+   "titulo": "Após reação negativa do mercado, Durigan diz que vai ampliar superávit primário em 2027",
+   "fonte": "Poder360",
+   "url": "https://www.poder360.com.br/poder-economia/apos-reacao-negativa-do-mercado-durigan-diz-que-vai-ampliar-superavit/",
+   "publicado_em": "2026-10-26T18:22:00-03:00"
+  },
+  {
+   "titulo": "Fechamento: Ibovespa -13,88% (176.608 pts), Ibovespa Futuro -14,5% (177.925 pts), dólar comercial a R$ 5,4029 (+8,21%)",
+   "fonte": "Estadão Conteúdo / UOL",
+   "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/10/26/fechamento-do-mercado-financeiro.htm",
+   "publicado_em": "2026-10-26T18:38:00-03:00"
+  },
+  {
+   "titulo": "Lula se reúne no Alvorada com Durigan (Fazenda) e Moretti (Planejamento) após queda da Bolsa e alta do dólar",
+   "fonte": "O Globo",
+   "url": "https://oglobo.globo.com/economia/noticia/2026/10/26/lula-se-reune-com-ministros-da-fazenda-e-do-planejamento-apos-queda-da-bolsa-e-alta-do-dolar.ghtml",
+   "publicado_em": "2026-10-26T18:58:00-03:00"
+  },
+  {
+   "titulo": "Vibra e Petrobras: com Lula reeleito, Vibra vê menos espaço para negociar o futuro da marca BR (licença vence em junho de 2029)",
+   "fonte": "Exame INSIGHT",
+   "url": "https://exame.com/insight/com-lula-reeleito-vibra-ve-menos-espaco-para-negociar-futuro-da-marca-br/p",
+   "publicado_em": "2026-10-27T07:00:00-03:00"
+  },
+  {
+   "titulo": "Contratos futuros voltam a cair, mas ADRs de empresas brasileiras sobem no pré-mercado nos EUA",
+   "fonte": "Folha de S.Paulo",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/contratos-futuros-voltam-a-cair-mas-adrs-de-empresas-brasileiras-sobem-no-pre-mercado-nos-eua.shtml",
+   "publicado_em": "2026-10-27T06:56:00-03:00"
+  },
+  {
+   "titulo": "Possível correção dos mercados, Galípolo às 11h e leilão de swap de até US$ 4 bi: destaques desta terça",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/correcao-mercados-galipolo-leiloes-bc-agenda-27102026/",
+   "publicado_em": "2026-10-27T06:13:00-03:00"
+  },
+  {
+   "titulo": "Citigroup e BCA Research rebaixam recomendação de ativos brasileiros após vitória de Lula",
+   "fonte": "Reuters / InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/",
+   "publicado_em": "2026-10-27"
+  },
+  {
+   "titulo": "Governo renovará subvenção de R$ 2,12 do diesel por mais um mês, diz Planejamento",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/",
+   "publicado_em": "2026-10-27"
+  }
+ ],
+ "rec": "AGUARDAR • fechou em -10,08% colado na MA200 (cerca de 0,3% abaixo) após pregão de pânico; esperar o preço confirmar acima de R$ 32,30 a R$ 32,90 ou respeitar S1 de R$ 30,40",
+ "reason": "FECHAMENTO 26/10 (17h55 de Brasília): o Ibovespa terminou em -13,88%, aos 176.608 pts, depois do circuit breaker na abertura e da mínima de 169.516 pts (-17,34%), em reação à reeleição de Lula (Valor 17h25). O volume do Ibovespa foi de R$ 88,6 bi (Valor). Durante o dia, o ministro da Fazenda, Dario Durigan, disse que o governo fará alterações para buscar o centro da meta fiscal (Broadcast, via InfoMoney 12h59), e o mercado passou a precificar alta da Selic em novembro (Reuters, via InfoMoney 13h29). VBBR3 chegou a R$ 27,48 (-23%), mas recuperou boa parte e fechou a R$ 32,21 (-10,08%, Yahoo Finance/Toolz; a QuantBrasil mostra R$ 31,81). O preço terminou praticamente sobre a MA200 (R$ 32,30), cerca de 12% abaixo da MA50 (R$ 36,65), com IFR(14) em 24 (sobrevendido) e volume de 25,55 mi de ações, mais que o dobro de sexta. O consenso segue de compra (ADVFN, alvo médio R$ 41,68), mas os alvos são anteriores à eleição e podem ser revistos. A recomendação é esperar o pregão de amanhã: confirmação acima da MA200 e da R1 (R$ 32,90) seria sinal de recuperação; perda de R$ 30,40 reabre espaço para R$ 28,34. Balanço do 3T26 em 04/11. PRÉ-ABERTURA 27/10 (08h35 de Brasília): os ADRs brasileiros e o EWZ sobem no pré-mercado em Nova York (EWZ +0,26% por volta das 6h45, após -19,82% na véspera; ADR da Petrobras +0,67%), sinal de possível correção positiva, sem garantia de alta no pregão (Folha 06h56; InfoMoney 06h13). Citigroup e BCA Research rebaixaram a recomendação dos ativos brasileiros após a eleição (Reuters, via InfoMoney). O governo renovará por mais um mês a subvenção de R$ 2,12 do diesel (Ministério do Planejamento, via InfoMoney), tema que afeta as distribuidoras. Para a Vibra, a reeleição reduz a expectativa de rever a não renovação da licença da marca BR, que vence em junho de 2029 (Exame 07h00); não há fato relevante novo da companhia. Agenda: coletiva de Galípolo (BC) às 11h e leilão de swap cambial de até US$ 4 bi às 11h30. O Brent recua 0,43%, a US$ 115,26 (InfoMoney). Balanço do 3T26 em 04/11. ATUALIZAÇÃO 27/10 (09h45 de Brasília, antes da abertura do pregão à vista às 10h): o Ibovespa futuro dez/26 subia 0,41%, a 178.970 pts, por volta das 9h25, com dólar comercial recuando 1%, a R$ 5,34, e DIs em queda (Exame 09h29). O G1 registrava dólar a R$ 5,3992 perto das 9h (G1 09h00) e o Estadão, R$ 5,39 por volta das 9h (Estadão 09h32): fontes divergem no horário de leitura. O IPP de setembro subiu 1,54% (IBGE, via InfoMoney). VBBR3 ainda não negociou hoje; a referência segue o fechamento de R$ 32,21, cerca de 0,3% abaixo da MA200 (R$ 32,30).",
+ "sources": [
+  [
+   "Renova Invest",
+   "https://renovainvest.com.br/acoes/vbbr3/"
+  ],
+  [
+   "BolsaData",
+   "https://bolsadata.com.br/acoes/vbbr3"
+  ],
+  [
+   "CapitalAgora",
+   "https://capitalagora.com.br/acoes/VBBR3"
+  ],
+  [
+   "QuantBrasil",
+   "https://quantbrasil.com.br/ativos/VBBR3/"
+  ],
+  [
+   "Toolz",
+   "https://toolz.trade/pt/acoes-vibra/"
+  ],
+  [
+   "ADVFN",
+   "https://br.advfn.com/bolsa-de-valores/bovespa/vibra-energia-on-VBBR3/previsoes"
+  ]
+ ]
 }
