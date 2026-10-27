@@ -1,5 +1,5 @@
 {
-  "updated": "26/10/2026 20:35",
+  "updated": "27/10/2026 08:35",
   "price": 32.21,
   "price_label": "Fechamento de 26/10/2026 • R$ 32,21 (-10,08%) • Yahoo Finance (último negócio às 17h05 de Brasília) e Toolz • vs fechamento de 23/10 de R$ 35,82",
   "change_pct": -10.08,
@@ -781,10 +781,40 @@
       "fonte": "O Globo",
       "url": "https://oglobo.globo.com/economia/noticia/2026/10/26/lula-se-reune-com-ministros-da-fazenda-e-do-planejamento-apos-queda-da-bolsa-e-alta-do-dolar.ghtml",
       "publicado_em": "2026-10-26T18:58:00-03:00"
+    },
+    {
+      "titulo": "Vibra e Petrobras: com Lula reeleito, Vibra vê menos espaço para negociar o futuro da marca BR (licença vence em junho de 2029)",
+      "fonte": "Exame INSIGHT",
+      "url": "https://exame.com/insight/com-lula-reeleito-vibra-ve-menos-espaco-para-negociar-futuro-da-marca-br/p",
+      "publicado_em": "2026-10-27T07:00:00-03:00"
+    },
+    {
+      "titulo": "Contratos futuros voltam a cair, mas ADRs de empresas brasileiras sobem no pré-mercado nos EUA",
+      "fonte": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/10/contratos-futuros-voltam-a-cair-mas-adrs-de-empresas-brasileiras-sobem-no-pre-mercado-nos-eua.shtml",
+      "publicado_em": "2026-10-27T06:56:00-03:00"
+    },
+    {
+      "titulo": "Possível correção dos mercados, Galípolo às 11h e leilão de swap de até US$ 4 bi: destaques desta terça",
+      "fonte": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/correcao-mercados-galipolo-leiloes-bc-agenda-27102026/",
+      "publicado_em": "2026-10-27T06:13:00-03:00"
+    },
+    {
+      "titulo": "Citigroup e BCA Research rebaixam recomendação de ativos brasileiros após vitória de Lula",
+      "fonte": "Reuters / InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/",
+      "publicado_em": "2026-10-27"
+    },
+    {
+      "titulo": "Governo renovará subvenção de R$ 2,12 do diesel por mais um mês, diz Planejamento",
+      "fonte": "InfoMoney",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/",
+      "publicado_em": "2026-10-27"
     }
   ],
   "rec": "AGUARDAR • fechou em -10,08% colado na MA200 (cerca de 0,3% abaixo) após pregão de pânico; esperar o preço confirmar acima de R$ 32,30 a R$ 32,90 ou respeitar S1 de R$ 30,40",
-  "reason": "FECHAMENTO 26/10 (17h55 de Brasília): o Ibovespa terminou em -13,88%, aos 176.608 pts, depois do circuit breaker na abertura e da mínima de 169.516 pts (-17,34%), em reação à reeleição de Lula (Valor 17h25). O volume do Ibovespa foi de R$ 88,6 bi (Valor). Durante o dia, o ministro da Fazenda, Dario Durigan, disse que o governo fará alterações para buscar o centro da meta fiscal (Broadcast, via InfoMoney 12h59), e o mercado passou a precificar alta da Selic em novembro (Reuters, via InfoMoney 13h29). VBBR3 chegou a R$ 27,48 (-23%), mas recuperou boa parte e fechou a R$ 32,21 (-10,08%, Yahoo Finance/Toolz; a QuantBrasil mostra R$ 31,81). O preço terminou praticamente sobre a MA200 (R$ 32,30), cerca de 12% abaixo da MA50 (R$ 36,65), com IFR(14) em 24 (sobrevendido) e volume de 25,55 mi de ações, mais que o dobro de sexta. O consenso segue de compra (ADVFN, alvo médio R$ 41,68), mas os alvos são anteriores à eleição e podem ser revistos. A recomendação é esperar o pregão de amanhã: confirmação acima da MA200 e da R1 (R$ 32,90) seria sinal de recuperação; perda de R$ 30,40 reabre espaço para R$ 28,34. Balanço do 3T26 em 04/11. ATUALIZAÇÃO DA NOITE (20h35 de Brasília): após o fechamento, o Ibovespa Futuro terminou em -14,5%, aos 177.925 pts, e o dólar comercial em R$ 5,4029 (+8,21%) (Estadão Conteúdo/UOL 18h38). Durigan disse que o governo vai ampliar o superávit primário de 2027, sem informar novo valor nem detalhar medidas (Poder360 18h22). Lula se reuniu no começo da noite no Alvorada com Durigan e Moretti; até esta atualização não havia anúncio de resultado da reunião (O Globo 18h58). Não houve fato relevante novo da Vibra hoje; o balanço do 3T26 segue agendado para 04/11 (TraderNews).",
+  "reason": "FECHAMENTO 26/10 (17h55 de Brasília): o Ibovespa terminou em -13,88%, aos 176.608 pts, depois do circuit breaker na abertura e da mínima de 169.516 pts (-17,34%), em reação à reeleição de Lula (Valor 17h25). O volume do Ibovespa foi de R$ 88,6 bi (Valor). Durante o dia, o ministro da Fazenda, Dario Durigan, disse que o governo fará alterações para buscar o centro da meta fiscal (Broadcast, via InfoMoney 12h59), e o mercado passou a precificar alta da Selic em novembro (Reuters, via InfoMoney 13h29). VBBR3 chegou a R$ 27,48 (-23%), mas recuperou boa parte e fechou a R$ 32,21 (-10,08%, Yahoo Finance/Toolz; a QuantBrasil mostra R$ 31,81). O preço terminou praticamente sobre a MA200 (R$ 32,30), cerca de 12% abaixo da MA50 (R$ 36,65), com IFR(14) em 24 (sobrevendido) e volume de 25,55 mi de ações, mais que o dobro de sexta. O consenso segue de compra (ADVFN, alvo médio R$ 41,68), mas os alvos são anteriores à eleição e podem ser revistos. A recomendação é esperar o pregão de amanhã: confirmação acima da MA200 e da R1 (R$ 32,90) seria sinal de recuperação; perda de R$ 30,40 reabre espaço para R$ 28,34. Balanço do 3T26 em 04/11. PRÉ-ABERTURA 27/10 (08h35 de Brasília): os ADRs brasileiros e o EWZ sobem no pré-mercado em Nova York (EWZ +0,26% por volta das 6h45, após -19,82% na véspera; ADR da Petrobras +0,67%), sinal de possível correção positiva, sem garantia de alta no pregão (Folha 06h56; InfoMoney 06h13). Citigroup e BCA Research rebaixaram a recomendação dos ativos brasileiros após a eleição (Reuters, via InfoMoney). O governo renovará por mais um mês a subvenção de R$ 2,12 do diesel (Ministério do Planejamento, via InfoMoney), tema que afeta as distribuidoras. Para a Vibra, a reeleição reduz a expectativa de rever a não renovação da licença da marca BR, que vence em junho de 2029 (Exame 07h00); não há fato relevante novo da companhia. Agenda: coletiva de Galípolo (BC) às 11h e leilão de swap cambial de até US$ 4 bi às 11h30. O Brent recua 0,43%, a US$ 115,26 (InfoMoney). Balanço do 3T26 em 04/11.",
   "sources": [
     [
       "Renova Invest",
