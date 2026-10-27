@@ -1,20 +1,20 @@
 {
-  "updated": "27/10/2026 15:50",
-  "price": 32.1,
-  "price_label": "Pregão de 27/10/2026 • R$ 32,10 (-0,34%) • Yahoo Finance, último negócio às 15h33 de Brasília (atraso de cerca de 15 min) • vs fechamento de 26/10 de R$ 32,21",
-  "change_pct": -0.34,
-  "alt_price": "Pregão de 27/10 até 15h33 (Yahoo Finance): máx. R$ 32,59, mín. R$ 31,50, 14,34 mi de ações. A TradeMap mostrava R$ 32,30 (+0,28%) às 12h49 e a Toolz R$ 32,28 (+0,22%) em leitura anterior: o papel oscila em torno da MA200. Ibovespa a 175.901 pts (-0,40%) às 15h33 (Yahoo Finance, vs 176.608 de 26/10); OpçõesBR registrava -0,24% (176.182 pts) às 15h e a Pense Mercado -0,39% (175.922) às 15h28; faixa do dia entre 175.157 e 178.526 pts (OpçõesBR). Dólar comercial em queda: R$ 5,343 (Yahoo Finance, 15h48), R$ 5,339 (-1,18%) pela InfoMoney. CONFLITO: a OpçõesBR mostra R$ 5,334 com -3,01%, variação que diverge das demais fontes. Na véspera (26/10) VBBR3 fechou a R$ 32,21 (-10,08%), mínima de R$ 27,48 e 25,59 mi de ações (Cota B3).",
+  "updated": "27/10/2026 17:55",
+  "price": 32.18,
+  "price_label": "Fechamento de 27/10/2026 • R$ 32,18 (-0,09%) • Yahoo Finance, último negócio às 17h05 de Brasília • vs fechamento de 26/10 de R$ 32,21",
+  "change_pct": -0.09,
+  "alt_price": "Pregão de 27/10 (Yahoo Finance): abertura perto de R$ 32,19, máx. R$ 32,59, mín. R$ 31,50, 21,34 mi de ações. CONFLITO: a QuantBrasil (17h45) mostra R$ 32,29 (+2,28%), mínima de R$ 31,81 e fechamento anterior de R$ 31,57, base que diverge do fechamento de 26/10 de R$ 32,21 registrado por Yahoo Finance, Cota B3 e BTG; o painel usa o Yahoo. Ibovespa fechou a 175.710 pts (-0,51%), entre 175.130 e 178.526 pts, volume de R$ 71,2 bi (InfoMoney 17h15; G1, CNN Brasil, Finance News). Dólar à vista fechou a R$ 5,3488 (-1,07%, CNN Brasil / Finance News) ou R$ 5,3502 (-0,97%, G1). Na véspera (26/10) VBBR3 fechou a R$ 32,21 (-10,08%), mínima de R$ 27,48.",
   "prev_close": 35.82,
   "prev_src": "Yahoo Finance / OpçõesBR, fechamento de 23/10/2026",
-  "ma50": 36.65,
-  "ma200": 32.3,
-  "ma_src": "QuantBrasil (SMA diária, atualizado 26/10/2026 17h45)",
-  "ma_alt": "QuantBrasil 26/10 17h45: SMA20 R$ 36,87 • SMA50 R$ 36,65 • SMA200 R$ 32,30 • IFR(14) 24 (sobrevendido) • IFR(2) 1 • abaixo da Bollinger inferior (R$ 34,08) • ATR(14) R$ 1,52. Distância ao preço de R$ 32,10 (15h33): MA50 cerca de -12,4% e MA200 cerca de -0,6%: o preço voltou a ficar logo abaixo da MA200.",
+  "ma50": 36.62,
+  "ma200": 32.33,
+  "ma_src": "QuantBrasil (SMA diária, atualizado 27/10/2026 17h45)",
+  "ma_alt": "QuantBrasil 27/10 17h45: SMA20 R$ 36,57 • SMA50 R$ 36,62 • SMA200 R$ 32,33 • IFR(14) 29 (sobrevendido) • IFR(2) 24 • Estocástico lento 9 • abaixo da Bollinger inferior (R$ 33,09) • ATR(14) R$ 1,48. Distância ao fechamento de R$ 32,18 (Yahoo): MA50 cerca de -12,1% e MA200 cerca de -0,5%. O papel fechou colado na MA200, logo abaixo dela.",
   "support": 30.4,
   "resistance": 32.9,
   "sr_src": "Toolz (pós-fechamento 26/10): R1 R$ 32,90 (forte) • R2 R$ 36,77 • R3 R$ 40,85 • S1 R$ 30,40 (fraco) • S2 R$ 28,34 (forte) • S3 R$ 24,40. A MA200 (R$ 32,30) e a R1 (R$ 32,90) formam a barreira imediata acima do preço.",
   "high52": 41.27,
-  "volume": "27/10 até 15h33: 14,34 mi de ações (Yahoo Finance). 26/10: 25,55 mi de ações (Yahoo Finance) ou 25,59 mi (Cota B3), R$ 815,3 mi negociados (Cota B3/TradeMap); a Cifrix cita R$ 824,3 mi. Média de 10 dias de 11,71 mi citada pela Toolz.",
+  "volume": "27/10 (fechamento): 21,34 mi de ações (Yahoo Finance); a QuantBrasil cita R$ 679,25 mi negociados. 26/10: 25,59 mi de ações (Yahoo Finance / Cota B3), R$ 815,3 mi negociados (Cota B3/TradeMap). Média de 10 dias de 11,71 mi citada pela Toolz.",
   "consensus": "Consenso ADVFN (16 analistas, última leitura de 20/10): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00); 13 compra, 3 neutro, 0 venda. JPMorgan (22/10): overweight, alvo R$ 44,50, Vibra segue preferida no setor. Itaú BBA (19/10): Outperform, alvo R$ 45. BTG: compra, alvo R$ 42 (potencial ~13,5% vs R$ 37,00).",
   "targets": [
     [
@@ -871,10 +871,16 @@
       "fonte": "InvesTalk (Broadcast)",
       "url": "https://investalk.bb.com.br/noticias/mercado/mercado-agora-27-10-26",
       "publicado_em": "2026-10-27T14:15:00-03:00"
+    },
+    {
+      "titulo": "Ibovespa fecha em -0,51%; dólar cai a R$ 5,35",
+      "fonte": "Finance News",
+      "url": "https://financenews.com.br/2026/10/ibovespa-fecha-em-051-dolar-cai-a-r-535/",
+      "publicado_em": "2026-10-27T17:37:00-03:00"
     }
   ],
-  "rec": "AGUARDAR • R$ 32,10, logo abaixo da MA200 (R$ 32,30, cerca de -0,6%); confirmação só com fechamento acima de R$ 32,30 e rompimento da R1 de R$ 32,90; abaixo de R$ 30,40 (S1) o quadro piora",
-  "reason": "ATUALIZAÇÃO 27/10 (15h50 de Brasília): VBBR3 negocia a R$ 32,10 (-0,34%) às 15h33 (Yahoo Finance, com atraso), entre R$ 31,50 e R$ 32,59 no dia, com 14,34 mi de ações. Depois de passar a MA200 (R$ 32,30) no início da tarde, o preço voltou a ficar logo abaixo dela (cerca de -0,6%), ainda abaixo da R1 de R$ 32,90. O Ibovespa recua 0,40% (175.901 pts, Yahoo 15h33) após o tombo de 13,88% de segunda, e o dólar cai para perto de R$ 5,34 (Yahoo, InfoMoney); bolsas europeias fecharam majoritariamente em alta com a queda do petróleo (Broadcast via InvesTalk, 14h15). O governo renovou a subvenção de R$ 2,12 do diesel por mais 30 dias (CNN Brasil / InfoMoney), e Citi e BCA rebaixaram ativos brasileiros. Para a Vibra, a reeleição reduz a chance de rever a não renovação da licença da marca BR, que vence em junho de 2029 (Exame, reproduzido pela Minaspetro); não há fato relevante novo da companhia. Consenso ainda de compra (ADVFN, alvo médio R$ 41,68), com alvos anteriores à eleição. Fechamento acima da MA200 e da R1 seria sinal de recuperação; perda de R$ 30,40 reabre espaço para R$ 28,34. Balanço do 3T26 em 04/11.",
+  "rec": "AGUARDAR • R$ 32,18 no fechamento, logo abaixo da MA200 (R$ 32,33, cerca de -0,5%); confirmação só com fechamento acima de R$ 32,33 e rompimento da R1 de R$ 32,90; abaixo de R$ 30,40 (S1) o quadro piora",
+  "reason": "FECHAMENTO 27/10 (atualizado às 17h55 de Brasília): VBBR3 fechou a R$ 32,18 (-0,09%, Yahoo Finance, último negócio às 17h05), entre R$ 31,50 e R$ 32,59, com 21,34 mi de ações. O papel passou o dia oscilando em torno da MA200 e terminou cerca de 0,5% abaixo dela (R$ 32,33, QuantBrasil 17h45), ainda abaixo da R1 de R$ 32,90. Indicadores seguem em sobrevenda (IFR14 29, abaixo da Bollinger inferior). O Ibovespa fechou em queda de 0,51% (175.710 pts) depois do tombo de 13,88% de segunda, e o dólar recuou para cerca de R$ 5,35 (G1, CNN Brasil, InfoMoney). Para a Vibra, a reeleição reduz a chance de rever a não renovação da licença da marca BR, que vence em junho de 2029 (Exame); não há fato relevante novo da companhia. Consenso ainda de compra (ADVFN, alvo médio R$ 41,68), com alvos anteriores à eleição. Fechamento acima da MA200 e da R1 seria sinal de recuperação; perda de R$ 30,40 reabre espaço para R$ 28,34. Balanço do 3T26 em 04/11.",
   "sources": [
     [
       "Renova Invest",
