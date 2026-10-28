@@ -1,20 +1,20 @@
 {
- "updated": "28/10/2026 11:45",
- "price": 31.63,
- "price_label": "Pregão de 28/10/2026 (em andamento) • R$ 31,63 (-1,71%) • Yahoo Finance, último negócio às 11h27 de Brasília (pode ter atraso de até 15 min) • vs fechamento de 27/10 de R$ 32,18",
- "change_pct": -1.71,
- "alt_price": "Pregão de 28/10 até 11h27 (Yahoo Finance): máx. R$ 32,18, mín. R$ 31,42, 7,40 mi de ações. Ibovespa cai cerca de 2%, abaixo de 172 mil pts, dólar comercial a R$ 5,33 (InfoMoney, atualização 11h31); mínima anterior de 173.007 pts (Valor 10h37). Fechamento de 27/10: R$ 32,18 (-0,09%, Yahoo / Cota B3 / TradeMap). CONFLITO mantido: a QuantBrasil (27/10 17h45) registrou R$ 32,29 (+2,28%) sobre base de R$ 31,57; o painel usa Yahoo.",
+ "updated": "28/10/2026 13:45",
+ "price": 31.28,
+ "price_label": "Pregão de 28/10/2026 (em andamento) • R$ 31,28 (-2,8%) • Yahoo Finance, último negócio às 13h27 de Brasília (pode ter atraso de até 15 min) • vs fechamento de 27/10 de R$ 32,18",
+ "change_pct": -2.8,
+ "alt_price": "Pregão de 28/10 até 13h27 (Yahoo Finance): máx. R$ 32,18, mín. R$ 31,11, 10,09 mi de ações. Ibovespa cai 2,50% a 171.316 pts às 13h27 (Yahoo), após mínima de 170.297 pts; InfoMoney (12h14) cita queda de 2,78% às 12h, com ajuste pós eleição e decisão do Fed às 15h no radar. Fechamento de 27/10: R$ 32,18 (-0,09%, Yahoo / Cota B3 / TradeMap). CONFLITO mantido: a QuantBrasil (27/10 17h45) registrou R$ 32,29 (+2,28%) sobre base de R$ 31,57; o painel usa Yahoo.",
  "prev_close": 35.82,
  "prev_src": "Yahoo Finance / OpçõesBR, fechamento de 23/10/2026",
  "ma50": 36.62,
  "ma200": 32.33,
  "ma_src": "QuantBrasil (SMA diária, atualizado 27/10/2026 17h45)",
- "ma_alt": "QuantBrasil 27/10 17h45: SMA20 R$ 36,57 • SMA50 R$ 36,62 • SMA200 R$ 32,33 • IFR(14) 29 (sobrevendido) • IFR(2) 24 • Estocástico lento 9 • abaixo da Bollinger inferior (R$ 33,09) • ATR(14) R$ 1,48. Distância ao preço de R$ 31,63 (Yahoo, 11h27): MA50 cerca de -13,6% e MA200 cerca de -2,2%. O papel voltou a se afastar da MA200, para baixo.",
+ "ma_alt": "QuantBrasil 27/10 17h45: SMA20 R$ 36,57 • SMA50 R$ 36,62 • SMA200 R$ 32,33 • IFR(14) 29 (sobrevendido) • IFR(2) 24 • Estocástico lento 9 • abaixo da Bollinger inferior (R$ 33,09) • ATR(14) R$ 1,48. Distância ao preço de R$ 31,28 (Yahoo, 13h27): MA50 cerca de -14,6% e MA200 cerca de -3,2%. O papel se afasta ainda mais da MA200, para baixo.",
  "support": 30.4,
  "resistance": 32.9,
  "sr_src": "Toolz (pós-fechamento 26/10): R1 R$ 32,90 (forte) • R2 R$ 36,77 • R3 R$ 40,85 • S1 R$ 30,40 (fraco) • S2 R$ 28,34 (forte) • S3 R$ 24,40. A MA200 (R$ 32,30) e a R1 (R$ 32,90) formam a barreira imediata acima do preço.",
  "high52": 41.27,
- "volume": "28/10 até 11h27: 7,40 mi de ações (Yahoo Finance). 27/10 (fechamento): 21,34 mi de ações e R$ 687,1 mi negociados (Cota B3 / TradeMap; QuantBrasil cita R$ 679,25 mi). Média de 10 dias de 11,71 mi citada pela Toolz.",
+ "volume": "28/10 até 13h27: 10,09 mi de ações (Yahoo Finance). 27/10 (fechamento): 21,34 mi de ações e R$ 687,1 mi negociados (Cota B3 / TradeMap; QuantBrasil cita R$ 679,25 mi). Média de 10 dias de 11,71 mi citada pela Toolz.",
  "consensus": "Consenso ADVFN (16 analistas, última leitura de 20/10): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00); 13 compra, 3 neutro, 0 venda. JPMorgan (22/10): overweight, alvo R$ 44,50, Vibra segue preferida no setor. Itaú BBA (19/10): Outperform, alvo R$ 45. BTG: compra, alvo R$ 42 (potencial ~13,5% vs R$ 37,00).",
  "targets": [
   [
@@ -44,6 +44,12 @@
   ]
  ],
  "news": [
+  {
+   "titulo": "Estresse continua? Por que Ibovespa cai 3% hoje após terça mais tranquila no mercado",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-estresse-continua-por-que-indice-cai-forte-apos-terca-mais-tranquila-no-mercado-28102026/",
+   "publicado_em": "2026-10-28T12:14:00-03:00"
+  },
   {
    "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai 2%, perde 4 mil pontos e opera abaixo dos 172 mil",
    "fonte": "InfoMoney",
@@ -957,8 +963,8 @@
    "publicado_em": "2026-10-28"
   }
  ],
- "rec": "AGUARDAR • R$ 31,63 às 11h27, cerca de 2,2% abaixo da MA200 (R$ 32,33); confirmação só com fechamento acima de R$ 32,33 e rompimento da R1 de R$ 32,90; abaixo de R$ 30,40 (S1) o quadro piora",
- "reason": "PREGÃO DE QUARTA 28/10 (atualizado às 11h45 de Brasília): VBBR3 recua 1,71% a R$ 31,63 (Yahoo, 11h27), entre R$ 31,42 e R$ 32,18, acompanhando a queda do Ibovespa, que perde cerca de 2% e opera abaixo de 172 mil pts sob estresse pós eleição, com bancos pressionados e Santander em queda após o balanço (InfoMoney 11h31, Valor 10h37). Sem fato relevante novo da Vibra. O preço segue acima da S1 de R$ 30,40 e abaixo da MA200 (R$ 32,33). Decisão do Fed às 15h. PRÉ ABERTURA DE QUARTA 28/10 (atualizado às 09h50 de Brasília; o pregão à vista abre às 10h, sem cotação nova de VBBR3 até aqui): sem fato relevante novo da Vibra. Por volta das 9h, o Ibovespa futuro recuava cerca de 0,15% (178.200 pts, Valor Investe) e chegou a 177,4 mil pts (InfoMoney); o dólar abriu em alta de 0,16% a R$ 5,3586 (G1). Estrangeiros retiraram R$ 2,8 bi da B3 no dia seguinte à eleição (InfoMoney). Foco no Fed (decisão à tarde) e na montagem da equipe econômica do novo governo (Valor). Para VBBR3 vale a mesma referência: fechamento de R$ 32,18 cerca de 0,5% abaixo da MA200 (R$ 32,33), R1 em R$ 32,90 e S1 em R$ 30,40. 08h30: sem fato relevante novo da Vibra desde o fechamento. Futuros em Nova York mistos às 8h (Dow -0,24%, S&P 500 +0,14%, Nasdaq +0,46%) antes da decisão do Fed às 15h; o FedWatch da CME indica cerca de 92% de chance de manutenção dos juros (InfoMoney). No Brasil, a temporada de balanços segue (Santander Brasil com lucro de R$ 2,89 bi no 3T26, queda de 28%) e a CVM pediu esclarecimentos à Petrobras sobre fala da CEO a respeito da queda das ações (ADVFN, Reuters). O Ibovespa segue em sobrevenda técnica (IFR14 29,77, InfoMoney). Para VBBR3, a referência continua sendo a MA200 (R$ 32,33) e a R1 (R$ 32,90) acima, com S1 em R$ 30,40. VÉSPERA (27/10, 20h35): sem fato relevante novo da Vibra após o fechamento. Agenda do dia (Investing.com): decisão do Fed às 15h e coletiva às 15h30, estoques de petróleo dos EUA às 11h30 e fluxo cambial do BC às 14h30. O mercado segue à espera de sinais fiscais e da definição da equipe econômica (Reuters); BTG e Morgan Stanley veem espaço para mais pressão, enquanto o ministro Durigan disse ter medidas prontas (UOL, Reuters). FECHAMENTO 27/10 (atualizado às 17h55 de Brasília): VBBR3 fechou a R$ 32,18 (-0,09%, Yahoo Finance, último negócio às 17h05), entre R$ 31,50 e R$ 32,59, com 21,34 mi de ações. O papel passou o dia oscilando em torno da MA200 e terminou cerca de 0,5% abaixo dela (R$ 32,33, QuantBrasil 17h45), ainda abaixo da R1 de R$ 32,90. Indicadores seguem em sobrevenda (IFR14 29, abaixo da Bollinger inferior). O Ibovespa fechou em queda de 0,51% (175.710 pts) depois do tombo de 13,88% de segunda, e o dólar recuou para cerca de R$ 5,35 (G1, CNN Brasil, InfoMoney). Para a Vibra, a reeleição reduz a chance de rever a não renovação da licença da marca BR, que vence em junho de 2029 (Exame); não há fato relevante novo da companhia. Consenso ainda de compra (ADVFN, alvo médio R$ 41,68), com alvos anteriores à eleição. Fechamento acima da MA200 e da R1 seria sinal de recuperação; perda de R$ 30,40 reabre espaço para R$ 28,34. Balanço do 3T26 em 04/11.",
+ "rec": "AGUARDAR • R$ 31,28 às 13h27, cerca de 3,2% abaixo da MA200 (R$ 32,33); confirmação só com fechamento acima de R$ 32,33 e rompimento da R1 de R$ 32,90; abaixo de R$ 30,40 (S1) o quadro piora",
+ "reason": "PREGÃO DE QUARTA 28/10 (atualizado às 13h45 de Brasília): VBBR3 recua 2,80% a R$ 31,28 (Yahoo, 13h27), entre R$ 31,11 e R$ 32,18, acompanhando o Ibovespa, que cai 2,50% a 171.316 pts sob ajuste pós eleição, com bancos e cíclicas pressionados e decisão do Fed às 15h no radar (Yahoo 13h27, InfoMoney 12h14, Valor). Sem fato relevante novo da Vibra hoje; o último comunicado segue o de 15/10 sobre o plano de debranding com a Petrobras. O preço está cerca de 2,9% acima da S1 de R$ 30,40 e 3,2% abaixo da MA200 de R$ 32,33; o IFR(14) de 29 (QuantBrasil 27/10) indica sobrevenda, mas sem sinal de reversão.",
  "sources": [
   [
    "Renova Invest",
