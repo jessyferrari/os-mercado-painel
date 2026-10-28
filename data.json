@@ -1,5 +1,5 @@
 {
- "updated": "27/10/2026 20:35",
+ "updated": "28/10/2026 08:30",
  "price": 32.18,
  "price_label": "Fechamento de 27/10/2026 • R$ 32,18 (-0,09%) • Yahoo Finance, último negócio às 17h05 de Brasília • vs fechamento de 26/10 de R$ 32,21",
  "change_pct": -0.09,
@@ -907,10 +907,28 @@
    "fonte": "Finance News",
    "url": "https://financenews.com.br/2026/10/ibovespa-fecha-em-051-dolar-cai-a-r-535/",
    "publicado_em": "2026-10-27T17:37:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa hoje: índices futuros dos EUA mistos em dia de decisão do Fed; Santander Brasil lucra R$ 2,89 bi no 3T26 (-28%)",
+   "fonte": "InfoMoney (Reuters)",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28102026/",
+   "publicado_em": "2026-10-28T08:00:00-03:00"
+  },
+  {
+   "titulo": "Day Trade hoje (28): Ibovespa cai após tombo histórico; IFR14 em sobrevenda (29,77), suportes em 169.516/164.835 pts",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-28102026/",
+   "publicado_em": "2026-10-28T07:03:00-03:00"
+  },
+  {
+   "titulo": "Momento B3 de 28/10: CVM pede esclarecimentos à Petrobras após fala da CEO sobre queda das ações; Hypera e Movida divulgam 3T26",
+   "fonte": "ADVFN News",
+   "url": "http://br.advfn.com/jornal/2026/10/momento-b3-boa-safra-hypera-movida-petrobras-e-os-principais-destaques-desta-quarta-feira-28",
+   "publicado_em": "2026-10-28"
   }
  ],
  "rec": "AGUARDAR • R$ 32,18 no fechamento, logo abaixo da MA200 (R$ 32,33, cerca de -0,5%); confirmação só com fechamento acima de R$ 32,33 e rompimento da R1 de R$ 32,90; abaixo de R$ 30,40 (S1) o quadro piora",
- "reason": "PARA O PREGÃO DE QUARTA 28/10 (atualizado às 20h35 de Brasília): sem fato relevante novo da Vibra após o fechamento. Agenda do dia (Investing.com): decisão do Fed às 15h e coletiva às 15h30, estoques de petróleo dos EUA às 11h30 e fluxo cambial do BC às 14h30. O mercado segue à espera de sinais fiscais e da definição da equipe econômica (Reuters); BTG e Morgan Stanley veem espaço para mais pressão, enquanto o ministro Durigan disse ter medidas prontas (UOL, Reuters). FECHAMENTO 27/10 (atualizado às 17h55 de Brasília): VBBR3 fechou a R$ 32,18 (-0,09%, Yahoo Finance, último negócio às 17h05), entre R$ 31,50 e R$ 32,59, com 21,34 mi de ações. O papel passou o dia oscilando em torno da MA200 e terminou cerca de 0,5% abaixo dela (R$ 32,33, QuantBrasil 17h45), ainda abaixo da R1 de R$ 32,90. Indicadores seguem em sobrevenda (IFR14 29, abaixo da Bollinger inferior). O Ibovespa fechou em queda de 0,51% (175.710 pts) depois do tombo de 13,88% de segunda, e o dólar recuou para cerca de R$ 5,35 (G1, CNN Brasil, InfoMoney). Para a Vibra, a reeleição reduz a chance de rever a não renovação da licença da marca BR, que vence em junho de 2029 (Exame); não há fato relevante novo da companhia. Consenso ainda de compra (ADVFN, alvo médio R$ 41,68), com alvos anteriores à eleição. Fechamento acima da MA200 e da R1 seria sinal de recuperação; perda de R$ 30,40 reabre espaço para R$ 28,34. Balanço do 3T26 em 04/11.",
+ "reason": "PRÉ ABERTURA DE QUARTA 28/10 (atualizado às 08h30 de Brasília): sem fato relevante novo da Vibra desde o fechamento. Futuros em Nova York mistos às 8h (Dow -0,24%, S&P 500 +0,14%, Nasdaq +0,46%) antes da decisão do Fed às 15h; o FedWatch da CME indica cerca de 92% de chance de manutenção dos juros (InfoMoney). No Brasil, a temporada de balanços segue (Santander Brasil com lucro de R$ 2,89 bi no 3T26, queda de 28%) e a CVM pediu esclarecimentos à Petrobras sobre fala da CEO a respeito da queda das ações (ADVFN, Reuters). O Ibovespa segue em sobrevenda técnica (IFR14 29,77, InfoMoney). Para VBBR3, a referência continua sendo a MA200 (R$ 32,33) e a R1 (R$ 32,90) acima, com S1 em R$ 30,40. VÉSPERA (27/10, 20h35): sem fato relevante novo da Vibra após o fechamento. Agenda do dia (Investing.com): decisão do Fed às 15h e coletiva às 15h30, estoques de petróleo dos EUA às 11h30 e fluxo cambial do BC às 14h30. O mercado segue à espera de sinais fiscais e da definição da equipe econômica (Reuters); BTG e Morgan Stanley veem espaço para mais pressão, enquanto o ministro Durigan disse ter medidas prontas (UOL, Reuters). FECHAMENTO 27/10 (atualizado às 17h55 de Brasília): VBBR3 fechou a R$ 32,18 (-0,09%, Yahoo Finance, último negócio às 17h05), entre R$ 31,50 e R$ 32,59, com 21,34 mi de ações. O papel passou o dia oscilando em torno da MA200 e terminou cerca de 0,5% abaixo dela (R$ 32,33, QuantBrasil 17h45), ainda abaixo da R1 de R$ 32,90. Indicadores seguem em sobrevenda (IFR14 29, abaixo da Bollinger inferior). O Ibovespa fechou em queda de 0,51% (175.710 pts) depois do tombo de 13,88% de segunda, e o dólar recuou para cerca de R$ 5,35 (G1, CNN Brasil, InfoMoney). Para a Vibra, a reeleição reduz a chance de rever a não renovação da licença da marca BR, que vence em junho de 2029 (Exame); não há fato relevante novo da companhia. Consenso ainda de compra (ADVFN, alvo médio R$ 41,68), com alvos anteriores à eleição. Fechamento acima da MA200 e da R1 seria sinal de recuperação; perda de R$ 30,40 reabre espaço para R$ 28,34. Balanço do 3T26 em 04/11.",
  "sources": [
   [
    "Renova Invest",
