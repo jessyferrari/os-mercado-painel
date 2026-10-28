@@ -1,20 +1,20 @@
 {
- "updated": "28/10/2026 15:45",
- "price": 30.77,
- "price_label": "Pregão de 28/10/2026 (em andamento) • R$ 30,77 (-4,38%) • Yahoo Finance, último negócio às 15h31 de Brasília (pode ter atraso de até 15 min) • vs fechamento de 27/10 de R$ 32,18",
- "change_pct": -4.38,
- "alt_price": "Pregão de 28/10 até 15h31 (Yahoo Finance): máx. R$ 32,18, mín. R$ 30,46, 14,19 mi de ações. Ibovespa cai 2,75% a 170.883 pts às 15h31 (Yahoo); G1 citava queda de 2,49% às 14h15 e perda de 16,36% na semana. Fed manteve juros em 3,75% a 4,00% às 15h (Valor). Fechamento de 27/10: R$ 32,18 (-0,09%, Yahoo / Cota B3). CONFLITO mantido: a QuantBrasil (27/10 17h45) registrou R$ 32,29 (+2,28%) sobre base de R$ 31,57; o painel usa Yahoo.",
+ "updated": "28/10/2026 17:50",
+ "price": 30.66,
+ "price_label": "Fechamento de 28/10/2026 • R$ 30,66 (-4,72%) • Yahoo Finance, último negócio às 17h05 de Brasília • vs fechamento de 27/10 de R$ 32,18",
+ "change_pct": -4.72,
+ "alt_price": "Pregão de 28/10 (Yahoo Finance): máx. R$ 32,18, mín. R$ 30,46, 18,54 mi de ações. Ibovespa fechou em queda de 2,68% a 171.006 pts (Valor 17h26; Yahoo); dado preliminar da Reuters às 17h07 era -2,71% a 170.946 pts. Perdas de quase 17% na semana pós eleição (Valor). Fed manteve juros em 3,75% a 4,00% (Valor). Fechamento de 27/10: R$ 32,18 (-0,09%, Yahoo / Cota B3). CONFLITO mantido: a QuantBrasil (27/10 17h45) registrou R$ 32,29 (+2,28%) para 27/10.",
  "prev_close": 35.82,
  "prev_src": "Yahoo Finance / OpçõesBR, fechamento de 23/10/2026",
  "ma50": 36.62,
  "ma200": 32.33,
  "ma_src": "QuantBrasil (SMA diária, atualizado 27/10/2026 17h45)",
- "ma_alt": "QuantBrasil 27/10 17h45: SMA20 R$ 36,57 • SMA50 R$ 36,62 • SMA200 R$ 32,33 • IFR(14) 29 (sobrevendido) • IFR(2) 24 • Estocástico lento 9 • abaixo da Bollinger inferior (R$ 33,09) • ATR(14) R$ 1,48. Distância ao preço de R$ 30,77 (Yahoo, 15h31): MA50 cerca de -16,0% e MA200 cerca de -4,8%. O papel se afasta ainda mais da MA200, para baixo.",
+ "ma_alt": "QuantBrasil 27/10 17h45: SMA20 R$ 36,57 • SMA50 R$ 36,62 • SMA200 R$ 32,33 • IFR(14) 29 (sobrevendido) • IFR(2) 24 • Estocástico lento 9 • abaixo da Bollinger inferior (R$ 33,09) • ATR(14) R$ 1,48. Distância ao fechamento de R$ 30,66 (Yahoo, 28/10): MA50 cerca de -16,3% e MA200 cerca de -5,2%. Médias ainda não atualizadas com o pregão de 28/10.",
  "support": 30.4,
  "resistance": 32.9,
  "sr_src": "Toolz (pós-fechamento 26/10): R1 R$ 32,90 (forte) • R2 R$ 36,77 • R3 R$ 40,85 • S1 R$ 30,40 (fraco) • S2 R$ 28,34 (forte) • S3 R$ 24,40. A MA200 (R$ 32,30) e a R1 (R$ 32,90) formam a barreira imediata acima do preço.",
  "high52": 41.27,
- "volume": "28/10 até 15h31: 14,19 mi de ações (Yahoo Finance). 27/10 (fechamento): 21,34 mi de ações e R$ 687,1 mi negociados (Cota B3 / TradeMap; QuantBrasil cita R$ 679,25 mi). Média de 10 dias de 11,71 mi citada pela Toolz.",
+ "volume": "28/10 (fechamento): 18,54 mi de ações (Yahoo Finance). 27/10: 21,34 mi de ações e R$ 687,1 mi negociados (Cota B3 / TradeMap; QuantBrasil cita R$ 679,25 mi). Média de 10 dias de 11,71 mi citada pela Toolz.",
  "consensus": "Consenso ADVFN (16 analistas, última leitura de 20/10): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00); 13 compra, 3 neutro, 0 venda. JPMorgan (22/10): overweight, alvo R$ 44,50, Vibra segue preferida no setor. Itaú BBA (19/10): Outperform, alvo R$ 45. BTG: compra, alvo R$ 42 (potencial ~13,5% vs R$ 37,00).",
  "targets": [
   [
@@ -973,10 +973,28 @@
    "fonte": "Valor Investe",
    "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/10/28/bc-dos-eua-mantem-taxa-de-juros-em-4percent-ao-ano.ghtml",
    "publicado_em": "2026-10-28T15:00:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa cai pela 3ª sessão e perdas chegam a quase 17% após reeleição de Lula",
+   "fonte": "Valor Econômico",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/28/ibovespa-cai-pela-3a-sessao-e-perdas-chegam-a-quase-17percent-apos-reeleicao-de-lula.ghtml",
+   "publicado_em": "2026-10-28T17:26:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa fecha com queda forte em novo capítulo de ajustes pós-eleição",
+   "fonte": "Investing.com (Reuters)",
+   "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-com-queda-forte-em-novo-capitulo-de-ajustes-poseleicao-2106578",
+   "publicado_em": "2026-10-28T17:07:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa hoje: Vamos (VAMOS3) cai mais de 10%; veja maiores altas e baixas",
+   "fonte": "Estadão E-Investidor",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/vamos-recua-mais-10-e-lidera-perdas-do-ibovespa-hoje-veja-maiores-altas-e-baixas/",
+   "publicado_em": "2026-10-28T17:03:00-03:00"
   }
  ],
- "rec": "AGUARDAR • R$ 30,77 às 15h31, cerca de 4,8% abaixo da MA200 (R$ 32,33) e só 1,2% acima da S1 (R$ 30,40); perda de R$ 30,40 no fechamento abre espaço até a S2 de R$ 28,34; confirmação de melhora só com fechamento acima de R$ 32,33",
- "reason": "PREGÃO DE QUARTA 28/10 (atualizado às 15h45 de Brasília): VBBR3 aprofunda a queda e recua 4,38% a R$ 30,77 (Yahoo, 15h31), com mínima de R$ 30,46, bem perto da S1 de R$ 30,40 (Toolz). O Ibovespa cai 2,75% a 170.883 pts (Yahoo 15h31) sob estresse fiscal e político pós eleição. Às 15h o Fed manteve os juros em 3,75% a 4,00%, como esperado, com dois votos por alta (Valor, Valor Investe). Sem fato relevante novo da Vibra hoje; o último comunicado segue o de 15/10 sobre o plano de debranding com a Petrobras. O IFR(14) de 29 (QuantBrasil 27/10) indica sobrevenda, mas sem sinal de reversão.",
+ "rec": "AGUARDAR • fechou a R$ 30,66, cerca de 5,2% abaixo da MA200 (R$ 32,33) e só 0,9% acima da S1 (R$ 30,40), após mínima de R$ 30,46; perda de R$ 30,40 em fechamento abre espaço até a S2 de R$ 28,34; confirmação de melhora só com fechamento acima de R$ 32,33",
+ "reason": "FECHAMENTO DE QUARTA 28/10 (atualizado às 17h50 de Brasília): VBBR3 encerrou em queda de 4,72% a R$ 30,66 (Yahoo, último negócio 17h05), com mínima de R$ 30,46, colada na S1 de R$ 30,40 (Toolz), e 18,54 mi de ações negociadas. O Ibovespa caiu 2,68% a 171.006 pts, terceira queda seguida e quase 17% de perdas na semana, sob estresse fiscal e político pós eleição, rumores de nomeações no BC e TCU e queda em bloco dos bancos (Valor 17h26). O Fed manteve os juros em 3,75% a 4,00% com sinalização vista como dura (Estadão). Sem fato relevante específico da Vibra encontrado hoje. IFR(14) em 29 indica sobrevenda, mas a tendência curta segue negativa e o papel está abaixo das duas médias. Isso não é aconselhamento financeiro. A decisão e o risco são exclusivamente do investidor.",
  "sources": [
   [
    "Renova Invest",
