@@ -1,20 +1,20 @@
 {
- "updated": "29/10/2026 08:40",
+ "updated": "29/10/2026 09:45",
  "price": 30.66,
  "price_label": "Fechamento de 28/10/2026 • R$ 30,66 (-4,72%) • Yahoo Finance, último negócio às 17h05 de Brasília • vs fechamento de 27/10 de R$ 32,18",
  "change_pct": -4.72,
  "alt_price": "Pregão de 28/10 (Yahoo Finance): máx. R$ 32,18, mín. R$ 30,46, 18,54 mi de ações. Ibovespa fechou em queda de 2,68% a 171.006 pts (Valor 17h26; Yahoo); dado preliminar da Reuters às 17h07 era -2,71% a 170.946 pts. Perdas de quase 17% na semana pós eleição (Valor). Fed manteve juros em 3,75% a 4,00% (Valor). Fechamento de 27/10: R$ 32,18 (-0,09%, Yahoo / Cota B3). CONFLITO mantido: a QuantBrasil (27/10 17h45) registrou R$ 32,29 (+2,28%) para 27/10.",
  "prev_close": 35.82,
  "prev_src": "Yahoo Finance / OpçõesBR, fechamento de 23/10/2026",
- "ma50": 36.62,
- "ma200": 32.33,
- "ma_src": "QuantBrasil (SMA diária, atualizado 27/10/2026 17h45)",
- "ma_alt": "QuantBrasil 27/10 17h45: SMA20 R$ 36,57 • SMA50 R$ 36,62 • SMA200 R$ 32,33 • IFR(14) 29 (sobrevendido) • IFR(2) 24 • Estocástico lento 9 • abaixo da Bollinger inferior (R$ 33,09) • ATR(14) R$ 1,48. Distância ao fechamento de R$ 30,66 (Yahoo, 28/10): MA50 cerca de -16,3% e MA200 cerca de -5,2%. Médias ainda não atualizadas com o pregão de 28/10.",
+ "ma50": 36.56,
+ "ma200": 32.36,
+ "ma_src": "QuantBrasil (SMA diária, atualizado 28/10/2026 19h00)",
+ "ma_alt": "QuantBrasil 28/10 19h00: SMA20 R$ 36,22 • SMA50 R$ 36,56 • SMA200 R$ 32,36 • IFR(14) 25 (sobrevendido) • IFR(2) 12 • Estocástico lento 9 • abaixo da Bollinger inferior (R$ 31,92) • ATR(14) R$ 1,51. Distância ao fechamento de R$ 30,66 (Yahoo / Cota B3, 28/10): MA50 cerca de -16,1% e MA200 cerca de -5,3%. CONFLITO: a QuantBrasil registra fechamento de R$ 30,70 (-5,01%, anterior R$ 32,32) para 28/10; Yahoo, Cota B3 e TradeMap informam R$ 30,66 (-4,72%).",
  "support": 30.4,
  "resistance": 32.9,
  "sr_src": "Toolz (pós-fechamento 26/10): R1 R$ 32,90 (forte) • R2 R$ 36,77 • R3 R$ 40,85 • S1 R$ 30,40 (fraco) • S2 R$ 28,34 (forte) • S3 R$ 24,40. A MA200 (R$ 32,30) e a R1 (R$ 32,90) formam a barreira imediata acima do preço.",
  "high52": 41.27,
- "volume": "28/10 (fechamento): 18,54 mi de ações (Yahoo Finance). 27/10: 21,34 mi de ações e R$ 687,1 mi negociados (Cota B3 / TradeMap; QuantBrasil cita R$ 679,25 mi). Média de 10 dias de 11,71 mi citada pela Toolz.",
+ "volume": "28/10 (fechamento): 18,55 mi de ações e R$ 578,78 mi negociados, 38.928 negócios (Cota B3 / CapitalAgora / TradeMap; Yahoo cita 18,54 mi de ações). Volume médio de 30 pregões R$ 538,82 mi (CapitalAgora). 27/10: 21,34 mi de ações e R$ 687,1 mi negociados (Cota B3 / TradeMap).",
  "consensus": "Consenso ADVFN (16 analistas, última leitura de 20/10): Superar o Mercado • alvo médio R$ 41,68 (faixa R$ 27,00•48,00); 13 compra, 3 neutro, 0 venda. JPMorgan (22/10): overweight, alvo R$ 44,50, Vibra segue preferida no setor. Itaú BBA (19/10): Outperform, alvo R$ 45. BTG: compra, alvo R$ 42 (potencial ~13,5% vs R$ 37,00). XP (28/10): Compra, alvo R$ 44 para fim de 2027 (antes R$ 39 para fim de 2026), prevê margem Ebitda de R$ 371/m³ no 3T26 (vs R$ 456/m³ no 2T26).",
  "targets": [
   [
@@ -1026,10 +1026,28 @@
    "fonte": "XP Investimentos",
    "url": "https://conteudos.xpi.com.br/acoes/relatorios/distribuicao-de-combustiveis-previa-do-3t26-a-musica-continua-tocando-elevamos-precos-alvo/",
    "publicado_em": "2026-10-28T07:57:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa e dólar hoje: moeda avança no aguardo de indicações sobre política econômica de Lula",
+   "fonte": "Valor Investe",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/29/ibovespa-e-dolar-hoje-29-de-outubro-de-2026.ghtml",
+   "publicado_em": "2026-10-29T09:04:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa Futuro opera perto da estabilidade em meio à cautela com ativos de risco",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-opera-perto-da-estabilidade-em-meio-a-cautela-com-ativos-de-risco/",
+   "publicado_em": "2026-10-29T09:11:00-03:00"
+  },
+  {
+   "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
+   "fonte": "InfoMoney",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29102026/",
+   "publicado_em": "2026-10-29T09:03:00-03:00"
   }
  ],
- "rec": "AGUARDAR • fechou a R$ 30,66, cerca de 5,2% abaixo da MA200 (R$ 32,33) e só 0,9% acima da S1 (R$ 30,40), após mínima de R$ 30,46; perda de R$ 30,40 em fechamento abre espaço até a S2 de R$ 28,34; confirmação de melhora só com fechamento acima de R$ 32,33",
- "reason": "PRÉ ABERTURA DE QUINTA 29/10 (atualizado às 08h40 de Brasília): o último dado de preço segue o fechamento de 28/10, R$ 30,66 (-4,72%, Yahoo), colado na S1 de R$ 30,40 (Toolz). Ibovespa fechou ontem em 171.006 pts (-2,68%) e dólar a R$ 5,34 (InfoMoney 7h48); IFR(14) do índice em 27, sobrevenda, mas sem sinal de reversão (InfoMoney 07h03). EWZ recuava 0,45% no pré mercado (Money Times). Agenda do dia: resultado primário do Governo Central, balanços de Ambev (antes da abertura) e Vale (após o fechamento), PIB e PCE dos EUA (Money Times). Setor: governo prorrogou por 30 dias a subvenção de R$ 2,12/l ao diesel e Goldman vê preços da Petrobras às distribuidoras estáveis até o fim do ano (InfoMoney 28/10 13h46); Confaz aprovou alta do ICMS sobre combustíveis a partir de fev/2027, diesel +11,1% (O Globo 29/10). XP manteve Compra em Vibra com alvo de R$ 44 (28/10). Balanço do 3T26 da Vibra sai em 04/11 após o fechamento, webcast em 05/11 às 10h (RI Vibra). Sem fato relevante da Vibra encontrado nesta manhã. Isso não é aconselhamento financeiro. A decisão e o risco são exclusivamente do investidor.",
+ "rec": "AGUARDAR • fechou a R$ 30,66, cerca de 5,3% abaixo da MA200 (R$ 32,36) e só 0,9% acima da S1 (R$ 30,40), após mínima de R$ 30,46; perda de R$ 30,40 em fechamento abre espaço até a S2 de R$ 28,34; confirmação de melhora só com fechamento acima de R$ 32,36",
+ "reason": "PRÉ ABERTURA DE QUINTA 29/10 (atualizado às 09h45 de Brasília; pregão abre às 10h): o último preço segue o fechamento de 28/10, R$ 30,66 (-4,72%, Yahoo / Cota B3), colado na S1 de R$ 30,40 (Toolz). Médias da QuantBrasil já incluem o pregão de 28/10: MA50 R$ 36,56 e MA200 R$ 32,36, IFR(14) em 25 (sobrevendido). Ibovespa futuro abriu estável às 9h a 173.200 pts (+0,01%) e dólar comercial abriu em alta de 0,49% a R$ 5,37 (Valor Investe 9h04); às 9h08 o futuro subia 0,01% a 173.320 pts (InfoMoney 9h11). Mercado aguarda nomes para a Fazenda; IGP-M de outubro subiu 1,47% (FGV, via InfoMoney). Ambev lucrou R$ 4,37 bi no 3T26; Vale divulga após o fechamento; ADRs da Petrobras recuaram no after após dados de produção do 3T26 (InfoMoney). Setor: subvenção ao diesel prorrogada por 30 dias (InfoMoney 28/10) e alta do ICMS sobre combustíveis a partir de fev/2027 (O Globo 29/10). Balanço do 3T26 da Vibra sai em 04/11 após o fechamento (RI Vibra). Sem fato relevante da Vibra encontrado nesta manhã. Isso não é aconselhamento financeiro. A decisão e o risco são exclusivamente do investidor.",
  "sources": [
   [
    "Renova Invest",
